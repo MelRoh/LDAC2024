@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "coal": "_:bc_0_n3-37", "year": 1895, "CoalName": "\"Fett-, Mager- und Esskohlen\"", "CoalWeight": 219950, "coke": "_:bc_0_n3-38", "CokeMaterialName": "\"Hochofen- und Gießereikoks\"", "CokeWeight": "\"82300\"", "materialinst": "<http://linkedbuildingdata.net/mine/MaterialSet_01>", "raw": "_:bc_0_n3-36", "RawMaterialName": "\"Steinkohle\"", "RawMaterialWeight": "\"0\"", "Year": "<https://w3id.org/cmo#1895>", "Zeche": "<http://linkedbuildingdata.net/mine/Maria-AnnaUndSteinbank>" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 7.151466, 51.447928 ], [ 7.156588, 51.456377 ], [ 7.161907, 51.456483 ], [ 7.151466, 51.447928 ] ] ] ] } },
+{ "type": "Feature", "properties": { "coal": "_:bc_0_n3-40", "year": 1990, "CoalName": "\"Fett-, Mager- und Esskohlen\"", "CoalWeight": 228576, "coke": "_:bc_0_n3-41", "CokeMaterialName": "\"Hochofen- und Gießereikoks\"", "CokeWeight": "\"69142\"", "materialinst": "<http://linkedbuildingdata.net/mine/MaterialSet_02>", "raw": "_:bc_0_n3-39", "RawMaterialName": "\"Steinkohle\"", "RawMaterialWeight": "\"0\"", "Year": "<https://w3id.org/cmo#1990>", "Zeche": "<http://linkedbuildingdata.net/mine/Maria-AnnaUndSteinbank>" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 7.151466, 51.447928 ], [ 7.156588, 51.456377 ], [ 7.161907, 51.456483 ], [ 7.151466, 51.447928 ] ] ] ] } }
+]
+}

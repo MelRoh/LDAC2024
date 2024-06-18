@@ -1,0 +1,80 @@
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Luftschacht_auf_Flöz_Sonnenschein_Utbk.> a ex:Schacht ;
+    ex:name "Vereinigte Maria Anna & Steinbank Luftschacht auf Flöz Sonnenschein Utbk." ;
+    geo:hasGeometry <http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Luftschacht_auf_Flöz_Sonnenschein_Utbk.Geom> .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_1> a ex:Schacht ;
+    ex:name "Vereinigte Maria Anna & Steinbank Schacht 1" ;
+    geo:hasGeometry <http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_1Geom> .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_2> a ex:Schacht ;
+    ex:name "Vereinigte Maria Anna & Steinbank Schacht 2" ;
+    geo:hasGeometry <http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_2Geom> .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_3> a ex:Schacht ;
+    ex:name "Vereinigte Maria Anna & Steinbank Schacht 3" ;
+    geo:hasGeometry <http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_3Geom> .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_4> a ex:Schacht ;
+    ex:name "Vereinigte Maria Anna & Steinbank Schacht 4" ;
+    geo:hasGeometry <http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_4Geom> .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_1Geom> a geo:Geometry ;
+    geo:asWKT "POINT(7.151466 51.447928)"^^geo:wktLiteral .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_2Geom> a geo:Geometry ;
+    geo:asWKT "POINT(7.156588 51.456377)"^^geo:wktLiteral .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_3Geom> a geo:Geometry ;
+    geo:asWKT "POINT(7.161907 51.456483)"^^geo:wktLiteral .
+
+<http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_4Geom> a geo:Geometry ;
+    geo:asWKT "POINT(7.157939 51.46166)"^^geo:wktLiteral .
+
+
+
+
+
+ex:Engelsburg_Maschinenschacht_1 a ex:Schacht ;
+    ex:name "Engelsburg Maschinenschacht 1" ;
+    geo:hasGeometry ex:Engelsburg_Maschinenschacht_1Geom .
+
+ex:Engelsburg_Maschinenschacht_2 a ex:Schacht ;
+    ex:name "Engelsburg Maschinenschacht 2" ;
+    geo:hasGeometry ex:Engelsburg_Maschinenschacht_2Geom .
+
+ex:Engelsburg_Schacht_1 a ex:Schacht ;
+    ex:name "Engelsburg Schacht 1" ;
+    geo:hasGeometry ex:Engelsburg_Schacht_1Geom .
+
+ex:Engelsburg_Schacht_2 a ex:Schacht ;
+    ex:name "Engelsburg Schacht 2" ;
+    geo:hasGeometry ex:Engelsburg_Schacht_2Geom .
+
+ex:Engelsburg_Schacht_3 a ex:Schacht ;
+    ex:name "Engelsburg Schacht 3" ;
+    geo:hasGeometry ex:Engelsburg_Schacht_3Geom .
+
+ex:Engelsburg_Schacht_Hector a ex:Schacht ;
+    ex:name "Engelsburg Schacht Hector" ;
+    geo:hasGeometry ex:Engelsburg_Schacht_HectorGeom .
+
+
+
+
+ex:Engelsburg_Maschinenschacht_1Geom a geo:Geometry ;
+    geo:asWKT "POINT(7.169725 51.459243)"^^geo:wktLiteral .
+
+ex:Engelsburg_Maschinenschacht_2Geom a geo:Geometry ;
+    geo:asWKT "POINT(7.169574 51.459174)"^^geo:wktLiteral .
+
+ex:Engelsburg_Schacht_1Geom a geo:Geometry ;
+    geo:asWKT "POINT(7.183594 51.472161)"^^geo:wktLiteral .
+
+ex:Engelsburg_Schacht_2Geom a geo:Geometry ;
+    geo:asWKT "POINT(7.183242 51.47275)"^^geo:wktLiteral .
+
+ex:Engelsburg_Schacht_3Geom a geo:Geometry ;
+    geo:asWKT "POINT(7.165653 51.451998)"^^geo:wktLiteral .
+
+ex:Engelsburg_Schacht_HectorGeom a geo:Geometry ;
+    geo:asWKT "POINT(7.16811 51.460201)"^^geo:wktLiteral .

@@ -1,0 +1,3088 @@
+@prefix ex: <http://example.org/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix schema1: <http://schema.org/> .
+
+<http://example.org/mine/0> a ex:Mine ;
+    ex:info "beeinflusst durch Betriebsstörungen, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Alstaden" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Alstaden (Rheinland)" .
+
+<http://example.org/mine/1> a ex:Mine ;
+    ex:info "Die Zeche ist im März 1897 von Hugo Stinnes angekauft, Eigentum des Mülheimer Bergwerks-Vereins, Eigentum des Mülheimer Bergwerks-Vereins, s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Verein; s. unter Mülheim" ;
+    ex:name "Zeche ver. Hagenbeck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Altendorf" .
+
+<http://example.org/mine/10> a ex:Mine ;
+    ex:info "Der Gesellschaft gehört auch die Zeche Bruchstraße bei Langendreer" ;
+    ex:name "Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/100> a ex:Mine ;
+    ex:info "Eigentum der Fentscher Hütten-AG, Zeche ist in den Besitz der Fentsher Hütten-AG Antwerpen übergegangen, Die Zeche ist in den Besitz der Fentscher Hütten-AG, Antwerpen, übergegangen, Die Zeche ist im Besitz der Fentscher Hütten-AG, Brüssel, im Besitz der Fentscher Hütten-AG in Brüssel, Die Zeche ist im besitz der Fentscher-Hütten-AG, Brüssel, im Besitz der Fentscher Hütten-AG, Brüssel" ;
+    ex:name "Gewerkschaft der Zeche Crone" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hörde" .
+
+<http://example.org/mine/101> a ex:Mine ;
+    ex:info "Zeche gehört nur noch bis 01.10.1904 zum Syndikat" ;
+    ex:name "Gewerkschaft des Eisenstein- und Steinkohlenbergwerks Freie Vogel und Unverhofft" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hörde" .
+
+<http://example.org/mine/102> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Hörder Bergwerks- und Hüttenverein" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hörde" .
+
+<http://example.org/mine/103> a ex:Mine ;
+    ex:info "Eigentum des Geh. Kommerzienrats Fr. Alfres Krupp in Essen (gemeint ist wohl Hr.), Eigentum des Geh. Kommerzienrats Alfred Krupp in Essen, Eigentum der Firma Fried. Krupp, Eigentum der Firma Friedr. Krupp, Eigentum der Firma Fried. Krupp in Essen, Krupp'sche Verwaltung der Zechen Hannover und Hannibal; s. unter Hordel, Krupp'sche Verwaltung, Kruppsche Verwaltung der Zechen Hannover und Hannibal " ;
+    ex:name "Zeche Hannover" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hordel bei Bochum" .
+
+<http://example.org/mine/104> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlenbergwerk Nordstern" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Horst (Emscher)" .
+
+<http://example.org/mine/105> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft in Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Hansa" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Huckarde" .
+
+<http://example.org/mine/106> a ex:Mine ;
+    ex:info "Der größte Teil der Actien ist im Besitz der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Bergwerks-Gesellschaft Hugo" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hugo (Westfalen)" .
+
+<http://example.org/mine/107> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft in Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Zollern" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kirchlinde" .
+
+<http://example.org/mine/108> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Magdeburger Bergwerks-Actien-Gesellschaft" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Königsgrube (Westfalen)" .
+
+<http://example.org/mine/109> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerks-Gesellschaft ver. Bonifacius bei Gelsenkirchen (Actien-Gesellschaft)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kray (Bez. Düsseldorf)" .
+
+<http://example.org/mine/11> a ex:Mine ;
+    ex:info "Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahlindustrie in Dortmund, Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, Aktien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie; s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, A für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, Aktiengesellschaft für Bergbau, Eisen- und Stahlindustrie, Dortmund" ;
+    ex:name "Zeche Glückauf Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/110> a ex:Mine ;
+    ex:info "Betrieb ist seit Juli 1902 eingestellt." ;
+    ex:name "Zeche Prinz Friedrich" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/111> a ex:Mine ;
+    ex:info "Die Zeche stellte den Kohlenversand am 01.02.1895 ein und fördert nur die für den Selbstverbrauch erforderliche Menge" ;
+    ex:name "Zeche Prinz Wilhelm" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/112> a ex:Mine ;
+    ex:info "Die Zeche Paunline ist zu 1900 in den Besitz übergegangen" ;
+    ex:name "Actien-Gesellschaft Rheinische Anthracit-Kohlenwerke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/113> a ex:Mine ;
+    ex:info "Förderung ist durch Flötzstörungen zurückgegangen, 1904 wurde der Verkauf des gesamten Bergwerkseigentums an die Gew. Hercules auf der Gewerkenversammlung beschlossen" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Richradt" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/114> a ex:Mine ;
+    ex:info "Der Gewerkschaft gehört die Zeche Prinz Wilhelm (gegenwärtig außer Betrieb), Eigentum von Concordia, Bergbau-AG; s. unter Oberhausen, seit Dezember 1902 stillgelegt; Eigentum von Concordia, Bergbau-AG" ;
+    ex:name "Gewerkschaft Steingatt" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/115> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Victoria" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/116> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Heinrich Gustav" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/117> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Amalia" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/118> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Prinz von Preussen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/119> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Caroline" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/12> a ex:Mine ;
+    ex:info "Die Zeche ist seit Ende 1899 im Besitze der Banque Internationale de Bruxelles Sociétße anonyme, Die Zeche ist seit Ende 1899 im Besitz der Banque Internationale der Bruxelles Société, anonyme, Die Zeche ist seit Ende 1899 im Besitz der Banque Internationale de Bruxelles Société anonyme, Brüssel, Die Zeche ist seit Ende 1899 im Besitze der Banque Internationale de Bruselles Société anonyme, Brüssel" ;
+    ex:name "Gewerkschaft Kaiser Friedrich" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/120> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Vollmond" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/121> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau , Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Lousie Tiefbau, Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau, Eigentum der Harpener Bergbau-AG, Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau, Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau; s. unter Barop" ;
+    ex:name "Zeche Bruchstrasse" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/122> a ex:Mine ;
+    ex:info "Eigentum der Verwaltung der Mansfeld'schen Steinkohlenzechen und Koksanstalten in Bochum" ;
+    ex:name "Zechen Colonia und Urbanus" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/123> a ex:Mine ;
+    ex:info "Die Zeche ist durch Kauf in den Besitz der Harpener Bergbau-AG übergegangen" ;
+    ex:name "Gewerkschaft des Steinkohlen- und Eisensteinbergwerks Siebenplaneten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/124> a ex:Mine ;
+    ex:info "Eigentum der Gew. Der Steinkohlenzeche Friedlicher Nachbar" ;
+    ex:name "Steinkohlenzeche Baaker Mulde" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Linden (Westfalen)" .
+
+<http://example.org/mine/125> a ex:Mine ;
+    ex:info "Die Angaben beziehen sich auf Friedlicher Nachbar einschließlich der Zeche Baaker Mulde bei Linden" ;
+    ex:name "Gewerkschaft Friedlicher Nachbar" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Linden (Westfalen)" .
+
+<http://example.org/mine/126> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Gottessegen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Löttringhausen (Westfalen)" .
+
+<http://example.org/mine/127> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Preussen I und II" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Lünen a.d. Lippe" .
+
+<http://example.org/mine/128> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft" ;
+    ex:name "Zeche Neu-Iserlohn" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Lütgendortmund" .
+
+<http://example.org/mine/129> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche Borussia" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Marten" .
+
+<http://example.org/mine/13> a ex:Mine ;
+    ex:info "Stinnes'sche Zechen, Eigentum der Stinnes'schen Zechen, s. unter Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Carolus Magnus" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bergeborbeck" .
+
+<http://example.org/mine/130> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft in Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche ver. Germania (Schacht Germania I und II" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Marten" .
+
+<http://example.org/mine/131> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergbau-Actien-Gesellschaft Massen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Massen (Westfalen)" .
+
+<http://example.org/mine/132> a ex:Mine ;
+    ex:info "Eigentum der Phönix, Actien-Gesellschaft für Bergbau und Hüttenbetrieb, Eigentum von Phönix, AG für Bergbau und Hüttenbetrieb, Eigentum von Phönix, AG für Be4rgbau und Hüttenbetrieb" ;
+    ex:name "Meidericher Steinkohlenbergwerke (Zeche Westende)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Meiderich (bei Ruhrort)" .
+
+<http://example.org/mine/133> a ex:Mine ;
+    ex:info "Während der Drucklegung ist die Zeche in den Besitz der Union übergegangen; die Gew. Hat sich aufgelöst" ;
+    ex:name "Mengeder Bergwerks-Actien-Gesellschaft (Zeche Adolf von Hansemann)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mengede" .
+
+<http://example.org/mine/134> a ex:Mine ;
+    ex:info "Die Kuxe der Gew. Sind im Besitz der AG Bochumer Koks- und Kohlenwerke zu Wiemelhausen bei Bochum; s. unter Bochm, Gew. Zeche Berneck, Die Kuxe der Gew. sind im Besitz der AG Bochumer Koks- und Kohlenwerke zu Wiemelhausen bei Bochum" ;
+    ex:name "Gewerkschaft Glückswinkelburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mittelstiepel (Ruhr)" .
+
+<http://example.org/mine/135> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft ver. Pfingstblume" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mittelstiepel (Ruhr)" .
+
+<http://example.org/mine/136> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenvergwerks Humboldt" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/137> a ex:Mine ;
+    ex:info "Eigentum der Firma Gebr. Kannengiesser in Mülheim a.d. Ruhr, Eigentum der Bergbau- und Schiffahrts-Actien-Gesellschaft vorm. Gebr. Kannengiesser, Ruhrort, Eigentum der Bergbau- und Schifffahrts-Actien-Gesellschaft vormals. Gebr. Kannengiesser, Ruhrort, Eigentum der Bergbau- und Schiffahrts-Actien-Gesellschaft vormals Gebr. Kannengiesser, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Ruhrort; s. unter Ruhrort, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengießer, Eigentum der Bergbau- und Schiffahrts-AG Kannengießer; s. unter Mülheim, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche ver. Sellerbeck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/138> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Wiesche" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/139> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Deutscher Kaiser" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Neumühl-Hamborn" .
+
+<http://example.org/mine/14> a ex:Mine ;
+    ex:info "Besitzt die Zeche Wolfsbank, Zeche Neucöln und die Zeche Christian Levin, Ringofenziegelei" ;
+    ex:name "Essener Bergwerks-Verein König Wilhelm" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bergeborbeck" .
+
+<http://example.org/mine/140> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft in Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche ver. Minister Stein und Hardenberg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Nieder-Eving" .
+
+<http://example.org/mine/141> a ex:Mine ;
+    ex:info "Die Gesellschaft hat die Zeche Steingatt angekauft und den Betrieb vom 01.12.1902 ab eingestellt" ;
+    ex:name "Concordia, Bergbau-Actien-Gesellschaft" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Oberhausen (Rheinland)" .
+
+<http://example.org/mine/142> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb , Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau- und Hüttenbetrieb, Eigentum der Gutehoffnungshütte AG für Bergbau- und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; Aktienverein für Bergbau und Hüttenbetrieb; s. unter Oberhausen" ;
+    ex:name "Zeche Oberhausen und Zeche Osterfeld bei Oberhausen (Rheinland) bezw. Osterfeld" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Oberhausen (Rheinland)" .
+
+<http://example.org/mine/143> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb , Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau- und Hüttenbetrieb, Eigentum der Gutehoffnungshütte AG für Bergbau- und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; Aktienverein für Bergbau und Hüttenbetrieb; s. unter Oberhausen" ;
+    ex:name "Zeche Ludwig bei Rellinghausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Oberhausen (Rheinland)" .
+
+<http://example.org/mine/144> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb, Die Kuxe dieser Zeche befinden sich fast ausschließlich im Besitz der Bergbau- und Schiffahrts-Actien-Gesellschaft vorm. Gebr. Kannengiesser, durch welche die Zeche auch verwaltet wird, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Ruhrort; s. unter Ruhrort, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengießer, Eigentum der Bergbau- und Schiffahrts-AG Kannengießer; s. unter Mülheim, Eigentum der Gutehoffnungshütte; Aktienverein für Bergbau und Hüttenbetrieb; s. unter Oberhausen" ;
+    ex:name "Zeche Roland" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Oberhausen (Rheinland)" .
+
+<http://example.org/mine/145> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Gewerkschaft General Blumenthal" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/146> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Schlägel und Eisen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/147> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau- und Hüttenbetrieb, Eigentum der Gutehoffnungshütte AG für Bergbau- und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; Aktienverein für Bergbau und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte, AG für Bergbau- und Hüttenbetrieb; s. unter Oberhausen" ;
+    ex:name "Zeche Ludwig" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Rellinghausen" .
+
+<http://example.org/mine/148> a ex:Mine ;
+    ex:info "Die im Bau begriffene Anlage der Gew. Schnabel ins Osten (Beteiligungen befinden sich zum größten Teile im Besitz von Langenbrahm) kommt voraussichtlich im Oktober in Betrieb" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Langenbrahm" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Rüttenscheid" .
+
+<http://example.org/mine/149> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerks-Actien-Gesellschaft Consolidation" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Schalke (Westfalen)" .
+
+<http://example.org/mine/15> a ex:Mine ;
+    ex:info "Ringofenziegelei" ;
+    ex:name "Gewerkschaft Helene und Amalie" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bergeborbeck" .
+
+<http://example.org/mine/150> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche Graf Bismarck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Schalke (Westfalen)" .
+
+<http://example.org/mine/151> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche Wilhelmine Victoria" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Schalke (Westfalen)" .
+
+<http://example.org/mine/152> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Herzkämper Mulde" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Schee bei Herzkamp" .
+
+<http://example.org/mine/153> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Trappe" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Silschede" .
+
+<http://example.org/mine/154> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Alte Haase" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Sprockhövel" .
+
+<http://example.org/mine/155> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft ver. Hammerthal" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Sprockhövel" .
+
+<http://example.org/mine/156> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Hoffnungsthal" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Sprockhövel" .
+
+<http://example.org/mine/157> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche Eintracht Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Steele a.d. Ruhr" .
+
+<http://example.org/mine/158> a ex:Mine ;
+    ex:info "Die Zeche ist in den Besitz der Gew. Ewald in Herten übergegangen, Eigentum der Gew. Ewald in Herten" ;
+    ex:name "Gewerkschaft der Zeche Eiberg (früher Jakob)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Steele a.d. Ruhr" .
+
+<http://example.org/mine/159> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Johann Deimelsberg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Steele a.d. Ruhr" .
+
+<http://example.org/mine/16> a ex:Mine ;
+    ex:info "Die AG Bochumer Koks- und Kohlenwerke zu Wiemelhausen besitzt fast sämtliche Kuxe dieser Zeche, Die Kuxe der Gew. Sidn bis auf wenige im Besitz der AG Bochumer Koks- und Kohlenwerke zu Wiemelhausen bei Bochum, Die Kuxe der Gew. sind bis auf wenige im Besitz der AG Bochumer Koks- und Kohlenwerke zu Wiemelhausen bei Bochum, Die Kuxe der Gew. Sind bis auf ein Stück im Besitz der Bochumer Koks- und Kohlenwerke, welche durch Kauf in den Besitz der Gew. Constantin der Große übergegangen sind" ;
+    ex:name "Gewerkschaft Berneck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/160> a ex:Mine ;
+    ex:info "Stinnes'sche Zechen, s. unter Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Friedrich Ernestine" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Stoppenberg" .
+
+<http://example.org/mine/161> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Charlotte" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Ueberruhr" .
+
+<http://example.org/mine/162> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche Heinrich" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Ueberruhr" .
+
+<http://example.org/mine/163> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Königsborn" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Unna-Königsborn" .
+
+<http://example.org/mine/164> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Unser Fritz" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Unser Fritz (Westfalen)" .
+
+<http://example.org/mine/165> a ex:Mine ;
+    ex:info "Die Zeche ist in den Besitz des Schalker Gruben- und Hüttenvereins in Gelsenkirchen übergegangen" ;
+    ex:name "Bergbau-Actien-Gesellschaft Pluto" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wanne" .
+
+<http://example.org/mine/166> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, s. unter Herne, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Shamrock III und IV" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wanne" .
+
+<http://example.org/mine/167> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Bergwerks Centrum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/168> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Fröhliche Morgensonne" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/169> a ex:Mine ;
+    ex:info "Eigentum der Actien-Gesellschaft Steinkohlenbergwerk Nordstern, Eigentum der AG Steinkohlen-Bergwerk Nordstern, Eigentum der AG Steinkohlen-Bergwerk Nordstern, s. unter Wattenscheid, Eigentum der AG Steinkohlen-Bergwerk Nordstern; s. unter Wattenscheid, Eigentum der AG Steinkohlenbergwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Bergbau-Gesellschaft Holland" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/17> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bochumer Bergwerks-Actiengesellschaft (Zeche ver. Präsident)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/170> a ex:Mine ;
+    ex:info "Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahlindustrie in Dortmund, Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, Actien-Gesellschaft für Bergbau Eisen- und Stahl-Industrie, Eigentum der Union, Aktien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie; s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, A für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, Aktiengesellschaft für Bergbau, Eisen- und Stahlindustrie, Dortmund; s. unter Dortmund" ;
+    ex:name "Zeche Carl Friedrich Erbstollen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Weitmar (Kr. Bochum)" .
+
+<http://example.org/mine/171> a ex:Mine ;
+    ex:info "Eigentum der Dortmunder Bergbau-Gesellschaft , Eigentum der Dortmunder Bergbau-Gesellschaft, Eigentum der Gewerkschaft General" ;
+    ex:name "Steinkohlenzeche ver. General und Erbstollen bei Weitmar" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Weitmar (Kr. Bochum)" .
+
+<http://example.org/mine/172> a ex:Mine ;
+    ex:info "Eigentum der Dortmunder Bergbau-Gesellschaft , Eigentum der Dortmunder Bergbau-Gesellschaft" ;
+    ex:name "Zeche Helene Nachtigall" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Weitmar (Kr. Bochum)" .
+
+<http://example.org/mine/173> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Gewerkschaft Paul" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Werden (Ruhr)" .
+
+<http://example.org/mine/174> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Pörtingssiepen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Werden (Ruhr)" .
+
+<http://example.org/mine/175> a ex:Mine ;
+    ex:info "\"Die Förderung hat unter dem Streik sehr gelitten und die Zeche konnte bei Wiederaufnahme der Arbeit nur die Hälfte der Arbeiter wieder einstellen.\"" ;
+    ex:name "Gewerkschaft Bergmann" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/176> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche ver. Franziska Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/177> a ex:Mine ;
+    ex:info "Eigentum der Bergbau-Gesellschaft Weitmar bei Bochum" ;
+    ex:name "Zeche Nachtigall" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/178> a ex:Mine ;
+    ex:info "Der Betrieb ruht" ;
+    ex:name "Gewerkschaft Schöne Aussicht" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/179> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Wallfisch" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/18> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau und Gusstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation , Eigentum des Bochumer Verien für Bergbau und Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau nd Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation; s. unter Bochum" ;
+    ex:name "Zeche Hasenwinkel bei Dahlhausen (a.d. Ruhr)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/180> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Actien-Gesellschaft Neu-Essen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Altenessen" .
+
+<http://example.org/mine/181> a ex:Mine ;
+    ex:info "Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau , Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Lousie Tiefbau, Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau, Eigentum der Aktiengesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau, Barop; Obige Gesellschaft esitzt fast sämtliche Kuxe der Zeche ver. Wiendahlsbank in Annen, Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau; s. unter Barop" ;
+    ex:name "Zeche Bruchstrasse bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/182> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche ver. Carolinenglück" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/183> a ex:Mine ;
+    ex:info "Eigentum der Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft, Abt. Bochum; s. unter Bochum, Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum, Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft - Abteilung Bochum" ;
+    ex:name "Aktiengesellschaft Zeche Dannenbaum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/184> a ex:Mine ;
+    ex:info "Thyssen & Cie." ;
+    ex:name "Gewerkschaft Deutscher Kaiser" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bruckhausen" .
+
+<http://example.org/mine/185> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation, Eigentum des Bochumer Vereins für Bergbau und Gusstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation , Eigentum des Bochumer Verein für Bergbau nd Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation; s. unter Bochum, Eigentum der Zeche Friedlicher Nachbar; s. unter Linden, Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum" ;
+    ex:name "Zeche Hasenwinkel" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dahlhausen a.d. Ruhr" .
+
+<http://example.org/mine/186> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Wilhelmine Viktoria" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/187> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche Deutschland" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hasslinghausen" .
+
+<http://example.org/mine/188> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft ver. Hermann" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hattingen (Ruhr)" .
+
+<http://example.org/mine/189> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Johannessegen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hattingen (Ruhr)" .
+
+<http://example.org/mine/19> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau und Gusstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation , Eigentum des Bochumer Verien für Bergbau und Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau nd Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation; s. unter Bochum" ;
+    ex:name "Zeche ver. Maria-Anna und Steinbank" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/190> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergbau-Actien-Gesellschaft Mark (Zeche Freiberg und Augustenhoffnung)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Holzwickede" .
+
+<http://example.org/mine/191> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Joseph" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/192> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Pauline" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/193> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Verwaltung der gewerkschaftlichen Mansfeld'schen Steinkohlenzechen und Koksanstalten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/194> a ex:Mine ;
+    ex:info "An dieser Zeche ist der Mülheimer Bergwerksverein mit 618 Kux beteiligt, An dieser Zeche ist der Mülheimer Bergwerksverein mit 978 Kux beteiligt, An dieser Zeche ist der Mülheimer Bergwerks-Verein mit 996 Kux beteiligt, Eigentum der AG Mülheimer Bergwerks-Verein; s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Verein; s. unter Mülheim, Eigentum der AG Mülheimer Bergwerks-Verein, s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Vereins; s. unter Mülheim" ;
+    ex:name "Gewerkschaft ver. Rosenblumendelle" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/195> a ex:Mine ;
+    ex:info "Besitz der Familie Franz Haniel in Ruhrort, Besitz der Familie Franz Haniel, Besitz der Familie Haniel" ;
+    ex:name "Zeche Neumühl" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Neumühl-Hamborn" .
+
+<http://example.org/mine/196> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Mont Cenis" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Sodingen" .
+
+<http://example.org/mine/197> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zech Berneck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wiemelhausen bei Bochum" .
+
+<http://example.org/mine/198> a ex:Mine ;
+    ex:info "Eigentum der Dortmunder Bergbau-Gesellschaft, Eigentum der Gewerkschaft General, Eigentum der Actien-Gesellschaft Steinkohlenbergwerk Nordstern" ;
+    ex:name "Zeche Helene" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/199> a ex:Mine ;
+    ex:info "Zeche gehört der Gew. Hamburg und Franziska, Die Zeche gehört der Gewerkschaft Hamburg und Franziska, Die Zeche gehört der Gew. Hamburg und Franziska, Eigentum der Gew. Ver. Hamburg und Franziska; s. unter Witten, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Hamburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Annen" .
+
+<http://example.org/mine/2> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Kölner Bergwerks-Verein" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Altenessen" .
+
+<http://example.org/mine/20> a ex:Mine ;
+    ex:info "Die Zeche hat die Bochumer Kohlen- und Kokswerke mit den zugehörigen Zechen Glückswinkelburg und Berneck erworben, Die Zeche hat die Bochumer Kohlen- und Kokswerke mit den dazugehörigen Zechen Glückwinkelburg und Berneck käuflich erworben" ;
+    ex:name "Gewerkschaft ver. Constantin der Grosse" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/200> a ex:Mine ;
+    ex:info "Zeche gehört der Gew. Hamburg und Franziska; Förderung erfolgt seit Anfang 1895 durch die Zeche Hambrug, dieselbe leitet auch den Betrieb" ;
+    ex:name "Zeche Ringeltaube" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Annen" .
+
+<http://example.org/mine/201> a ex:Mine ;
+    ex:info "Die Actien-Gesellschaft Dortmunder Steinkohlenwerke Louise Tiefbau besitzt fast sämtliche Kuxe der Gew., Die Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau besitzt fast sämtliche Kuxen dieser Zeche, Die Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau besitzt fast sämtliche Kuxe dieser Zeche, Die AG Dortmunder Steinkohlenbergwerk Louise Tiefbau betzt fast sämtliche Kuxe dieser Zeche, Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau; s. unter Barop" ;
+    ex:name "Gewerkschaft der Zeche Wiendahlsbank" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Annen" .
+
+<http://example.org/mine/202> a ex:Mine ;
+    ex:info "Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Lousie Tiefbau, Eigentum der Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau" ;
+    ex:name "Zeche Louise Tiefbau bei Barop" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/203> a ex:Mine ;
+    ex:info "Eigentum der Mansfeld'schen Steinkohlenzechen und Coaksanstalten, Eigentum der gew. Mansfeld'schen Steinkohlenzechen und Coaksanstalten" ;
+    ex:name "Steinkohlenbergwerk Mansfeld bei Langendreer, Schacht Colonia, Urbanus und Schacht III" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/204> a ex:Mine ;
+    ex:info "Eigentum der Mansfeld'schen Steinkohlenzechen und Coaksanstalten, Eigentum der gew. Mansfeld'schen Steinkohlenzechen und Coaksanstalten" ;
+    ex:name "Kokerei in Riemke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/205> a ex:Mine ;
+    ex:info "Eigentum von Gustav Brake, Sinzig, fusioniert mit Wodan, Eigentum der Westfälischen Kohlenwerke AG, Bredenscheid" ;
+    ex:name "Zeche Hoffnungsthal" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bredenscheid" .
+
+<http://example.org/mine/206> a ex:Mine ;
+    ex:info "Die Zeche ist vorläufig außer Betrieb, \"In der am 25. September 1905 stattgefundenen Zwangsversteigerung hat genannte Gewerkschaft das gesamte Grubeneigentum des Société Anonyme des Charbonnages Westphaliens käuflich erworben und führt seit dem 2. Oktober 1905 den Betieb für eigene Rechnung. - Am 6. Februar 1906 kaufte sie das Bergwerk \"Friedlicher Nachbar\", Bredenscheid, an.\"" ;
+    ex:name "Gewerkschaft Johannessegen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bredenscheid" .
+
+<http://example.org/mine/207> a ex:Mine ;
+    ex:info "Eigentum der Westfälischen Kohlenwerke AG, Bredenscheid" ;
+    ex:name "Gewerkschaft Rabe" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bredenscheid" .
+
+<http://example.org/mine/208> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Wodan" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bredenscheid" .
+
+<http://example.org/mine/209> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Graf Schwerin" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Castrop" .
+
+<http://example.org/mine/21> a ex:Mine ;
+    ex:info "Eigentum der Actien-Gesellschaft Dannenbaum, Eigentum der Actien-Gesellschaft Zeche Dannenbaum, Eigentum der Actiengesellschaft Zeche Dannenbaum , Eigentum der Actiengesellschaft Zeche Dannenbaum" ;
+    ex:name "Schacht Dannenbaum I und II bei Altenbochum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/210> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft" ;
+    ex:name "Zeche Hugo bei Hugo (Westfalen)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/211> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlenbergwerk Hercules" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/212> a ex:Mine ;
+    ex:info "Verwaltet durch Mathias Stinnes'schen Zechen, Eigentum der Stinnes'schen Zechen, Verwaltng der Mathias Stinnes'schen Zechen, Verwaltung der Stinnes'schen Zechen , Verwaltung der Stinnes'schen Zechen, s. unter Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Carolus Magnus" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/213> a ex:Mine ;
+    ex:info "Verwaltet durch Mathias Stinnes'schen Zechen, Eigentum der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Friedrich Ernestine" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/214> a ex:Mine ;
+    ex:info "Verwaltet durch Mathias Stinnes'schen Zechen, Eigentum der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft des Steinkohlen-Bergwerks Mathias Stinnes" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/215> a ex:Mine ;
+    ex:info "Eigentum des Hörder Bergwerks- und Hüttenvereins" ;
+    ex:name "Hörder Kohlenwerk, Zeche Schleswig und Zeche Holstein" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hörde" .
+
+<http://example.org/mine/216> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche Rosina" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kirchhörde bei Löttringhausen" .
+
+<http://example.org/mine/217> a ex:Mine ;
+    ex:info "Eigentum der Steinkohlenbergwerke Mansfeld" ;
+    ex:name "Steinkohlenbergwerk mit Schacht Colonia, Urbanus und Schacht III" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/218> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Friedlicher Nachbar" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Linden (Westfalen)" .
+
+<http://example.org/mine/219> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau und Hüttenbetrieb " ;
+    ex:name "Zeche Ludwig bei Rellinghausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Rellinghausen" .
+
+<http://example.org/mine/22> a ex:Mine ;
+    ex:info "Eigentum der Actien-Gesellschaft Dannenbaum, Eigentum der Actien-Gesellschaft Zeche Dannenbaum, Eigentum der Actiengesellschaft Zeche Dannenbaum " ;
+    ex:name "Schacht Friederika bei Wiemelhausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/220> a ex:Mine ;
+    ex:info "Eigentum der Bergbau- und Schiffahrts-Actien-Gesellschaft vorm. Gebr. Kannengiesser, Ruhrort, Eigentum der Bergbau- und Schiffahrts-Actien-Gesellschaft vormals Gebr. Kannengiesser, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Ruhrort; s. unter Ruhrort, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengießer" ;
+    ex:name "Zeche ver. Sellerbeck bei Mülheim (Ruhr)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Ruhrort" .
+
+<http://example.org/mine/221> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche ver. Trappe" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Silschede" .
+
+<http://example.org/mine/222> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Aplerbecker Actien-Verein für Bergbau, Zeche Margaretha" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Sölde (Westfalen)" .
+
+<http://example.org/mine/223> a ex:Mine ;
+    ex:info "AG besitzt auch die Zeche Sprockhövel" ;
+    ex:name "Königsborn, Aktien-Gesellschaft für Bergbau, Salinen- und Soolbadbetrieb" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Unna-Königsborn" .
+
+<http://example.org/mine/224> a ex:Mine ;
+    ex:info "Eigentum der Gewerkschaft General, 1898 hatte die Gew. Unter Betriebsstörungen zu leiden, ist in den Besitz des Lothringer Hüttenvereins, Aumetz-Friede zu Kneuttingen, übergegangen, Die Zeche General ist in den Besitz des Lothringer Hüttenvereins, Aumetz-Friede zu Kneuttingen, übergegangen, \"Die Förderung war im Jahre 1905 noch keine normale. Für 1906 wird sie voraussichtlich ca. 140 000 t betragen.\", Die Gew. Ist in den Besitz des Lothringer Hütten-Vereins Aumetz-Frede, Kneuttingen" ;
+    ex:name "Zeche Helene " ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Weitmar (Kr. Bochum)" .
+
+<http://example.org/mine/225> a ex:Mine ;
+    ex:info "Eigentum der Gewerkschaft Hamburg und Franziska , Eigentum der Gewerkschaft Hamburg und Franziska" ;
+    ex:name "Zeche Hamburg, Annen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/226> a ex:Mine ;
+    ex:info "Eigentum der Gewerkschaft Hamburg und Franziska , Eigentum der Gewerkschaft Hamburg und Franziska" ;
+    ex:name "Zeche Franziska, Witten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/227> a ex:Mine ;
+    ex:info "Eigentum der Gewerkschaft Hamburg und Franziska " ;
+    ex:name "Zeche Ringeltaube" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/228> a ex:Mine ;
+    ex:info "Eigentum der Gewerkschaft Hamburg und Franziska , Eigentum der Gewerkschaft Hamburg und Franziska" ;
+    ex:name "Zeche Wallfisch" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/229> a ex:Mine ;
+    ex:info "Die Bochumer Koks- und Kohlenwerke besitzen 3/4 der Kuxen" ;
+    ex:name "Gewerkschaft Zeche Berneck in Wiemelhausen bei Bochum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/23> a ex:Mine ;
+    ex:info "Eigentum der Actien-Gesellschaft Dannenbaum, Eigentum der Actien-Gesellschaft Zeche Dannenbaum, Eigentum der Actiengesellschaft Zeche Dannenbaum " ;
+    ex:name "Schacht Prinz-Regent bei Weitmar" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/230> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Vorwärts" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/231> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation , Eigentum des Bochumer Verien für Bergbau und Gussstahlfabrikation, Eigentum der Zeche Mathias Stinnes; s. unter Essen" ;
+    ex:name "Zeche ver. Maria Anna und Steinbank" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Höntrop" .
+
+<http://example.org/mine/232> a ex:Mine ;
+    ex:info "Eigentum der Aktien-Gesellschaft Steinkohlenbergwerk Nordstern0, Eigentum der Actien-Gesellschaft Nordstern" ;
+    ex:name "Zeche Holland, Wattenscheid" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Horst (Emscher)" .
+
+<http://example.org/mine/233> a ex:Mine ;
+    ex:info "Eigentum der Aktien-Gesellschaft Steinkohlenbergwerk Nordstern0" ;
+    ex:name "Zeche Helene bei Witten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Horst (Emscher)" .
+
+<http://example.org/mine/234> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Victor" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Rauxel" .
+
+<http://example.org/mine/235> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Magdeburger Bergwerks-Actien-Gesellschaft, Zeche Königsgrube" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Röhlinghausen (Westf.)" .
+
+<http://example.org/mine/236> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche ver. Trappe" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Silschede" .
+
+<http://example.org/mine/237> a ex:Mine ;
+    ex:info "Früher Dortmunder Bergbau-Gesellschaft" ;
+    ex:name "Gewerkschaft General (früher Dortmunder Bergbau-Gesellschaft)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Weitmar (Kr. Bochum)" .
+
+<http://example.org/mine/238> a ex:Mine ;
+    ex:info "Eigentum der Actiengesellschaft Zeche Dannenbaum" ;
+    ex:name "Zeche Dannenbaum III und IV (Friederika) bei Wiemelhausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/239> a ex:Mine ;
+    ex:info "Eigentum der Actiengesellschaft Zeche Dannenbaum, Eigentum der AG ür Eisen- und Kohlenindustrie Differdingen-Dannenbaum, Eigentum der AG für Eisen- und Kohlen-Industrie Differdingen-Dannenbaum" ;
+    ex:name "Zeche Dannenbaum V und VI (Prinz-Regent) bei Weitmar" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/24> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation, Die Kuxen dieser Zechen befinden sich fast ausschließlich im Besitz des Bochumer Vereins, Die Kuxen dieser Zeche befinden sich fast ausschließlich im Besitz des Bochumer Vereins, Die Kuxe dieser Zeche befinden sich fast ausschließlich im Besitz des Bochumer Verein, Die Kuxe dieser Zechen befinden sich fast ausschließlich im Besitz des Bochumer Vereins, Die Kuxe dieser Zeche befinden sich im Besitz des Bochumer Verein für Bergbau und Gusstahlfabrikation, Bochum, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation; s. unter Bochum" ;
+    ex:name "Gewerkschaft ver. Engelsburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/240> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlenbergwerk Minister Achenbach" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/241> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche ver. Westphalia, Zeche Kaiserstuhl I und II" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/242> a ex:Mine ;
+    ex:info "Die Kuxe dieser Gew. Befinden sich fast ausschließlich im Besitz der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; Ringofenziegelei" ;
+    ex:name "Zeche Westhausen, Bodelschwingh" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/243> a ex:Mine ;
+    ex:info "Die Zeche Herzkämper Mulde ist mit der Zeche Stock und Scherenberg unter dem Namen Zeche Stock und Scherenberg vereinigt worden, Die Zeche Herzkä,per Mulde ist mit der Zeche Stock und Scherenberg vereinigt worden, Die Zeche Herzkämper Mulde ist mt der Zeche Stock und Scherenberg vereinigt worden" ;
+    ex:name "Zeche ver. Stock und Scherenberg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hasslinghausen" .
+
+<http://example.org/mine/244> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Shamrock I und II" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/245> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Schlägel & Eisen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/246> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, s. unter Herne, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Schlägel und Eisen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/247> a ex:Mine ;
+    ex:info "angekauft von Königsborn, AG für Bergbau, Salinen- und Soolbadbetrieb, Angekauft von Königsborn, Aktien-Gesellschaft für Bergbau, Salinen- und Soolbadbetrieb, die den Betrieb der Zeche eingestellt hat, Angekauft von Königsborn, AG für Bergbau, Salinen- und Soolbadbetrieb" ;
+    ex:name "Zeche Sprockhövel" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Sprockhövel" .
+
+<http://example.org/mine/248> a ex:Mine ;
+    ex:info "Im Bau, Betrieb ist Ende 1903 eingestellt worden" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Neuglück" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Altendorf" .
+
+<http://example.org/mine/249> a ex:Mine ;
+    ex:info "Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau, Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau; s. unter Barop, Eigentum der Aktiengesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau, Barop" ;
+    ex:name "Zeche Louise Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/25> a ex:Mine ;
+    ex:info "Die Zeche ist in den Besitz der Arenberg'schen AG für Bergbau nd Hüttenbetrieb, Essen übergegangen, Eigentum der Arenbergschen AG für Bergbau und Hüttenbetrieb; s. unter Essen, Eigentum der Arenbergschen Aktiengesellschaft für Bergbau und Hüttenbetrieb; s. unter Essen, Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum" ;
+    ex:name "Gewerkschaft der Zeche Julius Philipp" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/250> a ex:Mine ;
+    ex:info "Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau, Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau; s. unter Barop" ;
+    ex:name "Zeche Bruchstrasse" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/251> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Steinkohlen- und Eisensteinzeche ver. Carolinenglück" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/252> a ex:Mine ;
+    ex:info "Eigentum der AG ür Eisen- und Kohlenindustrie Differdingen-Dannenbaum, Eigentum der AG für Eisen- und Kohlen-Industrie Differdingen-Dannenbaum" ;
+    ex:name "Zeche Dannenbaum I bei Altenbochum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/253> a ex:Mine ;
+    ex:info "Eigentum der AG ür Eisen- und Kohlenindustrie Differdingen-Dannenbaum, Eigentum der AG für Eisen- und Kohlen-Industrie Differdingen-Dannenbaum" ;
+    ex:name "Zeche Dannenbaum III und IV (Friederika)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/254> a ex:Mine ;
+    ex:info "Die Förderung wird sich in Folge verbesserter Tagesanlage bedeutend heben, Der Betrieb hat infolge des eingetretenen Konkurses bis zum 01.06.1902 geruht, Diese Stollenzeche wird voraussichtlich gegen Juni gestundet" ;
+    ex:name "Gewerkschaft Maximus" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bommern a.d. Ruhr" .
+
+<http://example.org/mine/255> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft; s. unter Dortmund" ;
+    ex:name "Zeche Courl" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Courl" .
+
+<http://example.org/mine/256> a ex:Mine ;
+    ex:info "Betrieb ist bis auf Weiteres eingestellt" ;
+    ex:name "Anthracit-Steinkohlenbergwerk Grünewald, Schulr bei Werden" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/257> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des consoldirten Steinkohlenberwerks Minister Achenbach" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/258> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Hugo bei Hugo i. W." ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/259> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Courl in Courl" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/26> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerk Lothringen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/260> a ex:Mine ;
+    ex:info "im Bau, die Kuxe befinden sich zum größten Teil im Besitz der Harpener Bergbau-AG, Zeche ist im Bau, die Kuxe befinden sich zum größten Teil im Besitz der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Gewerkschaft Scharnhorst" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/261> a ex:Mine ;
+    ex:info "Eigentum der Firma Friedr. Krupp; s. unter Hordel" ;
+    ex:name "Krupp'sche Verwaltung der Zeche Hannibal" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Eickel (Kreis Bochum)" .
+
+<http://example.org/mine/262> a ex:Mine ;
+    ex:info "Verwaltng der Mathias Stinnes'schen Zechen, Verwaltung der Stinnes'schen Zechen , Verwaltung der Stinnes'schen Zechen, s. unter Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft Friedrich Ernestine" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/263> a ex:Mine ;
+    ex:info "Verwaltng der Mathias Stinnes'schen Zechen, Verwaltung der Stinnes'schen Zechen , Verwaltung der Stinnes'schen Zechen, s. unter Verwaltung der Stinnes'schen Zechen, Verwaltung der Stinnes'schen Zechen; Ringofenziegelei" ;
+    ex:name "Zeche Mathias Stinnes" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/264> a ex:Mine ;
+    ex:info "Eigentum der AG Steinkohlen-Bergwerk Nordstern, Eigentum der AG Steinkohlen-Bergwerk Nordstern, s. unter Wattenscheid, Eigentum der AG Steinkohlen-Bergwerk Nordstern; s. unter Wattenscheid, Eigentum der AG Steinkohlenbergwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Graf Moltke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gladbeck (Westfalen)" .
+
+<http://example.org/mine/265> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft ver. Gladbeck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gladbeck (Westfalen)" .
+
+<http://example.org/mine/266> a ex:Mine ;
+    ex:info "Eigentum des Hörder Bergwerks- und Hüttenvereins, Teer, Ammoniak, Eigentum von Phönix, AG für Bergbau- und Hüttenbetrieb; s. unter Duisburg-Ruhrort" ;
+    ex:name "Hörder Kohlenwerke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hörde" .
+
+<http://example.org/mine/267> a ex:Mine ;
+    ex:info "Eigentum der AG Steinkohlen-Bergwerk Nordstern, s. unter Wattenscheid, Eigentum der AG Steinkohlen-Bergwerk Nordstern; s. unter Wattenscheid, Eigentum der AG Steinkohlenbergwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Nordstern" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Horstermark (Emscher)" .
+
+<http://example.org/mine/268> a ex:Mine ;
+    ex:info "Betrieb ist eingestgellt" ;
+    ex:name "Gewerkschaft Hero bei Schuir" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kettwig" .
+
+<http://example.org/mine/269> a ex:Mine ;
+    ex:info "seit 09.01.1901 in Konkurs, Zeche befindet sich seit Januar 1901 in Konkurs" ;
+    ex:name "Gewerkschaft des Steinkohlen-Bergwerks Rudolph bei Oefte" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kettwig" .
+
+<http://example.org/mine/27> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Verwaltung der Mansfeldschen Steinkohlenzechen und Koksanstalten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/270> a ex:Mine ;
+    ex:info "Förderung wegen Arbeitermangel erheblicher Ausfall" ;
+    ex:name "Gewerkschaft König Ludwig" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "König Ludwig" .
+
+<http://example.org/mine/271> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlenzeche Pauline in Holsterhausen bei Werden" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/272> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche ver. Pörtingssiepen zu Fischlaken bei Werden" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/273> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Neu-Iserlohn" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/274> a ex:Mine ;
+    ex:info "Verwaltung der gewerkschaftlichen Mansfeld'schen Steinkohlenzechen und Coaksanstalten, Verwaltung der gewerkschaftlichen Mansfeldschen Steinkohlenzechen und Coaksanstalten" ;
+    ex:name "Steinkohlenbergwerke Mansfeld bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/275> a ex:Mine ;
+    ex:info "Verwaltung der gewerkschaftlichen Mansfeld'schen Steinkohlenzechen und Coaksanstalten, Verwaltung der gewerkschaftlichen Mansfeldschen Steinkohlenzechen und Coaksanstalten" ;
+    ex:name "Mansfeld'sche Moksanstalt in Riemke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/276> a ex:Mine ;
+    ex:info "Briketwerk, dementsprechend keine Förderung, Brikettwerk" ;
+    ex:name "Briketwerk Dahlhausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Linden (Westfalen)" .
+
+<http://example.org/mine/277> a ex:Mine ;
+    ex:info "Eigentum des Mülheimer Bergwerks-Vereins, Eigentum des Mülheimer Bergwerks-Vereins, s. unter Mülheim, Eigentum der AG Mülheimer Bergwerks-Verein; s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Verein; s. unter Mülheim" ;
+    ex:name "Zeche Hagenbeck, Altendorf" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/278> a ex:Mine ;
+    ex:info "Eigentum des Mülheimer Bergwerks-Vereins, Eigentum des Mülheimer Bergwerks-Vereins, s. unter Mülheim, Eigentum der AG Mülheimer Bergwerks-Verein; s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Verein; s. unter Mülheim, Eigentum der AG Mülheimer Bergwerks-Verein, s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Vereins; s. unter Mülheim" ;
+    ex:name "Zeche Humboldt" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/279> a ex:Mine ;
+    ex:info "Eigentum des Mülheimer Bergwerks-Vereins, Eigentum des Mülheimer Bergwerks-Vereins, s. unter Mülheim, Eigentum der AG Mülheimer Bergwerks-Verein; s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Verein; s. unter Mülheim" ;
+    ex:name "Zeche Wiesche, Mülheim" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/28> a ex:Mine ;
+    ex:info "Die Kuxe dieser Zeche befinden sich fast ausschließlich im Besitz der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Gewerkschaft der Zeche Westhausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bodelschwingh (Westfalen)" .
+
+<http://example.org/mine/280> a ex:Mine ;
+    ex:info "Besitz der Familie Haniel, Zeche ist in der Entwicklung" ;
+    ex:name "Steinkohlen-Bergwerk Neumühl" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Neumühl-Hamborn" .
+
+<http://example.org/mine/281> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau- und Hüttenbetrieb, Eigentum der Gutehoffnungshütte AG für Bergbau- und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; Aktienverein für Bergbau und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb" ;
+    ex:name "Zeche Hugo bei Holten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Oberhausen (Rheinland)" .
+
+<http://example.org/mine/282> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Actien-Verein für Bergbau- und Hüttenbetrieb, Eigentum der Gutehoffnungshütte AG für Bergbau- und Hüttenbetrieb; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; s. unter Oberhausen, Eigentum der Gutehoffnungshütte; Aktienverein für Bergbau und Hüttenbetrieb; s. unter Oberhausen" ;
+    ex:name "Zeche Sterkrade bei Sterkrade" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Oberhausen (Rheinland)" .
+
+<http://example.org/mine/283> a ex:Mine ;
+    ex:info "Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengiesser, Ruhrort; s. unter Ruhrort, Eigentum der Bergbau- und Schiffahrts-AG vorm. Gebr. Kannengießer" ;
+    ex:name "Zeche Roland" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Ruhrort" .
+
+<http://example.org/mine/284> a ex:Mine ;
+    ex:info "Eigentum der AG Steinkohlen-Bergwerk Nordstern, Eigentum der AG Steinkohlen-Bergwerk Nordstern, s. unter Wattenscheid, Eigentum der AG Steinkohlen-Bergwerk Nordstern; s. unter Wattenscheid, Eigentum der AG Steinkohlenbergwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Nordstern" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/285> a ex:Mine ;
+    ex:info "Eigentum der AG Steinkohlen-Bergwerk Nordstern, Eigentum der AG Steinkohlen-Bergwerk Nordstern, s. unter Wattenscheid, Eigentum der AG Steinkohlen-Bergwerk Nordstern; s. unter Wattenscheid, Eigentum der AG Steinkohlenbergwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Graf Moltke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/286> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft, Rheinelbe in Gelsenkirchen; s. unter Gelsenkirchen" ;
+    ex:name "Gewerkschaft ver. Hamburg und Franziska" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Witten a.d. Ruhr" .
+
+<http://example.org/mine/287> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlenbergwerk Graf Bismarck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bismarck" .
+
+<http://example.org/mine/288> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau nd Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation; s. unter Bochum, Eigentum des Bochumer Verein für Bergbau und Gusstahlfabrikation, Bochum, Eigentum des Bochumer Vereins für Bergbau und Gussstahlfabrikation, Bochum, Eigentum des Bochumer Verein für Bergbau und Gußstahlfabrikation; s. unter Bochum" ;
+    ex:name "Zeche Carolinenglück" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/289> a ex:Mine ;
+    ex:info "Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie; s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, A für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, Aktiengesellschaft für Bergbau, Eisen- und Stahlindustrie, Dortmund" ;
+    ex:name "Zeche Adolf von Hansemann bei Mengede" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/29> a ex:Mine ;
+    ex:info "Die Zeche ging durch Kauf am 01.05.1903 an die Gew. Mont Cenis über, Die Zeche ging durch Kauf im Mai 1903 an die Gew. Der Steinkohlenzeche Mont Cenis, Sodingen, über" ;
+    ex:name "Steinkohlenbergwerk ver. Bommerbänker Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bommern a.d. Ruhr" .
+
+<http://example.org/mine/290> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Eisen- und Stahlwerk Hoesch, AG, Zece Westphalia" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/291> a ex:Mine ;
+    ex:info "Ringofenziegelei" ;
+    ex:name "Bergwerks-Gesellschaft Dahlbusch zu Rotthausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/292> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe" ;
+    ex:name "Zeche Bonifacius in Kray" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/293> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "AG Schalker Gruben- und Hütten-Verein in Gelsenkirchen, Zeche Pluto" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/294> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Bonifacius in Kray" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kray (Bez. Düsseldorf)" .
+
+<http://example.org/mine/295> a ex:Mine ;
+    ex:info "Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie; s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, A für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund" ;
+    ex:name "Zeche Adolf von Hansemann" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mengede" .
+
+<http://example.org/mine/296> a ex:Mine ;
+    ex:info "Eigentum des Georgs Marien-Bergwerks- und Hütten-Vereins, Osnabrück, Zeche ist im Bau" ;
+    ex:name "Zeche Werne" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Werne (Bez. Münster" .
+
+<http://example.org/mine/297> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Zeche Nordstern" ;
+    schema1:Place "Aachener Bezirk" ;
+    geo:location "Aachen" .
+
+<http://example.org/mine/298> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Eschweiler Bergwerks-Verein" ;
+    schema1:Place "Aachener Bezirk" ;
+    geo:location "Eschweileraue" .
+
+<http://example.org/mine/299> a ex:Mine ;
+    ex:info "ab 1906 sol eine Anlage zur Gewinnung von Nebenprodukten in Betrieb genommen werden" ;
+    ex:name "Vereinigungs-Gesellschaft für Steinkohlenbau im Wurmrevier" ;
+    schema1:Place "Aachener Bezirk" ;
+    geo:location "Kohlscheidt" .
+
+<http://example.org/mine/3> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Neu-Essen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Altenessen" .
+
+<http://example.org/mine/30> a ex:Mine ;
+    ex:info "Eigentum des Hörder Bergwerks und Hüttenvereins in Hörde, Eigentum des Hörder Bergwerks- und Hüttenvereins, Eigentum des Hörder Bergwerks- und Hüttenvereins, s. unter Hörde, Eigentum des Hörder Bergwerks- und Hüttenvereins; s. unter Hörde" ;
+    ex:name "Hörder Kohlenwerk, Zeche Schleswig und Zeche Holstein" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Brackel (Bez. Arnsberg)" .
+
+<http://example.org/mine/300> a ex:Mine ;
+    ex:info "Die Zeche ist von der Gew. Graf Bismarck in Gelsenkirchen angekauft worden, Von der Gew. Graf Bismarck angekauft, die den Betrieb seit dem 01.07.1904 eingestellt hat, von der Gewerkschaft Graf Bismarck angekauft, die den Betrieb seit dem 01.07.1904 eingestellt hat, Von der Gew. Graf Bismarck angekauft; Betrieb seit Juli 1904 eingestellt" ;
+    ex:name "Gewerkschaft  ver. Bickefeld Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Aplerbeck" .
+
+<http://example.org/mine/301> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft ver. Schürbank und Charlottenburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Aplerbeck" .
+
+<http://example.org/mine/302> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Société Anonyme des Charbonnages Westphaliens à Bredenscheid prés Hattingen (Ruhr)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bredenscheid" .
+
+<http://example.org/mine/303> a ex:Mine ;
+    ex:info "Die Firma Krupp ist Abnehmerin der Gesamtförderung, Eigentum der Firma Fried. Krupp; s. unter Hordel, Alleinbesitz der Firma Friedr. Krupp, AG, Essen, Eigentum der Firma Fried. Krupp; s. unter Essem" ;
+    ex:name "Krupp'sche Verwaltung der Zeche ver. Sälzer und Neuack" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/304> a ex:Mine ;
+    ex:info "Zeche ist im Bau " ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Prinz Schönaich" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hamm (Westfalen)" .
+
+<http://example.org/mine/305> a ex:Mine ;
+    ex:info "Zeche ist im Bau , Zeche ist im Bau, Förderung soll 1904 aufgenommen werden" ;
+    ex:name "De Wendel'sche Westfälische Bergwerke bei Hamm i.W." ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hamm (Westfalen)" .
+
+<http://example.org/mine/306> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlenbergwerk Gutglück und Wrangel zu Vormholz bei Herbede" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herbede (Ruhr)" .
+
+<http://example.org/mine/307> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Condordia" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/308> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Consolidirtes Steinkohlenbergwerk Minsiter Achenbach in Brambauer bei Dortmund" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mengede" .
+
+<http://example.org/mine/309> a ex:Mine ;
+    ex:info "Zeche ist im Bau, im Bau" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Auguste Victoria" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/31> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft König Ludwig" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bruch (Westfalen)" .
+
+<http://example.org/mine/310> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft ver. Adolar" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Sprockhövel" .
+
+<http://example.org/mine/311> a ex:Mine ;
+    ex:info "Ringofenziegelei" ;
+    ex:name "Rheinische Stahlwerke, Abteilung Centrum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/312> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft, Abt. Bochum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/313> a ex:Mine ;
+    ex:info "Zeche ist im Bau " ;
+    ex:name "Eisenwerk-Gesellschaft Maximilianshütte" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hamm (Westfalen)" .
+
+<http://example.org/mine/314> a ex:Mine ;
+    ex:info "Die Kuxe der Gew. Sind bis auf ein Stück im Besitz der Bochumer Koks- und Kohlenwerke, welche durch Kauf in den Besitz der Gew. Constantin der Große übergegangen sind" ;
+    ex:name "Gewerkschaft Glückswinkelburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/315> a ex:Mine ;
+    ex:info "Eigentum der Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft, Abt. Bochum; s. unter Bochum, Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum, Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft - Abteilung Bochum" ;
+    ex:name "Zeche Dannenbaum I und Eulenbaum" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/316> a ex:Mine ;
+    ex:info "Eigentum der Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft, Abt. Bochum; s. unter Bochum, Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum, Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft - Abteilung Bochum" ;
+    ex:name "Zeche Friederika" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/317> a ex:Mine ;
+    ex:info "Eigentum der Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft, Abt. Bochum; s. unter Bochum, Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum, Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft - Abteilung Bochum" ;
+    ex:name "Zeche Prinz Regent" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/318> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Consolidirtes Steinkohlenbergwerk Minister Achenbach in Brambauer bei Dortmund" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Brambauer (Kr. Dortmund)" .
+
+<http://example.org/mine/319> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Actien-Gesellschaft für Bergbau, Blei- und Zinkfabrikation zu Stollberg und in Westfalen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/32> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft; s. unter Dortmund" ;
+    ex:name "Zeche Recklinghausen I (früher Clerget)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bruch (Westfalen)" .
+
+<http://example.org/mine/320> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; Ringofenziegelei" ;
+    ex:name "Zeche ver. Hamburg und Franziska" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/321> a ex:Mine ;
+    ex:info "Die Gew. Hat die Zeche ver. Bickefeld, Aplerbeck angekauft, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Ringofenziegelei" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Bismarck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen-Bismarck" .
+
+<http://example.org/mine/322> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerks-Actien-Gesellschaft Consolidation" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen-Schalke" .
+
+<http://example.org/mine/323> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Gewerkschaft General Blumenthal" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/324> a ex:Mine ;
+    ex:info "Förderung, Aufbereitung und Versand erfolgt durch die Anlagen der Zeche Crone, Förderung, Aufbereitung und Versand erfolgt durch die Zeche Crone, Förderung, Aufbereitung und Versand erfolgen durch die Anlagen der Zeche Crone, Aufbereitund und Versand erfolgen durch die Zeche Crone" ;
+    ex:name "Zeche Felicitas" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hörde" .
+
+<http://example.org/mine/325> a ex:Mine ;
+    ex:info "Gew. Friedlicher Nachbar hat vom Bochumer Verein die Zeche angekauft" ;
+    ex:name "Zeche Hasenwinkel bei Dahlhausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Linden (Westfalen)" .
+
+<http://example.org/mine/326> a ex:Mine ;
+    ex:info "Eigentum der Bergbau- und Schiffahrts-AG Kannengießer; s. unter Mülheim" ;
+    ex:name "Zeche Roland" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/327> a ex:Mine ;
+    ex:info "Verwaltung durch den Mülheimer Bergwerks-Verein, Eigentum des Mülheimer Bergwerks-Verein; s. unter Mülheim" ;
+    ex:name "Gewerkschaft Neu-Schölerpad & Hobeisen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Mülheim a.d. Ruhr" .
+
+<http://example.org/mine/328> a ex:Mine ;
+    ex:info "Verwaltung wie bei Langenbrahm" ;
+    ex:name "Gewerkschaft Schnabel in Osten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Rüttenscheid" .
+
+<http://example.org/mine/329> a ex:Mine ;
+    ex:info "Der Betrieb hat infolge des eingetretenen Konkurses bis 01.06.1902 geruht. Das Bergwerkseigentum ist im Juni 1904 auf die Firma Oppenheimer & Co. GmbH in Köln übergegangen" ;
+    ex:name "Gewerkschaft der Zeche Maximus in Vormholz" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Vormholz bei Herbede (Ruhr)" .
+
+<http://example.org/mine/33> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Recklinghausen II" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bruch (Westfalen)" .
+
+<http://example.org/mine/330> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; s. unter Gelsenkirchen" ;
+    ex:name "Zeche ver. Hamburg und Franziska" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Annen" .
+
+<http://example.org/mine/331> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Briketwerk Dahlhausen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/332> a ex:Mine ;
+    ex:info "Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum, Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft - Abteilung Bochum" ;
+    ex:name "Zeche Friedlicher Nachbar einschl. Baaker Mulde" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/333> a ex:Mine ;
+    ex:info "Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum, Deutsch-Luxemburgische Bergwerks- und Hütten-Aktiengesellschaft - Abteilung Bochum" ;
+    ex:name "Zeche Hasenwinkel" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/334> a ex:Mine ;
+    ex:info "Schachtanlage wird voraussichtlich 1906 in Betrieb kommen" ;
+    ex:name "Königliche Berginspektion 3 (Zeche Bergmannsglück)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Buer (Westfalen)" .
+
+<http://example.org/mine/335> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche Roland" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/336> a ex:Mine ;
+    ex:info "Der Betrieb ist eingestellt" ;
+    ex:name "Zeche Sellerbeck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/337> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Phönix AG, Zeche Westende" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Duisburg-Ruhrort" .
+
+<http://example.org/mine/338> a ex:Mine ;
+    ex:info "Eigentum der Arenbergschen AG für Bergbau und Hüttenbetrieb; s. unter Essen, Die Förderung erfolgt vom 1. Januar 1906 ab nur noch zur Deckung des Selbstverbrauchs; Eigentum der Arenberg'schen Aktien-Gesellschaftz für Bergbau und Hüttenbetrieb, Essen" ;
+    ex:name "Zeche Julius Philipp" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/339> a ex:Mine ;
+    ex:info "Eigentum der Gew. Hercules; s. unter Kupferdreh, Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Richradt" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/34> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft in Gelsenkirchen, An dieser Zeche ist die Gelsenkirchener Bergwerks-Aktien-Gesellschaft mit 958 von 1000 Kuxen beteiligt, An dieser Zeche ist die Gelsenkirchener Bergwerks-Actien-Gesellschaft mit 958 von 1000 Kuxen beteiligt., An dieser Zeche ist die Gelsenkirchener Bergwerks-Actien-Gesellschaft mit 958 von 1000 Kuxen beteiligt, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; s. unter Gelsenkirchen" ;
+    ex:name "Gewerkschaft Monopol" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Camen" .
+
+<http://example.org/mine/340> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Schnabel ins Osten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/341> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Langenbrahm" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/342> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion Gladbeck" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gladbeck (Westfalen)" .
+
+<http://example.org/mine/343> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerksgesellschaft Trier mbH" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hamm (Westfalen)" .
+
+<http://example.org/mine/344> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Alstaden" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/345> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Oespel" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Marten" .
+
+<http://example.org/mine/346> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Emscher-Lippe" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/347> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 4 (Zeche Waltrop)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Vormholz bei Herbede (Ruhr)" .
+
+<http://example.org/mine/348> a ex:Mine ;
+    ex:info "Ringofenziegelei; \"Am 5. Dezember 1905 musste der Betrieb der Grube und der Kokerei einschl. Nebenanlagen infolge einer über Tage erfolgten Schlagwetter-Explosion eingestellt werden und wird voraussichtlich 1 1/2 bis 2 Jahre ruhen.\", im Jahr 1906 musste der Betrieb wegen einer im Dezember 1905 erfolgten Schlagwetterexplosion eingestellt werden; die Förderung wird im April 1907 wieder aufgenommen" ;
+    ex:name "Georgs-Marien-Bergwerks und Hütten-Verein, Zeche Werne" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Werne (Bez. Münster" .
+
+<http://example.org/mine/349> a ex:Mine ;
+    ex:info "Eigentum des Mülheimer Bergwerks-Vereins; s. unter Mülheim" ;
+    ex:name "Zeche Hagenbeck" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Altendorf (Rheinland)" .
+
+<http://example.org/mine/35> a ex:Mine ;
+    ex:info "Stinnes'sche Zechen, s. unter Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Mathias Stinnes" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Carnap" .
+
+<http://example.org/mine/350> a ex:Mine ;
+    ex:info "Betrieb Ende 1903 eingestellt, Betrieb ist Ende 1903 eingestellt worden" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Neuglück" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Altendorf (Kr. Hattingen)" .
+
+<http://example.org/mine/351> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Kölner Bergwerks-Verein, Altenessen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Altenessen" .
+
+<http://example.org/mine/352> a ex:Mine ;
+    ex:info "Ringofenziegelei" ;
+    ex:name "Bergbau-Gesellschaft Neu-Essen in Essen (Ruhr)" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Altenessen" .
+
+<http://example.org/mine/353> a ex:Mine ;
+    ex:info "nähere Angaben unter Essen: Verwaltung der Stinnesschen Zechen, Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft Carolus Magnus" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bergeborbeck" .
+
+<http://example.org/mine/354> a ex:Mine ;
+    ex:info "Die Kuxe dieser Zeche befinden sich im Besitz des Bochumer Vereins, Eigentum des Bochumer Verein für Bergbau und Gußstahlfabrikation; s. unter Bochum" ;
+    ex:name "Gewerkschaft ver. Engelsburg" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Eppendorf" .
+
+<http://example.org/mine/355> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Westhausen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bodelschwingh" .
+
+<http://example.org/mine/356> a ex:Mine ;
+    ex:info "Die Zeche ging durch Kauf am 01.05.1903 an die Gewerkschaft der Steinkohlenzeche Mont Cenis, Sodingen i.W. über, Eigentum der Gew. Mont Cenis" ;
+    ex:name "Zeche ver. Bommerbänker Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bommern" .
+
+<http://example.org/mine/357> a ex:Mine ;
+    ex:info "Der Betrieb der Zeche, der bis dahin geruht hatte, ist erst am 01.10.1905 wieder aufgenommen worden" ;
+    ex:name "Gewerkschaft ver. Hermann" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bommern" .
+
+<http://example.org/mine/358> a ex:Mine ;
+    ex:info "Eigentum des Hörder Bergwerks- und Hüttenvereins; s. unter Hörde, Eigentum von Phönix, AG für Bergbau- und Hüttenbetrieb; s. unter Duisburg-Ruhrort" ;
+    ex:name "Hörder Kohlenwerk" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Brackel (Bez. Dortmund)" .
+
+<http://example.org/mine/359> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des konsoldierten Steinkohlenbergwerks Minister Achenbach, Brambauer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Brambauer (Kr. Dortmund)" .
+
+<http://example.org/mine/36> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft in Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Erin" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Castrop" .
+
+<http://example.org/mine/360> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktiengesellschaft; s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Recklinghausen II (früher Schacht IV)" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bruch (Westf.)" .
+
+<http://example.org/mine/361> a ex:Mine ;
+    ex:info "Ringofenziegelei (nur für eigenen Bedarf)" ;
+    ex:name "Gewerkschaft Deutscher Kaiser, Hamborn" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bruckhausen (Rhein)" .
+
+<http://example.org/mine/362> a ex:Mine ;
+    ex:info "s. unter Königliche Bergwerksdirektion Recklinghausen" ;
+    ex:name "Königliche Berginspektion 3 (Steinkohlenbergwerk Bergmannsglück)" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Buer i. W." .
+
+<http://example.org/mine/363> a ex:Mine ;
+    ex:info "nähere Angaben unter Essen: Verwaltung der Stinnesschen Zechen, Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Zeche Mathias Stinnes" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Carnap" .
+
+<http://example.org/mine/364> a ex:Mine ;
+    ex:info "Ringofenziegelei" ;
+    ex:name "Steinkohlenbergwerk Zollverein" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Caternberg" .
+
+<http://example.org/mine/365> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche Altendorf" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dahlhausen" .
+
+<http://example.org/mine/366> a ex:Mine ;
+    ex:info "Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-Aktiengesellschaft; s. unter Bochum, Eigentum der Deutsch-Luxemburgischen Bergwerks- und Hütten-AG; s. unter Bochum" ;
+    ex:name "Zeche Hasenwinkel" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dahlhausen" .
+
+<http://example.org/mine/367> a ex:Mine ;
+    ex:info "Zeche ist im Bau, noch im Bau" ;
+    ex:name "Aktien-Gesellschaft für Bergbau, Blei- und Zinkfabrikation zu Stolberg und in Westfahren, Abteilung für Kohlenbergbau" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/368> a ex:Mine ;
+    ex:info "Eigentum der Eisen- und Stahlwerke Hoesch, Aktiengesellschaft in Dortmund" ;
+    ex:name "Zeche Kaiserstuhl" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/369> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktiengesellschaft, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Neu-Iserlohn bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/37> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Graf Schwerin" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Castrop" .
+
+<http://example.org/mine/370> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktiengesellschaft, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Vollmond bei Langendreer mit Kokerei Vollmond I und II" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/371> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktiengesellschaft, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Recklinghausen II (früher Schacht IV) bei Bruch" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/372> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktiengesellschaft, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Scharnhost bei Brackel" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/373> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktiengesellschaft, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Roland, Dümpten bei Oberhausen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/374> a ex:Mine ;
+    ex:info "Betrieb Ende April 1905 eingestellt; Eigentum der Harpener Bergbau-Aktiengesellschaft, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Sellerbeck, Mülheim (Ruhr)" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/375> a ex:Mine ;
+    ex:info "Eigentum der Phoenix, Aktien-Gesellschaft für Bergbau und Hüttenbetrieb, Duisburg, Eigentum von Phönix, AG für Bergbau- und Hüttenbetrieb; s. unter Duisburg-Ruhrort" ;
+    ex:name "Zeche Westende, Meiderich" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Duisburg-Ruhrort" .
+
+<http://example.org/mine/376> a ex:Mine ;
+    ex:info "Eigentum der Firma Friedr. Krupp, Essen; s. unter Hordel, Krupp'sche Verwaltung der Zechen Hannover und Hannibal, Eigentum der Firma Fried. Krupp; s. unter Essem" ;
+    ex:name "Zeche Hannibal" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Eickel" .
+
+<http://example.org/mine/377> a ex:Mine ;
+    ex:info "Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft Carolus Magnus, Bergeborbeck" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/378> a ex:Mine ;
+    ex:info "Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft Freidrich Ernestine, Stoppenberg" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/379> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Schnabel ins Osten, Essen-Rüttenscheid" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/38> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Victor" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Castrop" .
+
+<http://example.org/mine/380> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Langenbrahm, Essen-Rüttenscheid" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/381> a ex:Mine ;
+    ex:info "Ringofenziegelei" ;
+    ex:name "Bergwerks-Aktien-Gesellschaft Consolidation" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/382> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; Ringofenziegelei, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche ver. Rheinelbe und Alma, Gelsenkirchen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/383> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; Ringofenziegelei, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche ver. Stein und Hardenberg, Niedereving bei Dortmund" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/384> a ex:Mine ;
+    ex:info "Eigentum der Aktien-Gesellschaft Schalker Gruben- und Hütten-Verein Gelsenkirchen, Eigentum der AG Schalker Gruben- und Hütten-Verein in Gelsenkirchen" ;
+    ex:name "Zeche Pluto, Wanne" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/385> a ex:Mine ;
+    ex:info "Eigentum der Aktien-Gesellschaft Steinkohlenbergwerk Nordstern, Wattenscheid; s. unter Wattenscheid, Eigentum der AG Steinkohlenberwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Graf Moltke" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Gladbeck" .
+
+<http://example.org/mine/386> a ex:Mine ;
+    ex:info "Ringofenziegelei, s. unter Königliche Bergwerksdirektion Recklinghausen" ;
+    ex:name "Königliche Berginspektion II zu Gladbeck. Steinkohlenbergwerk ver. Gladbeck" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Gladbeck" .
+
+<http://example.org/mine/387> a ex:Mine ;
+    ex:info "im Bau" ;
+    ex:name "Eisenwerkgesellschaft Maximilianshütte zu Rosenberg" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hamm i.W." .
+
+<http://example.org/mine/388> a ex:Mine ;
+    ex:info "im Bau" ;
+    ex:name "Bergwerksgesellschaft Trier mbH" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hamm i.W." .
+
+<http://example.org/mine/389> a ex:Mine ;
+    ex:info "in der Entwicklung" ;
+    ex:name "De Wendelsche Westfälische Bergwerke" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hamm i.W." .
+
+<http://example.org/mine/39> a ex:Mine ;
+    ex:info "Eigentum der Familie Franz Haniel in Ruhrort, Besitz der Familie Franz Haniel in Ruhrort, Besitz der Familie Franz Haniel, Besitz der Familie Haniel, Besitz der Familie Hanie" ;
+    ex:name "Steinkohlenbergwerk Zollverein" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Caternberg bei Altenessen" .
+
+<http://example.org/mine/390> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche Blankenburg" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hammerthal" .
+
+<http://example.org/mine/391> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Friedrich der Grosse" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/392> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Wilhelmine Victoria" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/393> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Hibernia" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/394> a ex:Mine ;
+    ex:info "Der Gew. Gehört auch die Zeche Eiberg bei Steele" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Ewald" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Herten" .
+
+<http://example.org/mine/395> a ex:Mine ;
+    ex:info "Die Zeche ist in den Besitz des Mülheimer Bergwerksvereins übergegangen" ;
+    ex:name "Bergbau-Aktien-Gesellschaft Mark zu Sölde i.W." ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Holzwickede" .
+
+<http://example.org/mine/396> a ex:Mine ;
+    ex:info "Krupp'sche Verwaltung der Zechen Hannover und Hannibal " ;
+    ex:name "Zeche Hannover" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hordel" .
+
+<http://example.org/mine/397> a ex:Mine ;
+    ex:info "Krupp'sche Verwaltung der Zechen Hannover und Hannibal " ;
+    ex:name "Zeche Hannibal" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hordel" .
+
+<http://example.org/mine/398> a ex:Mine ;
+    ex:info "Eigentum der AG Steinkohlenbergwerk Nordstern; s. unter Wattenscheid, Eigentum der AG Steinkohlenberwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Nordstern, Horstermark" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Horstermark (Westf.)" .
+
+<http://example.org/mine/399> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Hansa bei Huckarde" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Huckarde" .
+
+<http://example.org/mine/4> a ex:Mine ;
+    ex:info "Eigentum der Gew. Ver. Hamburg und Franziska, Eigentum der Gew. Ver. Hamburg und Franziska, s. unter Witten, Eigentum der Gew. Ver. Hamburg und Franziska; s. unter Witten" ;
+    ex:name "Steinkohlenzeche ver. Hamburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Annen" .
+
+<http://example.org/mine/40> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerks-Actien-Gesellschaft Courl" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Courl" .
+
+<http://example.org/mine/400> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Hugo bei Hugo " ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hugo (Westf.)" .
+
+<http://example.org/mine/401> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Zollern bei Kirchlinde" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kirchlinde" .
+
+<http://example.org/mine/402> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche Bonifacius in Kray" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kray" .
+
+<http://example.org/mine/403> a ex:Mine ;
+    ex:info "Eigentum der Bergwerksgesellschaft Adler; s. unter Erkelenz" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Concordia bei Kupferdreh" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/404> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche ver. Pörtingssiepen zu Kupferdreh" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/405> a ex:Mine ;
+    ex:info "Eigentum der Gew. des Steinkohlenbergwerks Hercules; s. unter Essen, Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Richradt" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/406> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Heinrich Gustav bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/407> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Amalia bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kupferdreh" .
+
+<http://example.org/mine/408> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Prinz von Preussen bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Laar bei Ruhrort" .
+
+<http://example.org/mine/409> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Caroline bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/41> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche Altendorf" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dahlhausen a.d. Ruhr" .
+
+<http://example.org/mine/410> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Neu-Iserlohn bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/411> a ex:Mine ;
+    ex:info "Eigentum der AG Dortmunder Steinkohlenbergwerk Louise Tiefbau; s. unter Barop" ;
+    ex:name "Zeche Bruchstrasse bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Langendreer" .
+
+<http://example.org/mine/412> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Preussen I und II bei Lünen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Lünen" .
+
+<http://example.org/mine/413> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche ver. Germania in Marten" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Marten" .
+
+<http://example.org/mine/414> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergbau-Aktien-Gesellschaft Massen in Niedermassen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Massen (Westf.)" .
+
+<http://example.org/mine/415> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Sellerbeck, Mülheim (Ruhr)" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Mülheim (Ruhr)" .
+
+<http://example.org/mine/416> a ex:Mine ;
+    ex:info "Eigentum der AG Mülheimer Bergwerks-Verein, s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Vereins; s. unter Mülheim" ;
+    ex:name "Zeche Hagenbeck" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Mülheim (Ruhr)" .
+
+<http://example.org/mine/417> a ex:Mine ;
+    ex:info "Eigentum der AG Mülheimer Bergwerks-Verein, s. unter Mülheim, Eigentum des Mülheimer Bergwerks-Vereins; s. unter Mülheim" ;
+    ex:name "Zeche Wiesche" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Mülheim (Ruhr)" .
+
+<http://example.org/mine/418> a ex:Mine ;
+    ex:info "Verwaltung durch den Mülheimer Bergwerks-Verein, wird durch den Mülheimer Bergwerks-Verein verwaltet" ;
+    ex:name "Gewerkschaft Neu-Schölerpad und Hobeisen bei Essen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Mülheim (Ruhr)" .
+
+<http://example.org/mine/419> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlenbergwerk Neumühl" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Neumühl (Rheinl.)" .
+
+<http://example.org/mine/42> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Dahlhauser Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dahlhausen a.d. Ruhr" .
+
+<http://example.org/mine/420> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte; s. unter Oberhausen" ;
+    ex:name "Zeche Oberhausen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Oberhausen (Rheinl.)" .
+
+<http://example.org/mine/421> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte; s. unter Oberhausen" ;
+    ex:name "Zeche Osterfeld" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Oberhausen (Rheinl.)" .
+
+<http://example.org/mine/422> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte; s. unter Oberhausen" ;
+    ex:name "Zeche Vondern" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Oberhausen (Rheinl.)" .
+
+<http://example.org/mine/423> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte; s. unter Oberhausen" ;
+    ex:name "Zeche Sterkrade" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Oberhausen (Rheinl.)" .
+
+<http://example.org/mine/424> a ex:Mine ;
+    ex:info "Eigentum der Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb, Eigentum der Gutehoffnungshütte; s. unter Oberhausen" ;
+    ex:name "Zeche Ludwig" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Oberhausen (Rheinl.)" .
+
+<http://example.org/mine/425> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft König Ludwig" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Recklinghausen-Süd" .
+
+<http://example.org/mine/426> a ex:Mine ;
+    ex:info "in der Entwicklung" ;
+    ex:name "Gewerkschaft Auguste Viktoria" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Sinsen bei Recklinghausen" .
+
+<http://example.org/mine/427> a ex:Mine ;
+    ex:info "Eigentum der Gewerkschaft Ewald in Herten, Eigentum der Gew. Ewald; s. unter Herten" ;
+    ex:name "Zeche Eiberg" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Steele (Ruhr)" .
+
+<http://example.org/mine/428> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlen-Bergwerks Eintracht Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Steele (Ruhr)" .
+
+<http://example.org/mine/429> a ex:Mine ;
+    ex:info "Verwaltung der Stinnes'schen Zechen; s. unter Essen, Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft Friedrich Ernestine" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Stoppenberg" .
+
+<http://example.org/mine/43> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Betriebsverwaltung der Zeche Hasenwinkel" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dahlhausen a.d. Ruhr" .
+
+<http://example.org/mine/430> a ex:Mine ;
+    ex:info "Zeche ist im Bau, s. unter Königliche Bergwerksdirektion Recklinghausen" ;
+    ex:name "Königliche Berginspektion 4, Waltrop (Zeche Waltrop)" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Vormholz bei Bommern" .
+
+<http://example.org/mine/431> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Fröhliche Morgensonne in Westenfeld bei Wattenscheid" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/432> a ex:Mine ;
+    ex:info "Eigentum der Aktien-Gesellschaft Steinkohlenbergwerk Nordstern, Wattenscheid; Ringofenziegelei, Eigentum der AG Steinkohlenberwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Holland, Wattenscheid" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/433> a ex:Mine ;
+    ex:info "Eigentum der Aktien-Gesellschaft Steinkohlenbergwerk Nordstern, Wattenscheid; Ringofenziegelei, Eigentum der AG Steinkohlenberwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Nordstern, Horstermark" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/434> a ex:Mine ;
+    ex:info "Eigentum der Aktien-Gesellschaft Steinkohlenbergwerk Nordstern, Wattenscheid; Ringofenziegelei, Eigentum der AG Steinkohlenberwerk Nordstern; s. unter Wattenscheid" ;
+    ex:name "Zeche Graf Moltke bei Gladbeck" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Wattenscheid" .
+
+<http://example.org/mine/435> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Paul" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Werden (Ruhr)" .
+
+<http://example.org/mine/436> a ex:Mine ;
+    ex:info "Ringofenziegelei, Schlackensteinfabrik, Kalkringofen" ;
+    ex:name "Eschweiler Bergwerks-Verein, Eschweiler Pumpe" ;
+    schema1:Place "Aaachener Bezirk" ;
+    geo:location "Eschweileraue" .
+
+<http://example.org/mine/437> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Zeche Norstern" ;
+    schema1:Place "Aaachener Bezirk" ;
+    geo:location "Herzogenrath" .
+
+<http://example.org/mine/438> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Catharina" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Altendorf (Rheinland)" .
+
+<http://example.org/mine/439> a ex:Mine ;
+    ex:info "Die AG Dortmunder Steinkohlenbergbau Louise Tiefbau besitzt fast sämtliche Kuxe dieser Zeche" ;
+    ex:name "Gewerkschaft der Zeche ver. Wiendahlsbank" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Barop" .
+
+<http://example.org/mine/44> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft; s. unter Dortmund" ;
+    ex:name "Zeche Gneisenau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Derne" .
+
+<http://example.org/mine/440> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau und Gußstahlfabrikation; s. unter Bochum" ;
+    ex:name "Zeche ver. Präsident" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bochum" .
+
+<http://example.org/mine/441> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerksgesellschaft Hermann mbH" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Bork (Kr. Lüdinghausen)" .
+
+<http://example.org/mine/442> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Siebenplaneten bie Langendreer" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/443> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Eisen- und Stahlwerke Hoesch AG, Zeche Kaiserstuhl" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/444> a ex:Mine ;
+    ex:info "Eigentum von Phönix, AG für Bergbau- und Hüttenbetrieb; s. unter Duisburg-Ruhrort" ;
+    ex:name "Hörder Kohlenwerk" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Duisburg-Ruhrort" .
+
+<http://example.org/mine/445> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerksgesellschaft Adler, " ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Erkelenz" .
+
+<http://example.org/mine/446> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Katharina " ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/447> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche ver. Pörtingssiepen" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/448> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Carl Funke" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/449> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Pauline" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/45> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Dorstfeld" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dorstfeld" .
+
+<http://example.org/mine/450> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Dahlhauser Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/451> a ex:Mine ;
+    ex:info "Eigentum der Firma Fried. Krupp; s. unter Essem" ;
+    ex:name "Zeche Hannover" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/452> a ex:Mine ;
+    ex:info "Eigentum der Firma Fried. Krupp; s. unter Essem" ;
+    ex:name "Zeche Hannibal" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/453> a ex:Mine ;
+    ex:info "Eigentum der Firma Fried. Krupp; s. unter Essem" ;
+    ex:name "Krupp'sche Verwaltung der Zechen Hannover und Hannibal" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Hordel" .
+
+<http://example.org/mine/454> a ex:Mine ;
+    ex:info "Grubenbetrieb ruhte wegen eines Schachtbrandunglücks von Juli 1905 bis Mitte 1906" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Borussia" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kley" .
+
+<http://example.org/mine/455> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Oespel" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kley" .
+
+<http://example.org/mine/456> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Katharina " ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Kray" .
+
+<http://example.org/mine/457> a ex:Mine ;
+    ex:info "Die 1000teilige Gew. Vereinigtes Glüclauf hat den Betrieb der 128teiligen Gewerkschaft verlorener Sohn übernommen" ;
+    ex:name "Gewerkschaft Verlorener Sohn" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Linden" .
+
+<http://example.org/mine/458> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergbau-AG Mark zu Sölde, Zeche Freiberg" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Mülheim (Ruhr)" .
+
+<http://example.org/mine/459> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Brassert" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/46> a ex:Mine ;
+    ex:info "Die Zeche ist Eigentum der Firma Wiskott&Comp., Dortmund, Eigentum der Firma Wiskott&Comp., Dortmund" ;
+    ex:name "Gewerkschaft Friedrich Wilhelm" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/460> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 1 zu Ibbenbüren" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/461> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 2 zu Gladbeck, Zeche ver. Glasbeck" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/462> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 3 zu Buer, Zeche Bergmannsglück" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/463> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 4 zu Waltrop, Zeche Waltrop" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Recklinghausen" .
+
+<http://example.org/mine/464> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Carl Funke" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Rellinghausen" .
+
+<http://example.org/mine/465> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerksgesellschaft Dahlbusch" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Rotthausen" .
+
+<http://example.org/mine/466> a ex:Mine ;
+    ex:info "Eigentum des Mülheimer Bergwerks-Vereins; s. unter Mülheim" ;
+    ex:name "Bergbau-AG Mark zu Sölde, Zeche Freiberg" ;
+    schema1:Place "niederrheinisch-westfälisches Industriegebiet" ;
+    geo:location "Sölde (Westf.)" .
+
+<http://example.org/mine/467> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Eschweiler Bergwerks-Verein, Abteilung Kohlscheidt" ;
+    schema1:Place "Aaachener Bezirk" ;
+    geo:location "Eschweileraue" .
+
+<http://example.org/mine/468> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Neuanlage Carl Friedrich bei Richterich" ;
+    schema1:Place "Aaachener Bezirk" ;
+    geo:location "Richterich" .
+
+<http://example.org/mine/469> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 1 zu Ensdorf (Saar), Steinkohlenbergwerk Kronprinz" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/47> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Heinrich Gustav bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/470> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 2 zu Louisenthal (Saar), Steinkohlenbergwerk Gerhard" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/471> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 3 zu von der Heydt, Steinkohlenbergwerk von der Heydt" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/472> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 4 zu Dudweiler (Post Sulzbach), Steinkohlenbergwerk Dudweiler" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/473> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 5 zu Sulzbach (Kreis Saarbrücken), Steinkohlenbergwerk Sulzbach" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/474> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 6 zu Reden (Kreis Ottweiler), Steinkohlenbergwerk Reden" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/475> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 8 zu Neunkirchen (Reg.-Bez. Trier), Steinkohlenbergwerk König" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/476> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 9 zu Friedrichsthal, Steinkohlenbergwerk Friedrichsthal" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/477> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 10 zu Göttelborn, Steinkohlenbergwerk Göttelborn" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/478> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königliche Berginspektion 11 zu Camphausen, Steinkohlenbergwerk Camphausen" ;
+    schema1:Place "Saargebiet" ;
+    geo:location "Saarbrücken" .
+
+<http://example.org/mine/479> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaftliche Steinkohlengrube Breitenbach" ;
+    schema1:Place "Bayern" ;
+    geo:location "Breitenbach (Pfalz)" .
+
+<http://example.org/mine/48> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Amalie bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/480> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Steinbach" ;
+    schema1:Place "Bayern" ;
+    geo:location "Brücken (Bez. Homburg, Pfalz)" .
+
+<http://example.org/mine/481> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Frankenholzer Bergwerksgesellschaft" ;
+    schema1:Place "Bayern" ;
+    geo:location "Frankenholz (Pfalz)" .
+
+<http://example.org/mine/482> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Kgl. Bergamt Mittelbexbach" ;
+    schema1:Place "Bayern" ;
+    geo:location "Mittelbexbach" .
+
+<http://example.org/mine/483> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Königl. Bergamt St. Ingbert. Königl. Steinkohlengrube St. Ingbert." ;
+    schema1:Place "Bayern" ;
+    geo:location "St. Ingbert" .
+
+<http://example.org/mine/484> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Saar- und Mosel-Bergwerks-Gesellschaft" ;
+    schema1:Place "Elsaß-Lothringen" ;
+    geo:location "Karlingen (Lothr.)" .
+
+<http://example.org/mine/485> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerk de Wendel. \"Les Petits-Fils de Fois de Wendel & Cie.\"" ;
+    schema1:Place "Elsaß-Lothringen" ;
+    geo:location "Klein-Rosseln (Lothr.)" .
+
+<http://example.org/mine/486> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerks-Aktien-Gesellschaft La Houvre, Grubenanlage in Kreuzwald" ;
+    schema1:Place "Elsaß-Lothringen" ;
+    geo:location "Straßburg (Els.)" .
+
+<http://example.org/mine/487> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Hubertus" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Brüggen" .
+
+<http://example.org/mine/488> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Eisensteinbergwerks \"Bellerhammer\"" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Brühl bei Cöln" .
+
+<http://example.org/mine/489> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Braunkohlenbergwerks Brühl" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Brühl bei Cöln" .
+
+<http://example.org/mine/49> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Prinz von Preussen bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/490> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gruhl'sches Braunkohlen- und Briketwerk mbH" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Brühl bei Cöln" .
+
+<http://example.org/mine/491> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Roddergrube" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Brühl bei Cöln" .
+
+<http://example.org/mine/492> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zuckerfabrik Brühl" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Brühl bei Cöln" .
+
+<http://example.org/mine/493> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Hamburg, Juntersdorf bei Zülpich" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Embken (Kreis Düren)" .
+
+<http://example.org/mine/494> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Clarenberg, Aktien-Gesellschaft für Kohlen- und Ton-Industrie" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Frechen" .
+
+<http://example.org/mine/495> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Schallmauer in Bachem" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Frechen" .
+
+<http://example.org/mine/496> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Wachtberg I, Braunkohlenwerke und Briketfabrik" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Frechen" .
+
+<http://example.org/mine/497> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Wilhelma, Braunkohlen- und Briketfabrik" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Frechen" .
+
+<http://example.org/mine/498> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Ribbert'sche Braunkohlen-, Briket- und Tonwerke, Ribbert & Co." ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Hermülheim (Bez. Cöln)" .
+
+<http://example.org/mine/499> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Grube Theresia" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Hermülheim (Bez. Cöln)" .
+
+<http://example.org/mine/5> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Ringeltaube" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Annen" .
+
+<http://example.org/mine/50> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Neu-Iserlohn bei Lütgendortmund" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/500> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Ruhr" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Hermülheim (Bez. Cöln)" .
+
+<http://example.org/mine/501> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Beisselsgrube" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Horrem (Bez. Cöln)" .
+
+<http://example.org/mine/502> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Horremer Briketfabrik" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Horrem (Bez. Cöln)" .
+
+<http://example.org/mine/503> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Fortuna AG für Braunkohlenbergbau und Briketfabrikation" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Horrem (Bez. Cöln)" .
+
+<http://example.org/mine/504> a ex:Mine ;
+    ex:info "an die Braunkohlen-Verwertungs-Gesellschaft Regitta, Hannover, verkauft" ;
+    ex:name "Gewerkschaft Susanna" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Horrem (Bez. Cöln)" .
+
+<http://example.org/mine/505> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Carl Brendgen, Braunkohlen-Briket- und Tonwerke Zisselsmaar, Kreis Euskirchen" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Kierdorf (Kreis Euskirchen)" .
+
+<http://example.org/mine/506> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Braunkohlen- und Briketwerk Concordia" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Liblar" .
+
+<http://example.org/mine/507> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Brühl-Kölner Braunkohlenbergwerk Conatus" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Liblar" .
+
+<http://example.org/mine/508> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Braunkohlenbergwerk und Briketfabrik Liblar" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Liblar" .
+
+<http://example.org/mine/509> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Lucherberg" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Lucherberg (Bez. Aachen)" .
+
+<http://example.org/mine/51> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Vollmond bei Langendreer" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/510> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Société Anonyme des Mines Comte Fürstenberg, Bottenbroich" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Mödrath" .
+
+<http://example.org/mine/511> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Rheingold" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Oekhoven" .
+
+<http://example.org/mine/512> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Fortuna AG für Braunkohlenbergbau und Briketfabrikation" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Quadrath" .
+
+<http://example.org/mine/513> a ex:Mine ;
+    ex:info "Eigentum des Braunkohlenbriket-Verkaufsvereins GmbH, Köln" ;
+    ex:name "Türnicher Briket- und Verblendsteinfabrik" ;
+    schema1:Place "linksrheinisches Industriegebiet" ;
+    geo:location "Türnich bei Köln" .
+
+<http://example.org/mine/52> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche von der Heydt (früher Providence) bei Herne" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/53> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Julia (früher Barillon) bei Herne" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/54> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Recklinghausen I (früher Clerget) bei Bruch (Westf.)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/55> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Recklinghausen II bei Bruch (Westf.)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/56> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Gneisenau bei Derne" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/57> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum des Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund, Eigentum der Harpener Bergbau-Aktiengesellschaft" ;
+    ex:name "Zeche Preussen I und II bei Lünen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/58> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche Tremonia" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/59> a ex:Mine ;
+    ex:info "Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahlindustrie in Dortmund, Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, Actien-Gesellschaft für Bergbau Eisen- und Stahl-Industrie, Eigentum der Union, Aktien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie; s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, A für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, Aktiengesellschaft für Bergbau, Eisen- und Stahlindustrie, Dortmund" ;
+    ex:name "Zeche Glückauf Tiefbau bei Barop" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/6> a ex:Mine ;
+    ex:info "Die Actien-Gesellschaft Dortmunder Steinkohlenbergwerk Louise Tiefbau besitzt fast sämtliche Kuxe dieser Zeche, Die AG Dortmunder Steinkohlenbergwerk Louise Tiefbau besitzt fast sämtliche Kuxe dieser Zeche, Die AG Dortmunder Steinkohlenbergwerk Louise besitzt fast sämtliche Kuxe dieser Zeche, Die AG Dortmunder Steinkohlenbergwerke Louise Tiefbau besitzt fast sämtliche Kuxe dieser Zeche" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Wiendahlsbank" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Annen" .
+
+<http://example.org/mine/60> a ex:Mine ;
+    ex:info "Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahlindustrie in Dortmund, Eigentum der Union, Actien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, Actien-Gesellschaft für Bergbau Eisen- und Stahl-Industrie, Eigentum der Union, Aktien-Gesellschaft für Bergbau, Eisen- und Stahl-Industrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie, s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahlindustrie; s. unter Dortmund, Eigentum der Union, AG für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, A für Bergbau, Eisen- und Stahl-Industrie; s. unter Dortmund, Eigentum der Union, Aktiengesellschaft für Bergbau, Eisen- und Stahlindustrie, Dortmund" ;
+    ex:name "Zeche Carl Friedrich Erbstollen bei Weitmar" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/61> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche Westphalia" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Dortmund" .
+
+<http://example.org/mine/62> a ex:Mine ;
+    ex:info "Eigentum der Firma Friedr. Krupp; s. unter Hordel, Eigentum der Firma Fried. Krupp; s. unter Hordel" ;
+    ex:name "Gewerkschaft ver. Hannibal" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Eickel (Kreis Bochum)" .
+
+<http://example.org/mine/63> a ex:Mine ;
+    ex:info "Der Gesellschaft gehört auch die Zeche Julius Philipp, Bochum, Ringofenziegelei" ;
+    ex:name "Arenberg'sche Actien-Gesellschaft für Bergbau und Hüttenbetrieb" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/64> a ex:Mine ;
+    ex:info "Stinnes'sche Zechen, Verwaltet durch Mathias Stinnes'schen Zechen, Eigentum der Stinnes'schen Zechen, Verwaltng der Mathias Stinnes'schen Zechen, Verwaltung der Stinnes'schen Zechen , Verwaltung der Stinnes'schen Zechen, s. unter Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Gewerkschaft Graf Beust" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/65> a ex:Mine ;
+    ex:info "Eigentum der Essener Steinkohlenbergwerke; s. unter Essen" ;
+    ex:name "Zeche Hercules" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/66> a ex:Mine ;
+    ex:info "Die Zeche ist in den Besitz der Zeche Graf Beust übergegangen und außer Betrieb gesetzt" ;
+    ex:name "Gewerkschaft ver. Hoffnung und Secretarius Aak" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/67> a ex:Mine ;
+    ex:info "Ringofenziegelei" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Königin Elisabeth" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/68> a ex:Mine ;
+    ex:info "Die Kuxen dieser Gew. Sind fast ausschließlich im Besitz der Firma Fried. Krupp in Essen, welche letztere Abnehmerin der Gesamtförderung ist, Die Kuxen dieser Gewerkschaft sind fast ausschließlich im Besitz der Firma Fried. Krupp in Essen, welch letztere Abnehmerin der Gesamtförderung ist, Die Kuxen dieser Gew. Sind fast ausschließlich im Besitz der Firma Fried. Krupp, welch letztere Abnehmerin der Gesamtförderung ist, Die Kuxe dieser Gew. Sind fast ausschließlich im Besitz der Firma Fried. Krupp, welch letztere Abnehmerin der Gesamtförderung ist, Die Kuxe dieser Gew. Sind fast ausschließlich im Besitz der Firma Friedr. Krupp, welche Abnehmerin der Gesamtförderung ist, Die Kuxe dieser Zechen befinden sich fast ausschließlich im Besitz der Firma Fried. Krupp, welche auch Abnehmerin der Gesamtförderung ist" ;
+    ex:name "Gewerkschaft ver. Sälzer und Neuack" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/69> a ex:Mine ;
+    ex:info "Stinnes'sche Zechen, Verwaltet durch Mathias Stinnes'schen Zechen, Eigentum der Stinnes'schen Zechen, Verwaltng der Mathias Stinnes'schen Zechen, Verwaltung der Stinnes'schen Zechen , Verwaltung der Stinnes'schen Zechen, s. unter Verwaltung der Stinnes'schen Zechen, Der Verwaltung gehört ferner die Zeche ver. Maria-Anna und Steinbank, Höntrop, deren Betrieb eingestellt ist; s. unter Verwaltung der Stinnes'schen Zechen, Verwaltung der Stinnes'schen Zechen; Ringofenziegelei" ;
+    ex:name "Gewerkschaft Victoria Mathias" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Essen (Ruhr)" .
+
+<http://example.org/mine/7> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Aplerbecker Actien-Verein für Bergbau (Zeche Margaretha)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Aplerbeck" .
+
+<http://example.org/mine/70> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergwerks-Gesellschaft Dahlbusch" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/71> a ex:Mine ;
+    ex:info "Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zechen ver. Rhein-Elbe und Alma bei Ueckendorf-Gelsenkirchen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/72> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Dahlbusch, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen" ;
+    ex:name "Zeche ver. Minister Stein und Hardenberg bei Nieder-Eving" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/73> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Dahlbusch, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe" ;
+    ex:name "Zeche Erin bei Castrop" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/74> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Dahlbusch, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe" ;
+    ex:name "Zeche Hansa bei Huckarde" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/75> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Dahlbusch, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe" ;
+    ex:name "Zeche Zollern bei Kirchlinde" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/76> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Dahlbusch, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe" ;
+    ex:name "Zeche ver. Germania bei Marten" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/77> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Dahlbusch, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, An dieser Zeche ist die Gelsenkirchener Bergwerks-Actien-Gesellschaft mit 958 von 1000 Kuxen beteiligt, Eigentum der Gelsenkirchener Bergwerks-AG, Eigentum der Gelsenkirchener Bergwerks-AG, s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-AG; s. unter Gelsenkirchen, Eigentum der Gelsenkirchener Bergwerks-Aktien-Gesellschaft Rheinelbe; Ringofenziegelei" ;
+    ex:name "Zeche Monopol bei Camen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/78> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Hibernia in Herne, Eigentum der Gelsenkirchener Bergwerks-Actien-Gesellschaft, Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, s. unter Herne, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne, Eigentum der Bergwerksgesellschaft Hiberna; s. unter Herne" ;
+    ex:name "Zeche Hibernia" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gelsenkirchen" .
+
+<http://example.org/mine/79> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Aktien-Gesellschaft" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Graf Moltke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Gladbeck (Westfalen)" .
+
+<http://example.org/mine/8> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Bickefeld Tiefbau" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Aplerbeck" .
+
+<http://example.org/mine/80> a ex:Mine ;
+    ex:info "Konsolidation der Zechen von Deutschland und Stock und Scherenbeck" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Deutschland" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hasslinghausen" .
+
+<http://example.org/mine/81> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks ver. Stock und Scherenberg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hasslinghausen" .
+
+<http://example.org/mine/82> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche ver. Carolinenglück" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hamme (Kreis Bochum)" .
+
+<http://example.org/mine/83> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft der Zeche Blankenburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hammerthal a.d. Ruhr" .
+
+<http://example.org/mine/84> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Geduld" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hattingen (Ruhr)" .
+
+<http://example.org/mine/85> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Rabe" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hattingen (Ruhr)" .
+
+<http://example.org/mine/86> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft Wodan" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Hattingen (Ruhr)" .
+
+<http://example.org/mine/87> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Zeche vert. Rosenblumendelle" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Heissen" .
+
+<http://example.org/mine/88> a ex:Mine ;
+    ex:info "seit Oktober 1900 im Betrieb, Zur Zeit außer Betrieb" ;
+    ex:name "Gewerkschaft ver. Hermann" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herbede (Ruhr)" .
+
+<http://example.org/mine/89> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Friedrich der Grosse" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/9> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Steinkohlen- und Eisensteinbergwerk Schürbank und Charlottenburg" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Aplerbeck" .
+
+<http://example.org/mine/90> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Hibernia in Herne, Eigentum der Bergwerks-Gesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, s. unter Herne, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne" ;
+    ex:name "Zeche Hibernia bei Gelsenkirchen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/91> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Hibernia in Herne, Eigentum der Bergwerks-Gesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, s. unter Herne, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne" ;
+    ex:name "Zeche Wilhelmine Victoria bei Schalke" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/92> a ex:Mine ;
+    ex:info "Eigentum der Bergwerks-Gesellschaft Hibernia in Herne, Eigentum der Bergwerks-Gesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, Eigentum der Bergwerksgesellschaft Hibernia, s. unter Herne, Eigentum der Bergwerksgesellschaft Hibernia; s. unter Herne" ;
+    ex:name "Zeche Shamrock I und II bei Herne" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/93> a ex:Mine ;
+    ex:info "Eigentum der Harpener Bergbau-Actien-Gesellschaft in Dortmund, Eigentum der Harpener Bergbau-Aktien-Gesellschaft, Eigentum der Harpener Bergbau-Actien-Gesellschaft, Eigentum der Harpener Bergbau-AG, Eigentum der Harpener Bergbau-AG, s. unter Dortmund, Eigentum der Harpener Bergbau-AG; s. unter Dortmund" ;
+    ex:name "Zeche Julia (früher Barillon)" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/94> a ex:Mine ;
+    ex:info "Gew. Gehört auch die Zeche Bommerbänker Tiefbau; s. unter Bommern, Der Gew. Gehört auch die Zeche ver. Bommerbänker Tiefbau; s. u Bommern" ;
+    ex:name "Gewerkschaft der Steinkohlenzeche Mont-Cenis" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herne" .
+
+<http://example.org/mine/95> a ex:Mine ;
+    ex:info "Der Gew. Gehört auch die Zeche Eiberg bei Steele, Gew. Besitzt auch die Zeche Eiberg in Steele" ;
+    ex:name "Gewerkschaft des Steinkohlenbergwerks Ewald" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Herten (Westfalen)" .
+
+<http://example.org/mine/96> a ex:Mine ;
+    ex:info "Besitz der Familie Franz Haniel, Besitz der Familie Haniel" ;
+    ex:name "Steinkohlenbergwerk Rheinpreussen" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Homberg am Rhein" .
+
+<http://example.org/mine/97> a ex:Mine ;
+    ex:info "Eigentum des Bochumer Verein für Bergbau und Gusstahlfabrikation, Eigentum des Bochumer Vereins für Bergbau und Gusstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau nd Gussstahlfabrikation, Eigentum des Bochumer Verein für Bergbau und Gussstahlfabrikation; s. unter Bochum, Eigentum der Zechen Victoria Mathias und Mathias Stinnes; s. unter Essen, s. unter Verwaltung der Stinnes'schen Zechen" ;
+    ex:name "Die Betriebsverwaltung der Zeche ver. Maria Anna und Steinbank" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Höntrop" .
+
+<http://example.org/mine/98> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Gewerkschaft des Steinkohlen- und Eisensteinbergwerks Caroline" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Holzwickede" .
+
+<http://example.org/mine/99> a ex:Mine ;
+    ex:info "None" ;
+    ex:name "Bergbau-Actien-Gesellschaft Mark" ;
+    schema1:Place "niederrheinisch-westfälischer Industriebezirk" ;
+    geo:location "Holzwickede" .
+

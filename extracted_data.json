@@ -1,0 +1,4352 @@
+[
+    {
+        "uri": "http://example.org/Adele_Schacht_Reiser",
+        "name": "Adele Schacht Reiser",
+        "geometry": "http://example.org/Adele_Schacht_ReiserGeom"
+    },
+    {
+        "uri": "http://example.org/Adler_Schacht_1",
+        "name": "Adler Schacht 1",
+        "geometry": "http://example.org/Adler_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Adler_Schacht_2",
+        "name": "Adler Schacht 2",
+        "geometry": "http://example.org/Adler_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Adler_Schacht_3",
+        "name": "Adler Schacht 3",
+        "geometry": "http://example.org/Adler_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Admiral_F\u00f6rderschacht",
+        "name": "Admiral F\u00f6rderschacht",
+        "geometry": "http://example.org/Admiral_F\u00f6rderschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Admiral_Wetterschacht",
+        "name": "Admiral Wetterschacht",
+        "geometry": "http://example.org/Admiral_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Adolf_von_Hansemann_Ostschacht",
+        "name": "Adolf von Hansemann Ostschacht",
+        "geometry": "http://example.org/Adolf_von_Hansemann_OstschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Adolf_von_Hansemann_Schacht_1",
+        "name": "Adolf von Hansemann Schacht 1",
+        "geometry": "http://example.org/Adolf_von_Hansemann_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Adolf_von_Hansemann_Schacht_2",
+        "name": "Adolf von Hansemann Schacht 2",
+        "geometry": "http://example.org/Adolf_von_Hansemann_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Adolf_von_Hansemann_Schacht_3",
+        "name": "Adolf von Hansemann Schacht 3",
+        "geometry": "http://example.org/Adolf_von_Hansemann_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Adolf_von_Hansemann_Schacht_4",
+        "name": "Adolf von Hansemann Schacht 4",
+        "geometry": "http://example.org/Adolf_von_Hansemann_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Adolf_von_Hansemann_Schacht_5",
+        "name": "Adolf von Hansemann Schacht 5",
+        "geometry": "http://example.org/Adolf_von_Hansemann_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Alma_Schacht_1",
+        "name": "Alma Schacht 1",
+        "geometry": "http://example.org/Alma_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Alma_Schacht_2",
+        "name": "Alma Schacht 2",
+        "geometry": "http://example.org/Alma_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Alma_Schacht_3",
+        "name": "Alma Schacht 3",
+        "geometry": "http://example.org/Alma_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Alma_Schacht_4",
+        "name": "Alma Schacht 4",
+        "geometry": "http://example.org/Alma_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Alma_Schacht_5",
+        "name": "Alma Schacht 5",
+        "geometry": "http://example.org/Alma_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Alstaden_Schacht_1",
+        "name": "Alstaden Schacht 1",
+        "geometry": "http://example.org/Alstaden_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Alstaden_Schacht_2",
+        "name": "Alstaden Schacht 2",
+        "geometry": "http://example.org/Alstaden_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Alstaden_Schacht_3",
+        "name": "Alstaden Schacht 3",
+        "geometry": "http://example.org/Alstaden_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Alte_Haase_Schacht_1",
+        "name": "Alte Haase Schacht 1",
+        "geometry": "http://example.org/Alte_Haase_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Alte_Haase_Schacht_2",
+        "name": "Alte Haase Schacht 2",
+        "geometry": "http://example.org/Alte_Haase_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Alte_Haase_Schacht_Brahm",
+        "name": "Alte Haase Schacht Brahm",
+        "geometry": "http://example.org/Alte_Haase_Schacht_BrahmGeom"
+    },
+    {
+        "uri": "http://example.org/Alte_Haase_Schacht_Buchholz",
+        "name": "Alte Haase Schacht Buchholz",
+        "geometry": "http://example.org/Alte_Haase_Schacht_BuchholzGeom"
+    },
+    {
+        "uri": "http://example.org/Alte_Haase_Schacht_Niederheide",
+        "name": "Alte Haase Schacht Niederheide",
+        "geometry": "http://example.org/Alte_Haase_Schacht_NiederheideGeom"
+    },
+    {
+        "uri": "http://example.org/Altendorf_Tiefbau_Schacht_1",
+        "name": "Altendorf Tiefbau Schacht 1",
+        "geometry": "http://example.org/Altendorf_Tiefbau_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Altendorf_Tiefbau_Schacht_2",
+        "name": "Altendorf Tiefbau Schacht 2",
+        "geometry": "http://example.org/Altendorf_Tiefbau_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Altendorf_Tiefbau_Schacht_Rochussen",
+        "name": "Altendorf Tiefbau Schacht Rochussen",
+        "geometry": "http://example.org/Altendorf_Tiefbau_Schacht_RochussenGeom"
+    },
+    {
+        "uri": "http://example.org/Altendorf_Tiefbau_Schacht_Willm",
+        "name": "Altendorf Tiefbau Schacht Willm",
+        "geometry": "http://example.org/Altendorf_Tiefbau_Schacht_WillmGeom"
+    },
+    {
+        "uri": "http://example.org/Alter_Hellweg_Schacht_1",
+        "name": "Alter Hellweg Schacht 1",
+        "geometry": "http://example.org/Alter_Hellweg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Deutscher_Kaiser_Schacht",
+        "name": "Deutscher Kaiser Schacht",
+        "geometry": "http://example.org/Deutscher_Kaiser_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Deutsches_Bergbau-Museum_Bochum",
+        "name": "Deutsches Bergbau-Museum Bochum",
+        "geometry": "http://example.org/Deutsches_Bergbau-Museum_BochumGeom"
+    },
+    {
+        "uri": "http://example.org/Deutschland_Schacht_Beust",
+        "name": "Deutschland Schacht Beust",
+        "geometry": "http://example.org/Deutschland_Schacht_BeustGeom"
+    },
+    {
+        "uri": "http://example.org/Deutschland_Schacht_Harkort",
+        "name": "Deutschland Schacht Harkort",
+        "geometry": "http://example.org/Deutschland_Schacht_HarkortGeom"
+    },
+    {
+        "uri": "http://example.org/Deutschland_Schacht_H\u00f6vel",
+        "name": "Deutschland Schacht H\u00f6vel",
+        "geometry": "http://example.org/Deutschland_Schacht_H\u00f6velGeom"
+    },
+    {
+        "uri": "http://example.org/Deutschland_Schacht_Ulenberg",
+        "name": "Deutschland Schacht Ulenberg",
+        "geometry": "http://example.org/Deutschland_Schacht_UlenbergGeom"
+    },
+    {
+        "uri": "http://example.org/Diergardt_Schacht_1",
+        "name": "Diergardt Schacht 1",
+        "geometry": "http://example.org/Diergardt_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Diergardt_Schacht_2",
+        "name": "Diergardt Schacht 2",
+        "geometry": "http://example.org/Diergardt_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Diergardt_Schacht_3",
+        "name": "Diergardt Schacht 3",
+        "geometry": "http://example.org/Diergardt_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Dorstfeld_Schacht_1",
+        "name": "Dorstfeld Schacht 1",
+        "geometry": "http://example.org/Dorstfeld_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Dorstfeld_Schacht_2",
+        "name": "Dorstfeld Schacht 2",
+        "geometry": "http://example.org/Dorstfeld_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Dorstfeld_Schacht_3",
+        "name": "Dorstfeld Schacht 3",
+        "geometry": "http://example.org/Dorstfeld_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Dorstfeld_Schacht_4",
+        "name": "Dorstfeld Schacht 4",
+        "geometry": "http://example.org/Dorstfeld_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Dorstfeld_Schacht_5",
+        "name": "Dorstfeld Schacht 5",
+        "geometry": "http://example.org/Dorstfeld_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Dorstfeld_Schacht_6",
+        "name": "Dorstfeld Schacht 6",
+        "geometry": "http://example.org/Dorstfeld_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Dorstfeld_Schacht_Planetenfeld",
+        "name": "Dorstfeld Schacht Planetenfeld",
+        "geometry": "http://example.org/Dorstfeld_Schacht_PlanetenfeldGeom"
+    },
+    {
+        "uri": "http://example.org/Egbert",
+        "name": "Egbert",
+        "geometry": "http://example.org/EgbertGeom"
+    },
+    {
+        "uri": "http://example.org/Eiberg_Schacht_1",
+        "name": "Eiberg Schacht 1",
+        "geometry": "http://example.org/Eiberg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Eiberg_Schacht_2",
+        "name": "Eiberg Schacht 2",
+        "geometry": "http://example.org/Eiberg_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Eiberg_Wetterschacht",
+        "name": "Eiberg Wetterschacht",
+        "geometry": "http://example.org/Eiberg_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Eiberg_Wetterschacht_2",
+        "name": "Eiberg Wetterschacht 2",
+        "geometry": "http://example.org/Eiberg_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Eintracht_Tiefbau_Schacht_1",
+        "name": "Eintracht Tiefbau Schacht 1",
+        "geometry": "http://example.org/Eintracht_Tiefbau_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Eintracht_Tiefbau_Schacht_2/1",
+        "name": "Eintracht Tiefbau Schacht 2/1",
+        "geometry": "http://example.org/Eintracht_Tiefbau_Schacht_2/1Geom"
+    },
+    {
+        "uri": "http://example.org/Eintracht_Tiefbau_Schacht_3",
+        "name": "Eintracht Tiefbau Schacht 3",
+        "geometry": "http://example.org/Eintracht_Tiefbau_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Eintracht_Tiefbau_Wetterschacht_1",
+        "name": "Eintracht Tiefbau Wetterschacht 1",
+        "geometry": "http://example.org/Eintracht_Tiefbau_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Eintracht_Tiefbau_Wetterschacht_2",
+        "name": "Eintracht Tiefbau Wetterschacht 2",
+        "geometry": "http://example.org/Eintracht_Tiefbau_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Eleonore_Kunstschacht",
+        "name": "Eleonore Kunstschacht",
+        "geometry": "http://example.org/Eleonore_KunstschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Elisabethengl\u00fcck",
+        "name": "Elisabethengl\u00fcck",
+        "geometry": "http://example.org/Elisabethengl\u00fcckGeom"
+    },
+    {
+        "uri": "http://example.org/Emil_Schacht_1",
+        "name": "Emil Schacht 1",
+        "geometry": "http://example.org/Emil_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Emil_Schacht_2",
+        "name": "Emil Schacht 2",
+        "geometry": "http://example.org/Emil_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher-Lippe_Schacht_1",
+        "name": "Emscher-Lippe Schacht 1",
+        "geometry": "http://example.org/Emscher-Lippe_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher-Lippe_Schacht_2",
+        "name": "Emscher-Lippe Schacht 2",
+        "geometry": "http://example.org/Emscher-Lippe_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher-Lippe_Schacht_3",
+        "name": "Emscher-Lippe Schacht 3",
+        "geometry": "http://example.org/Emscher-Lippe_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher-Lippe_Schacht_4",
+        "name": "Emscher-Lippe Schacht 4",
+        "geometry": "http://example.org/Emscher-Lippe_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher-Lippe_Schacht_5",
+        "name": "Emscher-Lippe Schacht 5",
+        "geometry": "http://example.org/Emscher-Lippe_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher-Lippe_Schacht_6",
+        "name": "Emscher-Lippe Schacht 6",
+        "geometry": "http://example.org/Emscher-Lippe_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher_Schacht_1",
+        "name": "Emscher Schacht 1",
+        "geometry": "http://example.org/Emscher_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher_Schacht_2",
+        "name": "Emscher Schacht 2",
+        "geometry": "http://example.org/Emscher_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Emscher_Wetterschacht",
+        "name": "Emscher Wetterschacht",
+        "geometry": "http://example.org/Emscher_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Engelsburg_Maschinenschacht_1",
+        "name": "Engelsburg Maschinenschacht 1",
+        "geometry": "http://example.org/Engelsburg_Maschinenschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Engelsburg_Maschinenschacht_2",
+        "name": "Engelsburg Maschinenschacht 2",
+        "geometry": "http://example.org/Engelsburg_Maschinenschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Engelsburg_Schacht_1",
+        "name": "Engelsburg Schacht 1",
+        "geometry": "http://example.org/Engelsburg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Engelsburg_Schacht_2",
+        "name": "Engelsburg Schacht 2",
+        "geometry": "http://example.org/Engelsburg_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Engelsburg_Schacht_3",
+        "name": "Engelsburg Schacht 3",
+        "geometry": "http://example.org/Engelsburg_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Engelsburg_Schacht_Hector",
+        "name": "Engelsburg Schacht Hector",
+        "geometry": "http://example.org/Engelsburg_Schacht_HectorGeom"
+    },
+    {
+        "uri": "http://example.org/Erin_Schacht_1",
+        "name": "Erin Schacht 1",
+        "geometry": "http://example.org/Erin_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Erin_Schacht_2",
+        "name": "Erin Schacht 2",
+        "geometry": "http://example.org/Erin_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Erin_Schacht_3",
+        "name": "Erin Schacht 3",
+        "geometry": "http://example.org/Erin_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Erin_Schacht_4",
+        "name": "Erin Schacht 4",
+        "geometry": "http://example.org/Erin_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Erin_Schacht_5",
+        "name": "Erin Schacht 5",
+        "geometry": "http://example.org/Erin_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Erin_Schacht_6",
+        "name": "Erin Schacht 6",
+        "geometry": "http://example.org/Erin_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Erin_Schacht_7",
+        "name": "Erin Schacht 7",
+        "geometry": "http://example.org/Erin_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Fortsetzung_Schacht_1",
+        "name": "Ewald Fortsetzung Schacht 1",
+        "geometry": "http://example.org/Ewald_Fortsetzung_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Fortsetzung_Schacht_2",
+        "name": "Ewald Fortsetzung Schacht 2",
+        "geometry": "http://example.org/Ewald_Fortsetzung_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Fortsetzung_Schacht_3",
+        "name": "Ewald Fortsetzung Schacht 3",
+        "geometry": "http://example.org/Ewald_Fortsetzung_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Fortsetzung_Schacht_4",
+        "name": "Ewald Fortsetzung Schacht 4",
+        "geometry": "http://example.org/Ewald_Fortsetzung_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Fortsetzung_Schacht_5",
+        "name": "Ewald Fortsetzung Schacht 5",
+        "geometry": "http://example.org/Ewald_Fortsetzung_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Schacht_1",
+        "name": "Ewald Schacht 1",
+        "geometry": "http://example.org/Ewald_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Schacht_2",
+        "name": "Ewald Schacht 2",
+        "geometry": "http://example.org/Ewald_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Schacht_3",
+        "name": "Ewald Schacht 3",
+        "geometry": "http://example.org/Ewald_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Schacht_4",
+        "name": "Ewald Schacht 4",
+        "geometry": "http://example.org/Ewald_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Schacht_5",
+        "name": "Ewald Schacht 5",
+        "geometry": "http://example.org/Ewald_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Schacht_6",
+        "name": "Ewald Schacht 6",
+        "geometry": "http://example.org/Ewald_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Ewald_Schacht_7",
+        "name": "Ewald Schacht 7",
+        "geometry": "http://example.org/Ewald_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Felicitas_Schacht",
+        "name": "Felicitas Schacht",
+        "geometry": "http://example.org/Felicitas_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Felicitas_Wetterschacht",
+        "name": "Felicitas Wetterschacht",
+        "geometry": "http://example.org/Felicitas_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Flora_Schacht_1",
+        "name": "Flora Schacht 1",
+        "geometry": "http://example.org/Flora_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Flora_Schacht_2",
+        "name": "Flora Schacht 2",
+        "geometry": "http://example.org/Flora_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Flora_Wetterschacht",
+        "name": "Flora Wetterschacht",
+        "geometry": "http://example.org/Flora_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Fortuna_Schacht_Stocksiepen",
+        "name": "Fortuna Schacht Stocksiepen",
+        "geometry": "http://example.org/Fortuna_Schacht_StocksiepenGeom"
+    },
+    {
+        "uri": "http://example.org/Franz_Haniel_Schacht_1",
+        "name": "Franz Haniel Schacht 1",
+        "geometry": "http://example.org/Franz_Haniel_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Franz_Haniel_Schacht_2",
+        "name": "Franz Haniel Schacht 2",
+        "geometry": "http://example.org/Franz_Haniel_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Franziska_Tiefbau_Hauptwetterschacht",
+        "name": "Franziska Tiefbau Hauptwetterschacht",
+        "geometry": "http://example.org/Franziska_Tiefbau_HauptwetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Franziska_Tiefbau_Schacht_Eleonore",
+        "name": "Franziska Tiefbau Schacht Eleonore",
+        "geometry": "http://example.org/Franziska_Tiefbau_Schacht_EleonoreGeom"
+    },
+    {
+        "uri": "http://example.org/Franziska_Tiefbau_Schacht_Haardt",
+        "name": "Franziska Tiefbau Schacht Haardt",
+        "geometry": "http://example.org/Franziska_Tiefbau_Schacht_HaardtGeom"
+    },
+    {
+        "uri": "http://example.org/Freiberg_Schacht_1",
+        "name": "Freiberg Schacht 1",
+        "geometry": "http://example.org/Freiberg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Freiberg_Wetterschacht_1",
+        "name": "Freiberg Wetterschacht 1",
+        "geometry": "http://example.org/Freiberg_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_1",
+        "name": "Freie Vogel & Unverhofft Schacht 1",
+        "geometry": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_2",
+        "name": "Freie Vogel & Unverhofft Schacht 2",
+        "geometry": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_3",
+        "name": "Freie Vogel & Unverhofft Schacht 3",
+        "geometry": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_Kipsburg",
+        "name": "Freie Vogel & Unverhofft Schacht Kipsburg",
+        "geometry": "http://example.org/Freie_Vogel_&_Unverhofft_Schacht_KipsburgGeom"
+    },
+    {
+        "uri": "http://example.org/Freie_Vogel_&_Unverhofft_Versuchsschacht",
+        "name": "Freie Vogel & Unverhofft Versuchsschacht",
+        "geometry": "http://example.org/Freie_Vogel_&_Unverhofft_VersuchsschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Freie_Vogel_&_Unverhofft_namenloser_Schacht",
+        "name": "Freie Vogel & Unverhofft namenloser Schacht",
+        "geometry": "http://example.org/Freie_Vogel_&_Unverhofft_namenloser_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Friederika_Schacht_1_alt",
+        "name": "Friederika Schacht 1 alt",
+        "geometry": "http://example.org/Friederika_Schacht_1_altGeom"
+    },
+    {
+        "uri": "http://example.org/Friederika_Schacht_3",
+        "name": "Friederika Schacht 3",
+        "geometry": "http://example.org/Friederika_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Friederika_Schacht_Levy",
+        "name": "Friederika Schacht Levy",
+        "geometry": "http://example.org/Friederika_Schacht_LevyGeom"
+    },
+    {
+        "uri": "http://example.org/Friederika_Wetterschacht_1",
+        "name": "Friederika Wetterschacht 1",
+        "geometry": "http://example.org/Friederika_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Friederika_Wetterschacht_2",
+        "name": "Friederika Wetterschacht 2",
+        "geometry": "http://example.org/Friederika_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Friedlicher_Nachbar_Schacht_1",
+        "name": "Friedlicher Nachbar Schacht 1",
+        "geometry": "http://example.org/Friedlicher_Nachbar_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Friedlicher_Nachbar_Schacht_2",
+        "name": "Friedlicher Nachbar Schacht 2",
+        "geometry": "http://example.org/Friedlicher_Nachbar_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Friedlicher_Nachbar_Schacht_3",
+        "name": "Friedlicher Nachbar Schacht 3",
+        "geometry": "http://example.org/Friedlicher_Nachbar_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Friedlicher_Nachbar_Schacht_Baaker_Mulde",
+        "name": "Friedlicher Nachbar Schacht Baaker Mulde",
+        "geometry": "http://example.org/Friedlicher_Nachbar_Schacht_Baaker_MuldeGeom"
+    },
+    {
+        "uri": "http://example.org/Friedlicher_Nachbar_Tages\u00fcberhauen_in_Fl\u00f6z_Ida",
+        "name": "Friedlicher Nachbar Tages\u00fcberhauen in Fl\u00f6z Ida",
+        "geometry": "http://example.org/Friedlicher_Nachbar_Tages\u00fcberhauen_in_Fl\u00f6z_IdaGeom"
+    },
+    {
+        "uri": "http://example.org/Friedlicher_Nachbar_Tages\u00fcberhauen_in_Fl\u00f6z_R\u00f6ttgersbank_I",
+        "name": "Friedlicher Nachbar Tages\u00fcberhauen in Fl\u00f6z R\u00f6ttgersbank I",
+        "geometry": "http://example.org/Friedlicher_Nachbar_Tages\u00fcberhauen_in_Fl\u00f6z_R\u00f6ttgersbank_IGeom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Ernestine_Schacht_1",
+        "name": "Friedrich Ernestine Schacht 1",
+        "geometry": "http://example.org/Friedrich_Ernestine_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Ernestine_Schacht_2",
+        "name": "Friedrich Ernestine Schacht 2",
+        "geometry": "http://example.org/Friedrich_Ernestine_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Heinrich_Schacht_1",
+        "name": "Friedrich Heinrich Schacht 1",
+        "geometry": "http://example.org/Friedrich_Heinrich_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Heinrich_Schacht_2",
+        "name": "Friedrich Heinrich Schacht 2",
+        "geometry": "http://example.org/Friedrich_Heinrich_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Heinrich_Schacht_3",
+        "name": "Friedrich Heinrich Schacht 3",
+        "geometry": "http://example.org/Friedrich_Heinrich_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Heinrich_Schacht_4",
+        "name": "Friedrich Heinrich Schacht 4",
+        "geometry": "http://example.org/Friedrich_Heinrich_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Thyssen_Sp\u00fclschacht_Beeckerwerth-Nordost",
+        "name": "Friedrich Thyssen Sp\u00fclschacht Beeckerwerth-Nordost",
+        "geometry": "http://example.org/Friedrich_Thyssen_Sp\u00fclschacht_Beeckerwerth-NordostGeom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Luftschacht_1",
+        "name": "Friedrich Wilhelm Luftschacht 1",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Luftschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Luftschacht_2",
+        "name": "Friedrich Wilhelm Luftschacht 2",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Luftschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Luftschacht_3",
+        "name": "Friedrich Wilhelm Luftschacht 3",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Luftschacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Schacht_August",
+        "name": "Friedrich Wilhelm Schacht August",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Schacht_AugustGeom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Schacht_Veltheim",
+        "name": "Friedrich Wilhelm Schacht Veltheim",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Schacht_VeltheimGeom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Schacht_Wilhelm",
+        "name": "Friedrich Wilhelm Schacht Wilhelm",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Schacht_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Tiefbauschacht_Friedrich",
+        "name": "Friedrich Wilhelm Tiefbauschacht Friedrich",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Tiefbauschacht_FriedrichGeom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_Wilhelm_Tiefbauschacht_Theodor",
+        "name": "Friedrich Wilhelm Tiefbauschacht Theodor",
+        "geometry": "http://example.org/Friedrich_Wilhelm_Tiefbauschacht_TheodorGeom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_1",
+        "name": "Friedrich der Gro\u00dfe Schacht 1",
+        "geometry": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_2",
+        "name": "Friedrich der Gro\u00dfe Schacht 2",
+        "geometry": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_3",
+        "name": "Friedrich der Gro\u00dfe Schacht 3",
+        "geometry": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_4",
+        "name": "Friedrich der Gro\u00dfe Schacht 4",
+        "geometry": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_5",
+        "name": "Friedrich der Gro\u00dfe Schacht 5",
+        "geometry": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_6",
+        "name": "Friedrich der Gro\u00dfe Schacht 6",
+        "geometry": "http://example.org/Friedrich_der_Gro\u00dfe_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Friedrichsfeld_Schacht",
+        "name": "Friedrichsfeld Schacht",
+        "geometry": "http://example.org/Friedrichsfeld_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Fritz_Hansenschacht",
+        "name": "Fritz Hansenschacht",
+        "geometry": "http://example.org/Fritz_HansenschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Fritz_Schacht_1",
+        "name": "Fritz Schacht 1",
+        "geometry": "http://example.org/Fritz_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Fritz_Schacht_2",
+        "name": "Fritz Schacht 2",
+        "geometry": "http://example.org/Fritz_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Fritz_Wetterschacht",
+        "name": "Fritz Wetterschacht",
+        "geometry": "http://example.org/Fritz_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Fr\u00f6hliche_Morgensonne_Schacht_1",
+        "name": "Fr\u00f6hliche Morgensonne Schacht 1",
+        "geometry": "http://example.org/Fr\u00f6hliche_Morgensonne_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Fr\u00f6hliche_Morgensonne_Schacht_2",
+        "name": "Fr\u00f6hliche Morgensonne Schacht 2",
+        "geometry": "http://example.org/Fr\u00f6hliche_Morgensonne_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Fr\u00f6hliche_Morgensonne_Wetterschacht",
+        "name": "Fr\u00f6hliche Morgensonne Wetterschacht",
+        "geometry": "http://example.org/Fr\u00f6hliche_Morgensonne_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Fr\u00f6hliche_Morgensonne_Wetterschacht_2",
+        "name": "Fr\u00f6hliche Morgensonne Wetterschacht 2",
+        "geometry": "http://example.org/Fr\u00f6hliche_Morgensonne_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/F\u00fcrst_Hardenberg_Schacht_1",
+        "name": "F\u00fcrst Hardenberg Schacht 1",
+        "geometry": "http://example.org/F\u00fcrst_Hardenberg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/F\u00fcrst_Hardenberg_Schacht_2",
+        "name": "F\u00fcrst Hardenberg Schacht 2",
+        "geometry": "http://example.org/F\u00fcrst_Hardenberg_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/F\u00fcrst_Leopold_Schacht_1",
+        "name": "F\u00fcrst Leopold Schacht 1",
+        "geometry": "http://example.org/F\u00fcrst_Leopold_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/F\u00fcrst_Leopold_Schacht_2",
+        "name": "F\u00fcrst Leopold Schacht 2",
+        "geometry": "http://example.org/F\u00fcrst_Leopold_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_1",
+        "name": "General Blumenthal Schacht 1",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_2",
+        "name": "General Blumenthal Schacht 2",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_3",
+        "name": "General Blumenthal Schacht 3",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_4",
+        "name": "General Blumenthal Schacht 4",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_5",
+        "name": "General Blumenthal Schacht 5",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_6",
+        "name": "General Blumenthal Schacht 6",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_7",
+        "name": "General Blumenthal Schacht 7",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_8",
+        "name": "General Blumenthal Schacht 8",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_Haltern_1",
+        "name": "General Blumenthal Schacht Haltern 1",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_Haltern_1Geom"
+    },
+    {
+        "uri": "http://example.org/General_Blumenthal_Schacht_Haltern_2",
+        "name": "General Blumenthal Schacht Haltern 2",
+        "geometry": "http://example.org/General_Blumenthal_Schacht_Haltern_2Geom"
+    },
+    {
+        "uri": "http://example.org/Germania_Schacht_1",
+        "name": "Germania Schacht 1",
+        "geometry": "http://example.org/Germania_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Germania_Schacht_2",
+        "name": "Germania Schacht 2",
+        "geometry": "http://example.org/Germania_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Germania_Schacht_3",
+        "name": "Germania Schacht 3",
+        "geometry": "http://example.org/Germania_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Germania_Schacht_4",
+        "name": "Germania Schacht 4",
+        "geometry": "http://example.org/Germania_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Germania_Schacht_5",
+        "name": "Germania Schacht 5",
+        "geometry": "http://example.org/Germania_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Germania_S\u00fcdschacht",
+        "name": "Germania S\u00fcdschacht",
+        "geometry": "http://example.org/Germania_S\u00fcdschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Germania_Wetterschacht_Kley",
+        "name": "Germania Wetterschacht Kley",
+        "geometry": "http://example.org/Germania_Wetterschacht_KleyGeom"
+    },
+    {
+        "uri": "http://example.org/Germania_Wetterschacht_S\u00fcdost",
+        "name": "Germania Wetterschacht S\u00fcdost",
+        "geometry": "http://example.org/Germania_Wetterschacht_S\u00fcdostGeom"
+    },
+    {
+        "uri": "http://example.org/Gewalt_Schacht_Conrad",
+        "name": "Gewalt Schacht Conrad",
+        "geometry": "http://example.org/Gewalt_Schacht_ConradGeom"
+    },
+    {
+        "uri": "http://example.org/Gewalt_Schacht_Gewalt",
+        "name": "Gewalt Schacht Gewalt",
+        "geometry": "http://example.org/Gewalt_Schacht_GewaltGeom"
+    },
+    {
+        "uri": "http://example.org/Gibraltar_Erbstollen_Schacht",
+        "name": "Gibraltar Erbstollen Schacht",
+        "geometry": "http://example.org/Gibraltar_Erbstollen_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckauf_Barmen_Schacht_Rudolf",
+        "name": "Gl\u00fcckauf Barmen Schacht Rudolf",
+        "geometry": "http://example.org/Gl\u00fcckauf_Barmen_Schacht_RudolfGeom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckauf_Tiefbau_Schacht_Giesbert",
+        "name": "Gl\u00fcckauf Tiefbau Schacht Giesbert",
+        "geometry": "http://example.org/Gl\u00fcckauf_Tiefbau_Schacht_GiesbertGeom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckauf_Tiefbau_Schacht_Gotthelf",
+        "name": "Gl\u00fcckauf Tiefbau Schacht Gotthelf",
+        "geometry": "http://example.org/Gl\u00fcckauf_Tiefbau_Schacht_GotthelfGeom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckauf_Tiefbau_Schacht_Traugott",
+        "name": "Gl\u00fcckauf Tiefbau Schacht Traugott",
+        "geometry": "http://example.org/Gl\u00fcckauf_Tiefbau_Schacht_TraugottGeom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckaufsegen_Maschinenschacht",
+        "name": "Gl\u00fcckaufsegen Maschinenschacht",
+        "geometry": "http://example.org/Gl\u00fcckaufsegen_MaschinenschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckaufsegen_Schacht_1",
+        "name": "Gl\u00fcckaufsegen Schacht 1",
+        "geometry": "http://example.org/Gl\u00fcckaufsegen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckaufsegen_Schacht_2",
+        "name": "Gl\u00fcckaufsegen Schacht 2",
+        "geometry": "http://example.org/Gl\u00fcckaufsegen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fcckaufsegen_Schacht_3",
+        "name": "Gl\u00fcckaufsegen Schacht 3",
+        "geometry": "http://example.org/Gl\u00fcckaufsegen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Gl\u00fccksanfang_Schacht_Christian",
+        "name": "Gl\u00fccksanfang Schacht Christian",
+        "geometry": "http://example.org/Gl\u00fccksanfang_Schacht_ChristianGeom"
+    },
+    {
+        "uri": "http://example.org/Gneisenau_Schacht_1",
+        "name": "Gneisenau Schacht 1",
+        "geometry": "http://example.org/Gneisenau_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Gneisenau_Schacht_2",
+        "name": "Gneisenau Schacht 2",
+        "geometry": "http://example.org/Gneisenau_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Gneisenau_Schacht_3",
+        "name": "Gneisenau Schacht 3",
+        "geometry": "http://example.org/Gneisenau_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Gneisenau_Schacht_4",
+        "name": "Gneisenau Schacht 4",
+        "geometry": "http://example.org/Gneisenau_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Gottessegen_Schacht_1",
+        "name": "Gottessegen Schacht 1",
+        "geometry": "http://example.org/Gottessegen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Gottessegen_Schacht_2",
+        "name": "Gottessegen Schacht 2",
+        "geometry": "http://example.org/Gottessegen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Gottessegen_Schacht_3",
+        "name": "Gottessegen Schacht 3",
+        "geometry": "http://example.org/Gottessegen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Gottessegen_Schacht_Reinbach",
+        "name": "Gottessegen Schacht Reinbach",
+        "geometry": "http://example.org/Gottessegen_Schacht_ReinbachGeom"
+    },
+    {
+        "uri": "http://example.org/Gottessegen_Wetterschacht",
+        "name": "Gottessegen Wetterschacht",
+        "geometry": "http://example.org/Gottessegen_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Gottessegen_Wetterschacht_L\u00f6ttringhausen",
+        "name": "Gottessegen Wetterschacht L\u00f6ttringhausen",
+        "geometry": "http://example.org/Gottessegen_Wetterschacht_L\u00f6ttringhausenGeom"
+    },
+    {
+        "uri": "http://example.org/Gottfried_Wilhelm_Schacht_1",
+        "name": "Gottfried Wilhelm Schacht 1",
+        "geometry": "http://example.org/Gottfried_Wilhelm_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Gottfried_Wilhelm_Schacht_2",
+        "name": "Gottfried Wilhelm Schacht 2",
+        "geometry": "http://example.org/Gottfried_Wilhelm_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Beust_Schacht_1",
+        "name": "Graf Beust Schacht 1",
+        "geometry": "http://example.org/Graf_Beust_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Beust_Schacht_2",
+        "name": "Graf Beust Schacht 2",
+        "geometry": "http://example.org/Graf_Beust_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_1",
+        "name": "Graf Bismarck Schacht 1",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_10",
+        "name": "Graf Bismarck Schacht 10",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_10Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_2",
+        "name": "Graf Bismarck Schacht 2",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_3",
+        "name": "Graf Bismarck Schacht 3",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_4",
+        "name": "Graf Bismarck Schacht 4",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_5",
+        "name": "Graf Bismarck Schacht 5",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_6",
+        "name": "Graf Bismarck Schacht 6",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_7",
+        "name": "Graf Bismarck Schacht 7",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_8",
+        "name": "Graf Bismarck Schacht 8",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Bismarck_Schacht_9",
+        "name": "Graf Bismarck Schacht 9",
+        "geometry": "http://example.org/Graf_Bismarck_Schacht_9Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Moltke_Schacht_1",
+        "name": "Graf Moltke Schacht 1",
+        "geometry": "http://example.org/Graf_Moltke_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Moltke_Schacht_2",
+        "name": "Graf Moltke Schacht 2",
+        "geometry": "http://example.org/Graf_Moltke_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Moltke_Schacht_3",
+        "name": "Graf Moltke Schacht 3",
+        "geometry": "http://example.org/Graf_Moltke_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Moltke_Schacht_4",
+        "name": "Graf Moltke Schacht 4",
+        "geometry": "http://example.org/Graf_Moltke_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Schwerin_Schacht_1",
+        "name": "Graf Schwerin Schacht 1",
+        "geometry": "http://example.org/Graf_Schwerin_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Schwerin_Schacht_2",
+        "name": "Graf Schwerin Schacht 2",
+        "geometry": "http://example.org/Graf_Schwerin_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Schwerin_Schacht_3",
+        "name": "Graf Schwerin Schacht 3",
+        "geometry": "http://example.org/Graf_Schwerin_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Graf_Schwerin_Schacht_4",
+        "name": "Graf Schwerin Schacht 4",
+        "geometry": "http://example.org/Graf_Schwerin_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/G\u00f6pelschacht_Moses",
+        "name": "G\u00f6pelschacht Moses",
+        "geometry": "http://example.org/G\u00f6pelschacht_MosesGeom"
+    },
+    {
+        "uri": "http://example.org/Haard_Schacht_An_der_Haard_1",
+        "name": "Haard Schacht An der Haard 1",
+        "geometry": "http://example.org/Haard_Schacht_An_der_Haard_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Bergeschacht",
+        "name": "Hagenbeck Bergeschacht",
+        "geometry": "http://example.org/Hagenbeck_BergeschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Lichtloch",
+        "name": "Hagenbeck Lichtloch",
+        "geometry": "http://example.org/Hagenbeck_LichtlochGeom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Notausgang",
+        "name": "Hagenbeck Notausgang",
+        "geometry": "http://example.org/Hagenbeck_NotausgangGeom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Schacht_1",
+        "name": "Hagenbeck Schacht 1",
+        "geometry": "http://example.org/Hagenbeck_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Schacht_2",
+        "name": "Hagenbeck Schacht 2",
+        "geometry": "http://example.org/Hagenbeck_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Schacht_3",
+        "name": "Hagenbeck Schacht 3",
+        "geometry": "http://example.org/Hagenbeck_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Wetterschacht",
+        "name": "Hagenbeck Wetterschacht",
+        "geometry": "http://example.org/Hagenbeck_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Wetterschacht_1",
+        "name": "Hagenbeck Wetterschacht 1",
+        "geometry": "http://example.org/Hagenbeck_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Wetterschacht_2",
+        "name": "Hagenbeck Wetterschacht 2",
+        "geometry": "http://example.org/Hagenbeck_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hagenbeck_Wetterschacht_4",
+        "name": "Hagenbeck Wetterschacht 4",
+        "geometry": "http://example.org/Hagenbeck_Wetterschacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Hamburg_und_Vollmond_Schacht_Adolph",
+        "name": "Hamburg und Vollmond Schacht Adolph",
+        "geometry": "http://example.org/Hamburg_und_Vollmond_Schacht_AdolphGeom"
+    },
+    {
+        "uri": "http://example.org/Hamburg_und_Vollmond_Schacht_Wilhelm",
+        "name": "Hamburg und Vollmond Schacht Wilhelm",
+        "geometry": "http://example.org/Hamburg_und_Vollmond_Schacht_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Hammelsbeck_Alter_Schacht",
+        "name": "Hammelsbeck Alter Schacht",
+        "geometry": "http://example.org/Hammelsbeck_Alter_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hammelsbeck_Schacht_auf_Hoppenkuhle",
+        "name": "Hammelsbeck Schacht auf Hoppenkuhle",
+        "geometry": "http://example.org/Hammelsbeck_Schacht_auf_HoppenkuhleGeom"
+    },
+    {
+        "uri": "http://example.org/Hammelsbeck_Schurfschacht",
+        "name": "Hammelsbeck Schurfschacht",
+        "geometry": "http://example.org/Hammelsbeck_SchurfschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hammelsbeck_Tiefbauschacht",
+        "name": "Hammelsbeck Tiefbauschacht",
+        "geometry": "http://example.org/Hammelsbeck_TiefbauschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hammelsbeck_Wetterschacht",
+        "name": "Hammelsbeck Wetterschacht",
+        "geometry": "http://example.org/Hammelsbeck_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hannibal_Schacht_1",
+        "name": "Hannibal Schacht 1",
+        "geometry": "http://example.org/Hannibal_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hannibal_Schacht_2",
+        "name": "Hannibal Schacht 2",
+        "geometry": "http://example.org/Hannibal_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hannibal_Schacht_3",
+        "name": "Hannibal Schacht 3",
+        "geometry": "http://example.org/Hannibal_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hannibal_Schacht_4",
+        "name": "Hannibal Schacht 4",
+        "geometry": "http://example.org/Hannibal_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Hannibal_Wetterschacht_2",
+        "name": "Hannibal Wetterschacht 2",
+        "geometry": "http://example.org/Hannibal_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hannover_Schacht_1",
+        "name": "Hannover Schacht 1",
+        "geometry": "http://example.org/Hannover_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hannover_Schacht_2",
+        "name": "Hannover Schacht 2",
+        "geometry": "http://example.org/Hannover_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hannover_Schacht_3",
+        "name": "Hannover Schacht 3",
+        "geometry": "http://example.org/Hannover_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hannover_Schacht_4",
+        "name": "Hannover Schacht 4",
+        "geometry": "http://example.org/Hannover_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Hannover_Schacht_5",
+        "name": "Hannover Schacht 5",
+        "geometry": "http://example.org/Hannover_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Hannover_Schacht_6",
+        "name": "Hannover Schacht 6",
+        "geometry": "http://example.org/Hannover_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Hansa_Schacht_1",
+        "name": "Hansa Schacht 1",
+        "geometry": "http://example.org/Hansa_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hansa_Schacht_2",
+        "name": "Hansa Schacht 2",
+        "geometry": "http://example.org/Hansa_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hansa_Schacht_3",
+        "name": "Hansa Schacht 3",
+        "geometry": "http://example.org/Hansa_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hansa_Schacht_4",
+        "name": "Hansa Schacht 4",
+        "geometry": "http://example.org/Hansa_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Hansa_Schacht_K\u00f6nigsm\u00fchle",
+        "name": "Hansa Schacht K\u00f6nigsm\u00fchle",
+        "geometry": "http://example.org/Hansa_Schacht_K\u00f6nigsm\u00fchleGeom"
+    },
+    {
+        "uri": "http://example.org/Hansa_Schacht_Weyhe",
+        "name": "Hansa Schacht Weyhe",
+        "geometry": "http://example.org/Hansa_Schacht_WeyheGeom"
+    },
+    {
+        "uri": "http://example.org/Hasenwinkel_Schacht_August",
+        "name": "Hasenwinkel Schacht August",
+        "geometry": "http://example.org/Hasenwinkel_Schacht_AugustGeom"
+    },
+    {
+        "uri": "http://example.org/Hasenwinkel_Schacht_Julius_Philipp",
+        "name": "Hasenwinkel Schacht Julius Philipp",
+        "geometry": "http://example.org/Hasenwinkel_Schacht_Julius_PhilippGeom"
+    },
+    {
+        "uri": "http://example.org/Hasenwinkel_Schacht_Therese",
+        "name": "Hasenwinkel Schacht Therese",
+        "geometry": "http://example.org/Hasenwinkel_Schacht_ThereseGeom"
+    },
+    {
+        "uri": "http://example.org/Hasenwinkel_Wetterschacht",
+        "name": "Hasenwinkel Wetterschacht",
+        "geometry": "http://example.org/Hasenwinkel_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hasenwinkel_und_Himmelscroner_Erbstollen_Luftschacht",
+        "name": "Hasenwinkel und Himmelscroner Erbstollen Luftschacht",
+        "geometry": "http://example.org/Hasenwinkel_und_Himmelscroner_Erbstollen_LuftschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hasenwinkel_und_Himmelscroner_Erbstollen_Schacht_Constanz_August",
+        "name": "Hasenwinkel und Himmelscroner Erbstollen Schacht Constanz August",
+        "geometry": "http://example.org/Hasenwinkel_und_Himmelscroner_Erbstollen_Schacht_Constanz_AugustGeom"
+    },
+    {
+        "uri": "http://example.org/Haus_Aden_Schacht_1",
+        "name": "Haus Aden Schacht 1",
+        "geometry": "http://example.org/Haus_Aden_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Haus_Aden_Schacht_2",
+        "name": "Haus Aden Schacht 2",
+        "geometry": "http://example.org/Haus_Aden_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Haus_Aden_Schacht_5",
+        "name": "Haus Aden Schacht 5",
+        "geometry": "http://example.org/Haus_Aden_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Haus_Aden_Schacht_6",
+        "name": "Haus Aden Schacht 6",
+        "geometry": "http://example.org/Haus_Aden_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Haus_Aden_Schacht_7",
+        "name": "Haus Aden Schacht 7",
+        "geometry": "http://example.org/Haus_Aden_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Gustav_Schacht_Arnold",
+        "name": "Heinrich Gustav Schacht Arnold",
+        "geometry": "http://example.org/Heinrich_Gustav_Schacht_ArnoldGeom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Gustav_Schacht_Gustav",
+        "name": "Heinrich Gustav Schacht Gustav",
+        "geometry": "http://example.org/Heinrich_Gustav_Schacht_GustavGeom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Holthuser_Tal",
+        "name": "Heinrich Holthuser Tal",
+        "geometry": "http://example.org/Heinrich_Holthuser_TalGeom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Robert_Schacht_Sandbochum",
+        "name": "Heinrich Robert Schacht Sandbochum",
+        "geometry": "http://example.org/Heinrich_Robert_Schacht_SandbochumGeom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Schacht_1",
+        "name": "Heinrich Schacht 1",
+        "geometry": "http://example.org/Heinrich_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Schacht_1_(Neuessen)",
+        "name": "Heinrich Schacht 1 (Neuessen)",
+        "geometry": "http://example.org/Heinrich_Schacht_1_(Neuessen)Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Schacht_2",
+        "name": "Heinrich Schacht 2",
+        "geometry": "http://example.org/Heinrich_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Schacht_2_(Neuessen)",
+        "name": "Heinrich Schacht 2 (Neuessen)",
+        "geometry": "http://example.org/Heinrich_Schacht_2_(Neuessen)Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Schacht_3",
+        "name": "Heinrich Schacht 3",
+        "geometry": "http://example.org/Heinrich_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Schacht_3_(Neuessen)",
+        "name": "Heinrich Schacht 3 (Neuessen)",
+        "geometry": "http://example.org/Heinrich_Schacht_3_(Neuessen)Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Schacht_4_(Neuessen)",
+        "name": "Heinrich Schacht 4 (Neuessen)",
+        "geometry": "http://example.org/Heinrich_Schacht_4_(Neuessen)Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Wetterschacht_2",
+        "name": "Heinrich Wetterschacht 2",
+        "geometry": "http://example.org/Heinrich_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Wetterschacht_3",
+        "name": "Heinrich Wetterschacht 3",
+        "geometry": "http://example.org/Heinrich_Wetterschacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Heinrich_Wetterschacht_4",
+        "name": "Heinrich Wetterschacht 4",
+        "geometry": "http://example.org/Heinrich_Wetterschacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Helene",
+        "name": "Helene",
+        "geometry": "http://example.org/HeleneGeom"
+    },
+    {
+        "uri": "http://example.org/Helene_Schacht_Bertha",
+        "name": "Helene Schacht Bertha",
+        "geometry": "http://example.org/Helene_Schacht_BerthaGeom"
+    },
+    {
+        "uri": "http://example.org/Helene_Schacht_Helene",
+        "name": "Helene Schacht Helene",
+        "geometry": "http://example.org/Helene_Schacht_HeleneGeom"
+    },
+    {
+        "uri": "http://example.org/Helene_Schacht_Laterne",
+        "name": "Helene Schacht Laterne",
+        "geometry": "http://example.org/Helene_Schacht_LaterneGeom"
+    },
+    {
+        "uri": "http://example.org/Hellenbank_Schacht_Adolphine",
+        "name": "Hellenbank Schacht Adolphine",
+        "geometry": "http://example.org/Hellenbank_Schacht_AdolphineGeom"
+    },
+    {
+        "uri": "http://example.org/Hellenbank_Schacht_Fricke",
+        "name": "Hellenbank Schacht Fricke",
+        "geometry": "http://example.org/Hellenbank_Schacht_FrickeGeom"
+    },
+    {
+        "uri": "http://example.org/Hellenbank_Schacht_Hoffnung",
+        "name": "Hellenbank Schacht Hoffnung",
+        "geometry": "http://example.org/Hellenbank_Schacht_HoffnungGeom"
+    },
+    {
+        "uri": "http://example.org/Herbede_Schacht_1",
+        "name": "Herbede Schacht 1",
+        "geometry": "http://example.org/Herbede_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Herbede_Schacht_2",
+        "name": "Herbede Schacht 2",
+        "geometry": "http://example.org/Herbede_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Herbede_Wetterschacht_3",
+        "name": "Herbede Wetterschacht 3",
+        "geometry": "http://example.org/Herbede_Wetterschacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hercules_Schacht_1",
+        "name": "Hercules Schacht 1",
+        "geometry": "http://example.org/Hercules_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hercules_Schacht_2",
+        "name": "Hercules Schacht 2",
+        "geometry": "http://example.org/Hercules_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hercules_Schacht_3",
+        "name": "Hercules Schacht 3",
+        "geometry": "http://example.org/Hercules_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hercules_Schacht_5",
+        "name": "Hercules Schacht 5",
+        "geometry": "http://example.org/Hercules_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Hercules_Wetterschacht_1",
+        "name": "Hercules Wetterschacht 1",
+        "geometry": "http://example.org/Hercules_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hermann_(Witten)",
+        "name": "Hermann (Witten)",
+        "geometry": "http://example.org/Hermann_(Witten)Geom"
+    },
+    {
+        "uri": "http://example.org/Hermann_Schacht_1",
+        "name": "Hermann Schacht 1",
+        "geometry": "http://example.org/Hermann_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hermann_Schacht_2",
+        "name": "Hermann Schacht 2",
+        "geometry": "http://example.org/Hermann_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hero_Schacht_Prinz_Georg",
+        "name": "Hero Schacht Prinz Georg",
+        "geometry": "http://example.org/Hero_Schacht_Prinz_GeorgGeom"
+    },
+    {
+        "uri": "http://example.org/Hibernia_Schacht_1",
+        "name": "Hibernia Schacht 1",
+        "geometry": "http://example.org/Hibernia_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hibernia_Schacht_2",
+        "name": "Hibernia Schacht 2",
+        "geometry": "http://example.org/Hibernia_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hibernia_Schacht_3",
+        "name": "Hibernia Schacht 3",
+        "geometry": "http://example.org/Hibernia_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hinderfeld_F\u00f6rderschacht",
+        "name": "Hinderfeld F\u00f6rderschacht",
+        "geometry": "http://example.org/Hinderfeld_F\u00f6rderschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hobeisen_Schacht_Adolf",
+        "name": "Hobeisen Schacht Adolf",
+        "geometry": "http://example.org/Hobeisen_Schacht_AdolfGeom"
+    },
+    {
+        "uri": "http://example.org/Holland_Schacht_1",
+        "name": "Holland Schacht 1",
+        "geometry": "http://example.org/Holland_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Holland_Schacht_2",
+        "name": "Holland Schacht 2",
+        "geometry": "http://example.org/Holland_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Holland_Schacht_3",
+        "name": "Holland Schacht 3",
+        "geometry": "http://example.org/Holland_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Holland_Schacht_4",
+        "name": "Holland Schacht 4",
+        "geometry": "http://example.org/Holland_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Holland_Schacht_5",
+        "name": "Holland Schacht 5",
+        "geometry": "http://example.org/Holland_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Holland_Schacht_6",
+        "name": "Holland Schacht 6",
+        "geometry": "http://example.org/Holland_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Holstein_Schacht_1",
+        "name": "Holstein Schacht 1",
+        "geometry": "http://example.org/Holstein_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Holstein_Schacht_2",
+        "name": "Holstein Schacht 2",
+        "geometry": "http://example.org/Holstein_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Holstein_Wetterschacht",
+        "name": "Holstein Wetterschacht",
+        "geometry": "http://example.org/Holstein_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Holthausen_Schacht_1",
+        "name": "Holthausen Schacht 1",
+        "geometry": "http://example.org/Holthausen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Haniel_Schacht",
+        "name": "Hugo Haniel Schacht",
+        "geometry": "http://example.org/Hugo_Haniel_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Haniel_Tiefbrunnen",
+        "name": "Hugo Haniel Tiefbrunnen",
+        "geometry": "http://example.org/Hugo_Haniel_TiefbrunnenGeom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_1",
+        "name": "Hugo Schacht 1",
+        "geometry": "http://example.org/Hugo_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_2",
+        "name": "Hugo Schacht 2",
+        "geometry": "http://example.org/Hugo_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_3",
+        "name": "Hugo Schacht 3",
+        "geometry": "http://example.org/Hugo_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_4",
+        "name": "Hugo Schacht 4",
+        "geometry": "http://example.org/Hugo_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_5",
+        "name": "Hugo Schacht 5",
+        "geometry": "http://example.org/Hugo_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_6",
+        "name": "Hugo Schacht 6",
+        "geometry": "http://example.org/Hugo_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_7",
+        "name": "Hugo Schacht 7",
+        "geometry": "http://example.org/Hugo_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_8",
+        "name": "Hugo Schacht 8",
+        "geometry": "http://example.org/Hugo_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/Hugo_Schacht_9",
+        "name": "Hugo Schacht 9",
+        "geometry": "http://example.org/Hugo_Schacht_9Geom"
+    },
+    {
+        "uri": "http://example.org/Humboldt_Schacht_Franz",
+        "name": "Humboldt Schacht Franz",
+        "geometry": "http://example.org/Humboldt_Schacht_FranzGeom"
+    },
+    {
+        "uri": "http://example.org/Hummelbank_Erkundungsschacht",
+        "name": "Hummelbank Erkundungsschacht",
+        "geometry": "http://example.org/Hummelbank_ErkundungsschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hummelbank_F\u00f6rderschacht",
+        "name": "Hummelbank F\u00f6rderschacht",
+        "geometry": "http://example.org/Hummelbank_F\u00f6rderschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Hummelbank_Versuchsschacht",
+        "name": "Hummelbank Versuchsschacht",
+        "geometry": "http://example.org/Hummelbank_VersuchsschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Ickern_Schacht_1",
+        "name": "Ickern Schacht 1",
+        "geometry": "http://example.org/Ickern_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Ickern_Schacht_2",
+        "name": "Ickern Schacht 2",
+        "geometry": "http://example.org/Ickern_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Ickern_Schacht_3",
+        "name": "Ickern Schacht 3",
+        "geometry": "http://example.org/Ickern_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Ickern_Schacht_4",
+        "name": "Ickern Schacht 4",
+        "geometry": "http://example.org/Ickern_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Iduna_seigerer_Schacht",
+        "name": "Iduna seigerer Schacht",
+        "geometry": "http://example.org/Iduna_seigerer_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Jacobi_Schacht_1",
+        "name": "Jacobi Schacht 1",
+        "geometry": "http://example.org/Jacobi_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Jacobi_Schacht_2",
+        "name": "Jacobi Schacht 2",
+        "geometry": "http://example.org/Jacobi_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Java_Schacht_1",
+        "name": "Java Schacht 1",
+        "geometry": "http://example.org/Java_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Java_Schacht_2",
+        "name": "Java Schacht 2",
+        "geometry": "http://example.org/Java_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Johann_Schacht_1",
+        "name": "Johann Schacht 1",
+        "geometry": "http://example.org/Johann_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Johann_Schacht_2",
+        "name": "Johann Schacht 2",
+        "geometry": "http://example.org/Johann_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Johannessegen_Schacht_Hoffnungsthal_2",
+        "name": "Johannessegen Schacht Hoffnungsthal 2",
+        "geometry": "http://example.org/Johannessegen_Schacht_Hoffnungsthal_2Geom"
+    },
+    {
+        "uri": "http://example.org/Julia_Schacht_1",
+        "name": "Julia Schacht 1",
+        "geometry": "http://example.org/Julia_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Julia_Schacht_2",
+        "name": "Julia Schacht 2",
+        "geometry": "http://example.org/Julia_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Julia_Schacht_3",
+        "name": "Julia Schacht 3",
+        "geometry": "http://example.org/Julia_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Julius_Philipp_Schacht_1",
+        "name": "Julius Philipp Schacht 1",
+        "geometry": "http://example.org/Julius_Philipp_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Julius_Philipp_Schacht_2",
+        "name": "Julius Philipp Schacht 2",
+        "geometry": "http://example.org/Julius_Philipp_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiser_Friedrich_Neuer_Schacht_1",
+        "name": "Kaiser Friedrich Neuer Schacht 1",
+        "geometry": "http://example.org/Kaiser_Friedrich_Neuer_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiser_Friedrich_Schacht_1",
+        "name": "Kaiser Friedrich Schacht 1",
+        "geometry": "http://example.org/Kaiser_Friedrich_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiser_Friedrich_Schacht_2",
+        "name": "Kaiser Friedrich Schacht 2",
+        "geometry": "http://example.org/Kaiser_Friedrich_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiser_Friedrich_Schacht_Henriette",
+        "name": "Kaiser Friedrich Schacht Henriette",
+        "geometry": "http://example.org/Kaiser_Friedrich_Schacht_HenrietteGeom"
+    },
+    {
+        "uri": "http://example.org/Kaiser_Friedrich_Wetterschacht",
+        "name": "Kaiser Friedrich Wetterschacht",
+        "geometry": "http://example.org/Kaiser_Friedrich_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Kaiserstuhl_II_Schacht_1",
+        "name": "Kaiserstuhl II Schacht 1",
+        "geometry": "http://example.org/Kaiserstuhl_II_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiserstuhl_II_Schacht_2",
+        "name": "Kaiserstuhl II Schacht 2",
+        "geometry": "http://example.org/Kaiserstuhl_II_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiserstuhl_II_Schacht_3",
+        "name": "Kaiserstuhl II Schacht 3",
+        "geometry": "http://example.org/Kaiserstuhl_II_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiserstuhl_I_Schacht_1",
+        "name": "Kaiserstuhl I Schacht 1",
+        "geometry": "http://example.org/Kaiserstuhl_I_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiserstuhl_I_Schacht_2",
+        "name": "Kaiserstuhl I Schacht 2",
+        "geometry": "http://example.org/Kaiserstuhl_I_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Kaiserstuhl_I_Schacht_3",
+        "name": "Kaiserstuhl I Schacht 3",
+        "geometry": "http://example.org/Kaiserstuhl_I_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Katharina_Schacht_4",
+        "name": "Katharina Schacht 4",
+        "geometry": "http://example.org/Katharina_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Katharina_Schacht_6",
+        "name": "Katharina Schacht 6",
+        "geometry": "http://example.org/Katharina_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Klosterbusch_Schacht_1",
+        "name": "Klosterbusch Schacht 1",
+        "geometry": "http://example.org/Klosterbusch_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Kronprinz",
+        "name": "Kronprinz",
+        "geometry": "http://example.org/KronprinzGeom"
+    },
+    {
+        "uri": "http://example.org/Kronprinz_Schacht_Franz",
+        "name": "Kronprinz Schacht Franz",
+        "geometry": "http://example.org/Kronprinz_Schacht_FranzGeom"
+    },
+    {
+        "uri": "http://example.org/Kronprinz_Schacht_Friedrich_Wilhelm_IV",
+        "name": "Kronprinz Schacht Friedrich Wilhelm IV",
+        "geometry": "http://example.org/Kronprinz_Schacht_Friedrich_Wilhelm_IVGeom"
+    },
+    {
+        "uri": "http://example.org/Kunstwerk_F\u00f6rderschacht_Wilhelm",
+        "name": "Kunstwerk F\u00f6rderschacht Wilhelm",
+        "geometry": "http://example.org/Kunstwerk_F\u00f6rderschacht_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Kunstwerk_Kunstschacht_Friedrich",
+        "name": "Kunstwerk Kunstschacht Friedrich",
+        "geometry": "http://example.org/Kunstwerk_Kunstschacht_FriedrichGeom"
+    },
+    {
+        "uri": "http://example.org/Kurl_Schacht_1",
+        "name": "Kurl Schacht 1",
+        "geometry": "http://example.org/Kurl_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Kurl_Schacht_2",
+        "name": "Kurl Schacht 2",
+        "geometry": "http://example.org/Kurl_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Kurl_Schacht_3",
+        "name": "Kurl Schacht 3",
+        "geometry": "http://example.org/Kurl_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Kurl_Schacht_4",
+        "name": "Kurl Schacht 4",
+        "geometry": "http://example.org/Kurl_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_1",
+        "name": "K\u00f6nig Ludwig Schacht 1",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_2",
+        "name": "K\u00f6nig Ludwig Schacht 2",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_3",
+        "name": "K\u00f6nig Ludwig Schacht 3",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_4",
+        "name": "K\u00f6nig Ludwig Schacht 4",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_5",
+        "name": "K\u00f6nig Ludwig Schacht 5",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_6",
+        "name": "K\u00f6nig Ludwig Schacht 6",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_7",
+        "name": "K\u00f6nig Ludwig Schacht 7",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nig_Ludwig_Schacht_8",
+        "name": "K\u00f6nig Ludwig Schacht 8",
+        "geometry": "http://example.org/K\u00f6nig_Ludwig_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Emil",
+        "name": "K\u00f6nigin Elisabeth Schacht Emil",
+        "geometry": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_EmilGeom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Friedrich_Joachim_1",
+        "name": "K\u00f6nigin Elisabeth Schacht Friedrich Joachim 1",
+        "geometry": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Friedrich_Joachim_1Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Friedrich_Joachim_2",
+        "name": "K\u00f6nigin Elisabeth Schacht Friedrich Joachim 2",
+        "geometry": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Friedrich_Joachim_2Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Hubert_1",
+        "name": "K\u00f6nigin Elisabeth Schacht Hubert 1",
+        "geometry": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Hubert_1Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Hubert_2",
+        "name": "K\u00f6nigin Elisabeth Schacht Hubert 2",
+        "geometry": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Hubert_2Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_Wilhelm",
+        "name": "K\u00f6nigin Elisabeth Schacht Wilhelm",
+        "geometry": "http://example.org/K\u00f6nigin_Elisabeth_Schacht_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigin_Elisabeth_Wetterschacht",
+        "name": "K\u00f6nigin Elisabeth Wetterschacht",
+        "geometry": "http://example.org/K\u00f6nigin_Elisabeth_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsborn_Schacht_1",
+        "name": "K\u00f6nigsborn Schacht 1",
+        "geometry": "http://example.org/K\u00f6nigsborn_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsborn_Schacht_2",
+        "name": "K\u00f6nigsborn Schacht 2",
+        "geometry": "http://example.org/K\u00f6nigsborn_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsborn_Schacht_3",
+        "name": "K\u00f6nigsborn Schacht 3",
+        "geometry": "http://example.org/K\u00f6nigsborn_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsborn_Schacht_4",
+        "name": "K\u00f6nigsborn Schacht 4",
+        "geometry": "http://example.org/K\u00f6nigsborn_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsborn_Schacht_5",
+        "name": "K\u00f6nigsborn Schacht 5",
+        "geometry": "http://example.org/K\u00f6nigsborn_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsborn_Schacht_6",
+        "name": "K\u00f6nigsborn Schacht 6",
+        "geometry": "http://example.org/K\u00f6nigsborn_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsborn_Schacht_7",
+        "name": "K\u00f6nigsborn Schacht 7",
+        "geometry": "http://example.org/K\u00f6nigsborn_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsgrube_Schacht_1",
+        "name": "K\u00f6nigsgrube Schacht 1",
+        "geometry": "http://example.org/K\u00f6nigsgrube_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsgrube_Schacht_2",
+        "name": "K\u00f6nigsgrube Schacht 2",
+        "geometry": "http://example.org/K\u00f6nigsgrube_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsgrube_Schacht_3",
+        "name": "K\u00f6nigsgrube Schacht 3",
+        "geometry": "http://example.org/K\u00f6nigsgrube_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/K\u00f6nigsgrube_Schacht_4",
+        "name": "K\u00f6nigsgrube Schacht 4",
+        "geometry": "http://example.org/K\u00f6nigsgrube_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Langenbrahm_Schacht_1",
+        "name": "Langenbrahm Schacht 1",
+        "geometry": "http://example.org/Langenbrahm_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Langenbrahm_Schacht_2",
+        "name": "Langenbrahm Schacht 2",
+        "geometry": "http://example.org/Langenbrahm_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Langenbrahm_Schacht_3",
+        "name": "Langenbrahm Schacht 3",
+        "geometry": "http://example.org/Langenbrahm_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Langenbrahm_Schacht_4",
+        "name": "Langenbrahm Schacht 4",
+        "geometry": "http://example.org/Langenbrahm_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Lina_Schacht",
+        "name": "Lina Schacht",
+        "geometry": "http://example.org/Lina_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Lohberg_Schacht_1",
+        "name": "Lohberg Schacht 1",
+        "geometry": "http://example.org/Lohberg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Lohberg_Schacht_2",
+        "name": "Lohberg Schacht 2",
+        "geometry": "http://example.org/Lohberg_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Lohberg_Schacht_3",
+        "name": "Lohberg Schacht 3",
+        "geometry": "http://example.org/Lohberg_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Lohberg_Schacht_4",
+        "name": "Lohberg Schacht 4",
+        "geometry": "http://example.org/Lohberg_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Lohberg_Wetterschacht_3",
+        "name": "Lohberg Wetterschacht 3",
+        "geometry": "http://example.org/Lohberg_Wetterschacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Lothringen_Schacht_1",
+        "name": "Lothringen Schacht 1",
+        "geometry": "http://example.org/Lothringen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Lothringen_Schacht_2",
+        "name": "Lothringen Schacht 2",
+        "geometry": "http://example.org/Lothringen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Lothringen_Schacht_3",
+        "name": "Lothringen Schacht 3",
+        "geometry": "http://example.org/Lothringen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Lothringen_Schacht_4",
+        "name": "Lothringen Schacht 4",
+        "geometry": "http://example.org/Lothringen_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Lothringen_Schacht_5",
+        "name": "Lothringen Schacht 5",
+        "geometry": "http://example.org/Lothringen_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Lothringen_Schacht_6",
+        "name": "Lothringen Schacht 6",
+        "geometry": "http://example.org/Lothringen_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Louise_Tiefbau_Schacht_Clausthal",
+        "name": "Louise Tiefbau Schacht Clausthal",
+        "geometry": "http://example.org/Louise_Tiefbau_Schacht_ClausthalGeom"
+    },
+    {
+        "uri": "http://example.org/Louise_Tiefbau_Schacht_Schulte",
+        "name": "Louise Tiefbau Schacht Schulte",
+        "geometry": "http://example.org/Louise_Tiefbau_Schacht_SchulteGeom"
+    },
+    {
+        "uri": "http://example.org/Louise_Tiefbau_Schacht_Wittwe",
+        "name": "Louise Tiefbau Schacht Wittwe",
+        "geometry": "http://example.org/Louise_Tiefbau_Schacht_WittweGeom"
+    },
+    {
+        "uri": "http://example.org/Louisengl\u00fcck_Schacht_Constanz",
+        "name": "Louisengl\u00fcck Schacht Constanz",
+        "geometry": "http://example.org/Louisengl\u00fcck_Schacht_ConstanzGeom"
+    },
+    {
+        "uri": "http://example.org/Lucas_Schacht_Stolberg_1",
+        "name": "Lucas Schacht Stolberg 1",
+        "geometry": "http://example.org/Lucas_Schacht_Stolberg_1Geom"
+    },
+    {
+        "uri": "http://example.org/Lucas_Schacht_Stolberg_2",
+        "name": "Lucas Schacht Stolberg 2",
+        "geometry": "http://example.org/Lucas_Schacht_Stolberg_2Geom"
+    },
+    {
+        "uri": "http://example.org/Ludwig_Schacht_1",
+        "name": "Ludwig Schacht 1",
+        "geometry": "http://example.org/Ludwig_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Ludwig_Schacht_2",
+        "name": "Ludwig Schacht 2",
+        "geometry": "http://example.org/Ludwig_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Ludwig_Wetterschacht",
+        "name": "Ludwig Wetterschacht",
+        "geometry": "http://example.org/Ludwig_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Mansfeld_Schacht_1",
+        "name": "Mansfeld Schacht 1",
+        "geometry": "http://example.org/Mansfeld_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Mansfeld_Schacht_3",
+        "name": "Mansfeld Schacht 3",
+        "geometry": "http://example.org/Mansfeld_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Mansfeld_Schacht_4",
+        "name": "Mansfeld Schacht 4",
+        "geometry": "http://example.org/Mansfeld_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Mansfeld_Schacht_5",
+        "name": "Mansfeld Schacht 5",
+        "geometry": "http://example.org/Mansfeld_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Mansfeld_Schacht_6",
+        "name": "Mansfeld Schacht 6",
+        "geometry": "http://example.org/Mansfeld_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Mansfeld_Schacht_7",
+        "name": "Mansfeld Schacht 7",
+        "geometry": "http://example.org/Mansfeld_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Margarethe_Luftschacht",
+        "name": "Margarethe Luftschacht",
+        "geometry": "http://example.org/Margarethe_LuftschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Margarethe_Schacht_1",
+        "name": "Margarethe Schacht 1",
+        "geometry": "http://example.org/Margarethe_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Margarethe_Wetterschacht_3",
+        "name": "Margarethe Wetterschacht 3",
+        "geometry": "http://example.org/Margarethe_Wetterschacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Massener_Tiefbau_Schacht_1",
+        "name": "Massener Tiefbau Schacht 1",
+        "geometry": "http://example.org/Massener_Tiefbau_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Massener_Tiefbau_Schacht_2",
+        "name": "Massener Tiefbau Schacht 2",
+        "geometry": "http://example.org/Massener_Tiefbau_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Massener_Tiefbau_Schacht_3",
+        "name": "Massener Tiefbau Schacht 3",
+        "geometry": "http://example.org/Massener_Tiefbau_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Massener_Tiefbau_Schacht_4",
+        "name": "Massener Tiefbau Schacht 4",
+        "geometry": "http://example.org/Massener_Tiefbau_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Mathias_Stinnes_Schacht_1",
+        "name": "Mathias Stinnes Schacht 1",
+        "geometry": "http://example.org/Mathias_Stinnes_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Mathias_Stinnes_Schacht_2",
+        "name": "Mathias Stinnes Schacht 2",
+        "geometry": "http://example.org/Mathias_Stinnes_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Mathias_Stinnes_Schacht_3",
+        "name": "Mathias Stinnes Schacht 3",
+        "geometry": "http://example.org/Mathias_Stinnes_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Mathias_Stinnes_Schacht_4",
+        "name": "Mathias Stinnes Schacht 4",
+        "geometry": "http://example.org/Mathias_Stinnes_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Mathias_Stinnes_Schacht_5",
+        "name": "Mathias Stinnes Schacht 5",
+        "geometry": "http://example.org/Mathias_Stinnes_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Maximilian_Schacht_1",
+        "name": "Maximilian Schacht 1",
+        "geometry": "http://example.org/Maximilian_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Maximilian_Schacht_2",
+        "name": "Maximilian Schacht 2",
+        "geometry": "http://example.org/Maximilian_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Maximilian_Schacht_4",
+        "name": "Maximilian Schacht 4",
+        "geometry": "http://example.org/Maximilian_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Maximilian_Schacht_Bayern",
+        "name": "Maximilian Schacht Bayern",
+        "geometry": "http://example.org/Maximilian_Schacht_BayernGeom"
+    },
+    {
+        "uri": "http://example.org/Medio_Rhein_Schacht",
+        "name": "Medio Rhein Schacht",
+        "geometry": "http://example.org/Medio_Rhein_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Mevissen_Schacht_1",
+        "name": "Mevissen Schacht 1",
+        "geometry": "http://example.org/Mevissen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Mevissen_Schacht_2",
+        "name": "Mevissen Schacht 2",
+        "geometry": "http://example.org/Mevissen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Mevissen_Schacht_Rumeln",
+        "name": "Mevissen Schacht Rumeln",
+        "geometry": "http://example.org/Mevissen_Schacht_RumelnGeom"
+    },
+    {
+        "uri": "http://example.org/Mevissen_Wetterschacht_Kaldenhausen",
+        "name": "Mevissen Wetterschacht Kaldenhausen",
+        "geometry": "http://example.org/Mevissen_Wetterschacht_KaldenhausenGeom"
+    },
+    {
+        "uri": "http://example.org/Minister_Achenbach_Schacht_1",
+        "name": "Minister Achenbach Schacht 1",
+        "geometry": "http://example.org/Minister_Achenbach_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Achenbach_Schacht_2",
+        "name": "Minister Achenbach Schacht 2",
+        "geometry": "http://example.org/Minister_Achenbach_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Achenbach_Schacht_3",
+        "name": "Minister Achenbach Schacht 3",
+        "geometry": "http://example.org/Minister_Achenbach_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Achenbach_Schacht_4",
+        "name": "Minister Achenbach Schacht 4",
+        "geometry": "http://example.org/Minister_Achenbach_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Achenbach_Schacht_5",
+        "name": "Minister Achenbach Schacht 5",
+        "geometry": "http://example.org/Minister_Achenbach_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Achenbach_Schacht_6",
+        "name": "Minister Achenbach Schacht 6",
+        "geometry": "http://example.org/Minister_Achenbach_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Achenbach_Schacht_7",
+        "name": "Minister Achenbach Schacht 7",
+        "geometry": "http://example.org/Minister_Achenbach_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Stein_Schacht_1",
+        "name": "Minister Stein Schacht 1",
+        "geometry": "http://example.org/Minister_Stein_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Stein_Schacht_2",
+        "name": "Minister Stein Schacht 2",
+        "geometry": "http://example.org/Minister_Stein_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Stein_Schacht_3",
+        "name": "Minister Stein Schacht 3",
+        "geometry": "http://example.org/Minister_Stein_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Stein_Schacht_4",
+        "name": "Minister Stein Schacht 4",
+        "geometry": "http://example.org/Minister_Stein_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Stein_Schacht_5",
+        "name": "Minister Stein Schacht 5",
+        "geometry": "http://example.org/Minister_Stein_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Stein_Schacht_6",
+        "name": "Minister Stein Schacht 6",
+        "geometry": "http://example.org/Minister_Stein_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Minister_Stein_Schacht_7",
+        "name": "Minister Stein Schacht 7",
+        "geometry": "http://example.org/Minister_Stein_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grillo_1",
+        "name": "Monopol Schacht Grillo 1",
+        "geometry": "http://example.org/Monopol_Schacht_Grillo_1Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grillo_2",
+        "name": "Monopol Schacht Grillo 2",
+        "geometry": "http://example.org/Monopol_Schacht_Grillo_2Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grillo_3",
+        "name": "Monopol Schacht Grillo 3",
+        "geometry": "http://example.org/Monopol_Schacht_Grillo_3Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grillo_4",
+        "name": "Monopol Schacht Grillo 4",
+        "geometry": "http://example.org/Monopol_Schacht_Grillo_4Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grimberg_1",
+        "name": "Monopol Schacht Grimberg 1",
+        "geometry": "http://example.org/Monopol_Schacht_Grimberg_1Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grimberg_2",
+        "name": "Monopol Schacht Grimberg 2",
+        "geometry": "http://example.org/Monopol_Schacht_Grimberg_2Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grimberg_3",
+        "name": "Monopol Schacht Grimberg 3",
+        "geometry": "http://example.org/Monopol_Schacht_Grimberg_3Geom"
+    },
+    {
+        "uri": "http://example.org/Monopol_Schacht_Grimberg_4",
+        "name": "Monopol Schacht Grimberg 4",
+        "geometry": "http://example.org/Monopol_Schacht_Grimberg_4Geom"
+    },
+    {
+        "uri": "http://example.org/Mont_Cenis_Schacht_1",
+        "name": "Mont Cenis Schacht 1",
+        "geometry": "http://example.org/Mont_Cenis_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Mont_Cenis_Schacht_2",
+        "name": "Mont Cenis Schacht 2",
+        "geometry": "http://example.org/Mont_Cenis_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Mont_Cenis_Schacht_3",
+        "name": "Mont Cenis Schacht 3",
+        "geometry": "http://example.org/Mont_Cenis_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Mont_Cenis_Schacht_4",
+        "name": "Mont Cenis Schacht 4",
+        "geometry": "http://example.org/Mont_Cenis_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Mont_Cenis_Schacht_5",
+        "name": "Mont Cenis Schacht 5",
+        "geometry": "http://example.org/Mont_Cenis_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Mont_Cenis_Wetterschacht_1a",
+        "name": "Mont Cenis Wetterschacht 1a",
+        "geometry": "http://example.org/Mont_Cenis_Wetterschacht_1aGeom"
+    },
+    {
+        "uri": "http://example.org/Mont_Cenis_Wetterschacht_2a",
+        "name": "Mont Cenis Wetterschacht 2a",
+        "geometry": "http://example.org/Mont_Cenis_Wetterschacht_2aGeom"
+    },
+    {
+        "uri": "http://example.org/Morgenstern_Alter_Luftschacht_in_Fl\u00f6z_Dickebank",
+        "name": "Morgenstern Alter Luftschacht in Fl\u00f6z Dickebank",
+        "geometry": "http://example.org/Morgenstern_Alter_Luftschacht_in_Fl\u00f6z_DickebankGeom"
+    },
+    {
+        "uri": "http://example.org/M\u00f6ller_Schacht_1",
+        "name": "M\u00f6ller Schacht 1",
+        "geometry": "http://example.org/M\u00f6ller_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/M\u00f6ller_Schacht_2",
+        "name": "M\u00f6ller Schacht 2",
+        "geometry": "http://example.org/M\u00f6ller_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/M\u00f6ller_Schacht_5",
+        "name": "M\u00f6ller Schacht 5",
+        "geometry": "http://example.org/M\u00f6ller_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/M\u00f6nkhoffsbank_Schacht",
+        "name": "M\u00f6nkhoffsbank Schacht",
+        "geometry": "http://example.org/M\u00f6nkhoffsbank_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/M\u00fcsen_III",
+        "name": "M\u00fcsen III",
+        "geometry": "http://example.org/M\u00fcsen_IIIGeom"
+    },
+    {
+        "uri": "http://example.org/Nachtigall_Schacht_Herkules",
+        "name": "Nachtigall Schacht Herkules",
+        "geometry": "http://example.org/Nachtigall_Schacht_HerkulesGeom"
+    },
+    {
+        "uri": "http://example.org/Neu-Adolphus_Brunnenschacht",
+        "name": "Neu-Adolphus Brunnenschacht",
+        "geometry": "http://example.org/Neu-Adolphus_BrunnenschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Neu-Adolphus_Schurfschacht",
+        "name": "Neu-Adolphus Schurfschacht",
+        "geometry": "http://example.org/Neu-Adolphus_SchurfschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Neu-Adolphus_Schurfschacht_No.1",
+        "name": "Neu-Adolphus Schurfschacht No.1",
+        "geometry": "http://example.org/Neu-Adolphus_Schurfschacht_No.1Geom"
+    },
+    {
+        "uri": "http://example.org/Neu-C\u00f6ln_Nebenschacht",
+        "name": "Neu-C\u00f6ln Nebenschacht",
+        "geometry": "http://example.org/Neu-C\u00f6ln_NebenschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Neu-C\u00f6ln_Schacht_1",
+        "name": "Neu-C\u00f6ln Schacht 1",
+        "geometry": "http://example.org/Neu-C\u00f6ln_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Neu-C\u00f6ln_Schacht_2",
+        "name": "Neu-C\u00f6ln Schacht 2",
+        "geometry": "http://example.org/Neu-C\u00f6ln_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Neu-Duisburg",
+        "name": "Neu-Duisburg",
+        "geometry": "http://example.org/Neu-DuisburgGeom"
+    },
+    {
+        "uri": "http://example.org/Neu-D\u00fcsseldorf_Schacht",
+        "name": "Neu-D\u00fcsseldorf Schacht",
+        "geometry": "http://example.org/Neu-D\u00fcsseldorf_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Neu-Essen_IV_Schacht_Eduard",
+        "name": "Neu-Essen IV Schacht Eduard",
+        "geometry": "http://example.org/Neu-Essen_IV_Schacht_EduardGeom"
+    },
+    {
+        "uri": "http://example.org/Neu-Iserlohn_Schacht_1",
+        "name": "Neu-Iserlohn Schacht 1",
+        "geometry": "http://example.org/Neu-Iserlohn_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Neu-Iserlohn_Schacht_2",
+        "name": "Neu-Iserlohn Schacht 2",
+        "geometry": "http://example.org/Neu-Iserlohn_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Neu-Iserlohn_Schacht_3",
+        "name": "Neu-Iserlohn Schacht 3",
+        "geometry": "http://example.org/Neu-Iserlohn_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Neu-Iserlohn_Wetterschacht_1",
+        "name": "Neu-Iserlohn Wetterschacht 1",
+        "geometry": "http://example.org/Neu-Iserlohn_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Neu-Iserlohn_Wetterschacht_4",
+        "name": "Neu-Iserlohn Wetterschacht 4",
+        "geometry": "http://example.org/Neu-Iserlohn_Wetterschacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Neum\u00fchl_Schacht_1",
+        "name": "Neum\u00fchl Schacht 1",
+        "geometry": "http://example.org/Neum\u00fchl_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Neum\u00fchl_Schacht_2",
+        "name": "Neum\u00fchl Schacht 2",
+        "geometry": "http://example.org/Neum\u00fchl_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Neum\u00fchl_Schacht_3",
+        "name": "Neum\u00fchl Schacht 3",
+        "geometry": "http://example.org/Neum\u00fchl_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Neum\u00fchl_Schacht_4",
+        "name": "Neum\u00fchl Schacht 4",
+        "geometry": "http://example.org/Neum\u00fchl_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Neum\u00fchl_Schacht_5",
+        "name": "Neum\u00fchl Schacht 5",
+        "geometry": "http://example.org/Neum\u00fchl_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Neum\u00fchl_Schacht_6",
+        "name": "Neum\u00fchl Schacht 6",
+        "geometry": "http://example.org/Neum\u00fchl_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Neuwesel",
+        "name": "Neuwesel",
+        "geometry": "http://example.org/NeuweselGeom"
+    },
+    {
+        "uri": "http://example.org/Neuwesel_Wetterschacht",
+        "name": "Neuwesel Wetterschacht",
+        "geometry": "http://example.org/Neuwesel_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Neuw\u00fclfingsburg_seigerer_Schacht",
+        "name": "Neuw\u00fclfingsburg seigerer Schacht",
+        "geometry": "http://example.org/Neuw\u00fclfingsburg_seigerer_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Niederberg_Schacht_1",
+        "name": "Niederberg Schacht 1",
+        "geometry": "http://example.org/Niederberg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Niederberg_Schacht_2",
+        "name": "Niederberg Schacht 2",
+        "geometry": "http://example.org/Niederberg_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Niederberg_Schacht_3",
+        "name": "Niederberg Schacht 3",
+        "geometry": "http://example.org/Niederberg_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Niederberg_Schacht_4",
+        "name": "Niederberg Schacht 4",
+        "geometry": "http://example.org/Niederberg_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Niederberg_Schacht_5",
+        "name": "Niederberg Schacht 5",
+        "geometry": "http://example.org/Niederberg_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Nordstern_Schacht_1",
+        "name": "Nordstern Schacht 1",
+        "geometry": "http://example.org/Nordstern_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Nordstern_Schacht_2",
+        "name": "Nordstern Schacht 2",
+        "geometry": "http://example.org/Nordstern_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Nordstern_Schacht_3",
+        "name": "Nordstern Schacht 3",
+        "geometry": "http://example.org/Nordstern_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Nordstern_Schacht_4",
+        "name": "Nordstern Schacht 4",
+        "geometry": "http://example.org/Nordstern_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Nordstern_Schacht_Emschermulde_2",
+        "name": "Nordstern Schacht Emschermulde 2",
+        "geometry": "http://example.org/Nordstern_Schacht_Emschermulde_2Geom"
+    },
+    {
+        "uri": "http://example.org/Oberhausen_Schacht_1",
+        "name": "Oberhausen Schacht 1",
+        "geometry": "http://example.org/Oberhausen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Oberhausen_Schacht_2",
+        "name": "Oberhausen Schacht 2",
+        "geometry": "http://example.org/Oberhausen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Oberhausen_neuer_Schacht_3",
+        "name": "Oberhausen neuer Schacht 3",
+        "geometry": "http://example.org/Oberhausen_neuer_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Oespel_Bergeschacht",
+        "name": "Oespel Bergeschacht",
+        "geometry": "http://example.org/Oespel_BergeschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Oespel_Schacht_1",
+        "name": "Oespel Schacht 1",
+        "geometry": "http://example.org/Oespel_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Oespel_Schacht_4",
+        "name": "Oespel Schacht 4",
+        "geometry": "http://example.org/Oespel_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Oespel_Schacht_Oespeler_Stra\u00dfe",
+        "name": "Oespel Schacht Oespeler Stra\u00dfe",
+        "geometry": "http://example.org/Oespel_Schacht_Oespeler_Stra\u00dfeGeom"
+    },
+    {
+        "uri": "http://example.org/Oespel_Wetterschacht_3",
+        "name": "Oespel Wetterschacht 3",
+        "geometry": "http://example.org/Oespel_Wetterschacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Osterfeld_Nordschacht",
+        "name": "Osterfeld Nordschacht",
+        "geometry": "http://example.org/Osterfeld_NordschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Osterfeld_Schacht_1",
+        "name": "Osterfeld Schacht 1",
+        "geometry": "http://example.org/Osterfeld_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Osterfeld_Schacht_2",
+        "name": "Osterfeld Schacht 2",
+        "geometry": "http://example.org/Osterfeld_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Osterfeld_Schacht_3",
+        "name": "Osterfeld Schacht 3",
+        "geometry": "http://example.org/Osterfeld_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Osterfeld_Schacht_4",
+        "name": "Osterfeld Schacht 4",
+        "geometry": "http://example.org/Osterfeld_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Pattberg_Schacht_1",
+        "name": "Pattberg Schacht 1",
+        "geometry": "http://example.org/Pattberg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Pattberg_Schacht_2",
+        "name": "Pattberg Schacht 2",
+        "geometry": "http://example.org/Pattberg_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Petrussegen_seigerer_Schacht",
+        "name": "Petrussegen seigerer Schacht",
+        "geometry": "http://example.org/Petrussegen_seigerer_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Petrussegen_tonnl\u00e4giger_Schacht",
+        "name": "Petrussegen tonnl\u00e4giger Schacht",
+        "geometry": "http://example.org/Petrussegen_tonnl\u00e4giger_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Pluto_Schacht_1",
+        "name": "Pluto Schacht 1",
+        "geometry": "http://example.org/Pluto_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Pluto_Schacht_2",
+        "name": "Pluto Schacht 2",
+        "geometry": "http://example.org/Pluto_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Pluto_Schacht_3",
+        "name": "Pluto Schacht 3",
+        "geometry": "http://example.org/Pluto_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Pluto_Schacht_4",
+        "name": "Pluto Schacht 4",
+        "geometry": "http://example.org/Pluto_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Pluto_Schacht_5",
+        "name": "Pluto Schacht 5",
+        "geometry": "http://example.org/Pluto_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Pluto_Schacht_6",
+        "name": "Pluto Schacht 6",
+        "geometry": "http://example.org/Pluto_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Pluto_Schacht_7",
+        "name": "Pluto Schacht 7",
+        "geometry": "http://example.org/Pluto_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Polsum_Schacht_1",
+        "name": "Polsum Schacht 1",
+        "geometry": "http://example.org/Polsum_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Polsum_Schacht_2",
+        "name": "Polsum Schacht 2",
+        "geometry": "http://example.org/Polsum_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Preu\u00dfen_II_Schacht_1",
+        "name": "Preu\u00dfen II Schacht 1",
+        "geometry": "http://example.org/Preu\u00dfen_II_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Preu\u00dfen_II_Schacht_2",
+        "name": "Preu\u00dfen II Schacht 2",
+        "geometry": "http://example.org/Preu\u00dfen_II_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Preu\u00dfen_Schacht_Grevel",
+        "name": "Preu\u00dfen Schacht Grevel",
+        "geometry": "http://example.org/Preu\u00dfen_Schacht_GrevelGeom"
+    },
+    {
+        "uri": "http://example.org/Preu\u00dfischer_Zepter_Maschinenschacht",
+        "name": "Preu\u00dfischer Zepter Maschinenschacht",
+        "geometry": "http://example.org/Preu\u00dfischer_Zepter_MaschinenschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Prinz_Regent_Luftschacht_auf_Fl\u00f6z_Dickebank",
+        "name": "Prinz Regent Luftschacht auf Fl\u00f6z Dickebank",
+        "geometry": "http://example.org/Prinz_Regent_Luftschacht_auf_Fl\u00f6z_DickebankGeom"
+    },
+    {
+        "uri": "http://example.org/Prinz_Regent_Schacht_1",
+        "name": "Prinz Regent Schacht 1",
+        "geometry": "http://example.org/Prinz_Regent_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Prinz_Regent_Schacht_2",
+        "name": "Prinz Regent Schacht 2",
+        "geometry": "http://example.org/Prinz_Regent_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Prinz_Regent_Tages\u00fcberhauen_in_Fl\u00f6z_Mathias_I",
+        "name": "Prinz Regent Tages\u00fcberhauen in Fl\u00f6z Mathias I",
+        "geometry": "http://example.org/Prinz_Regent_Tages\u00fcberhauen_in_Fl\u00f6z_Mathias_IGeom"
+    },
+    {
+        "uri": "http://example.org/Prinz_Regent_Tages\u00fcberhauen_in_Fl\u00f6z_Mathilde_III",
+        "name": "Prinz Regent Tages\u00fcberhauen in Fl\u00f6z Mathilde III",
+        "geometry": "http://example.org/Prinz_Regent_Tages\u00fcberhauen_in_Fl\u00f6z_Mathilde_IIIGeom"
+    },
+    {
+        "uri": "http://example.org/Prinz_Regent_Wetterschacht",
+        "name": "Prinz Regent Wetterschacht",
+        "geometry": "http://example.org/Prinz_Regent_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Prinz_Wilhelm_Schacht_Carl",
+        "name": "Prinz Wilhelm Schacht Carl",
+        "geometry": "http://example.org/Prinz_Wilhelm_Schacht_CarlGeom"
+    },
+    {
+        "uri": "http://example.org/Prinz_von_Preu\u00dfen_Schacht_Oeynhausen",
+        "name": "Prinz von Preu\u00dfen Schacht Oeynhausen",
+        "geometry": "http://example.org/Prinz_von_Preu\u00dfen_Schacht_OeynhausenGeom"
+    },
+    {
+        "uri": "http://example.org/Prinz_von_Preu\u00dfen_Wetterschacht_3",
+        "name": "Prinz von Preu\u00dfen Wetterschacht 3",
+        "geometry": "http://example.org/Prinz_von_Preu\u00dfen_Wetterschacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_F\u00f6rderberg",
+        "name": "Prosper F\u00f6rderberg",
+        "geometry": "http://example.org/Prosper_F\u00f6rderbergGeom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_1",
+        "name": "Prosper Schacht 1",
+        "geometry": "http://example.org/Prosper_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_10",
+        "name": "Prosper Schacht 10",
+        "geometry": "http://example.org/Prosper_Schacht_10Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_2",
+        "name": "Prosper Schacht 2",
+        "geometry": "http://example.org/Prosper_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_3",
+        "name": "Prosper Schacht 3",
+        "geometry": "http://example.org/Prosper_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_4",
+        "name": "Prosper Schacht 4",
+        "geometry": "http://example.org/Prosper_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_5",
+        "name": "Prosper Schacht 5",
+        "geometry": "http://example.org/Prosper_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_6",
+        "name": "Prosper Schacht 6",
+        "geometry": "http://example.org/Prosper_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_7",
+        "name": "Prosper Schacht 7",
+        "geometry": "http://example.org/Prosper_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_8",
+        "name": "Prosper Schacht 8",
+        "geometry": "http://example.org/Prosper_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/Prosper_Schacht_9",
+        "name": "Prosper Schacht 9",
+        "geometry": "http://example.org/Prosper_Schacht_9Geom"
+    },
+    {
+        "uri": "http://example.org/Pr\u00e4sident_Schacht_1",
+        "name": "Pr\u00e4sident Schacht 1",
+        "geometry": "http://example.org/Pr\u00e4sident_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Pr\u00e4sident_Schacht_2",
+        "name": "Pr\u00e4sident Schacht 2",
+        "geometry": "http://example.org/Pr\u00e4sident_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Pr\u00e4sident_Schacht_3",
+        "name": "Pr\u00e4sident Schacht 3",
+        "geometry": "http://example.org/Pr\u00e4sident_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Pr\u00e4sident_Schacht_4",
+        "name": "Pr\u00e4sident Schacht 4",
+        "geometry": "http://example.org/Pr\u00e4sident_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Pr\u00e4sident_Wetterschacht",
+        "name": "Pr\u00e4sident Wetterschacht",
+        "geometry": "http://example.org/Pr\u00e4sident_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/P\u00f6rtingssiepen_Bergeschacht",
+        "name": "P\u00f6rtingssiepen Bergeschacht",
+        "geometry": "http://example.org/P\u00f6rtingssiepen_BergeschachtGeom"
+    },
+    {
+        "uri": "http://example.org/P\u00f6rtingssiepen_Schacht_1",
+        "name": "P\u00f6rtingssiepen Schacht 1",
+        "geometry": "http://example.org/P\u00f6rtingssiepen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/P\u00f6rtingssiepen_Schacht_2",
+        "name": "P\u00f6rtingssiepen Schacht 2",
+        "geometry": "http://example.org/P\u00f6rtingssiepen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/P\u00f6rtingssiepen_Schacht_3",
+        "name": "P\u00f6rtingssiepen Schacht 3",
+        "geometry": "http://example.org/P\u00f6rtingssiepen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/P\u00f6rtingssiepen_Wetterschacht_1",
+        "name": "P\u00f6rtingssiepen Wetterschacht 1",
+        "geometry": "http://example.org/P\u00f6rtingssiepen_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/P\u00f6rtingssiepen_Wetterschacht_2",
+        "name": "P\u00f6rtingssiepen Wetterschacht 2",
+        "geometry": "http://example.org/P\u00f6rtingssiepen_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Radbod_Schacht_1",
+        "name": "Radbod Schacht 1",
+        "geometry": "http://example.org/Radbod_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Radbod_Schacht_2",
+        "name": "Radbod Schacht 2",
+        "geometry": "http://example.org/Radbod_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Radbod_Schacht_3",
+        "name": "Radbod Schacht 3",
+        "geometry": "http://example.org/Radbod_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Radbod_Schacht_4",
+        "name": "Radbod Schacht 4",
+        "geometry": "http://example.org/Radbod_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Radbod_Schacht_5",
+        "name": "Radbod Schacht 5",
+        "geometry": "http://example.org/Radbod_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Radbod_Schacht_6",
+        "name": "Radbod Schacht 6",
+        "geometry": "http://example.org/Radbod_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Radbod_Schacht_7",
+        "name": "Radbod Schacht 7",
+        "geometry": "http://example.org/Radbod_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Recklinghausen_Grullbadschacht",
+        "name": "Recklinghausen Grullbadschacht",
+        "geometry": "http://example.org/Recklinghausen_GrullbadschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Recklinghausen_II_Schacht_1",
+        "name": "Recklinghausen II Schacht 1",
+        "geometry": "http://example.org/Recklinghausen_II_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Recklinghausen_II_Schacht_2",
+        "name": "Recklinghausen II Schacht 2",
+        "geometry": "http://example.org/Recklinghausen_II_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Recklinghausen_II_Schacht_3",
+        "name": "Recklinghausen II Schacht 3",
+        "geometry": "http://example.org/Recklinghausen_II_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Recklinghausen_II_Schacht_4",
+        "name": "Recklinghausen II Schacht 4",
+        "geometry": "http://example.org/Recklinghausen_II_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Recklinghausen_I_Schacht_1",
+        "name": "Recklinghausen I Schacht 1",
+        "geometry": "http://example.org/Recklinghausen_I_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Recklinghausen_I_Schacht_2",
+        "name": "Recklinghausen I Schacht 2",
+        "geometry": "http://example.org/Recklinghausen_I_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Renate",
+        "name": "Renate",
+        "geometry": "http://example.org/RenateGeom"
+    },
+    {
+        "uri": "http://example.org/Rheinbaben_Schacht_3",
+        "name": "Rheinbaben Schacht 3",
+        "geometry": "http://example.org/Rheinbaben_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinbaben_Schacht_4",
+        "name": "Rheinbaben Schacht 4",
+        "geometry": "http://example.org/Rheinbaben_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinelbe_Schacht_1",
+        "name": "Rheinelbe Schacht 1",
+        "geometry": "http://example.org/Rheinelbe_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinelbe_Schacht_2",
+        "name": "Rheinelbe Schacht 2",
+        "geometry": "http://example.org/Rheinelbe_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinelbe_Schacht_3",
+        "name": "Rheinelbe Schacht 3",
+        "geometry": "http://example.org/Rheinelbe_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinelbe_Schacht_4",
+        "name": "Rheinelbe Schacht 4",
+        "geometry": "http://example.org/Rheinelbe_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinelbe_Schacht_5",
+        "name": "Rheinelbe Schacht 5",
+        "geometry": "http://example.org/Rheinelbe_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinelbe_Schacht_6",
+        "name": "Rheinelbe Schacht 6",
+        "geometry": "http://example.org/Rheinelbe_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinpreu\u00dfen_Schacht_1",
+        "name": "Rheinpreu\u00dfen Schacht 1",
+        "geometry": "http://example.org/Rheinpreu\u00dfen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinpreu\u00dfen_Schacht_2",
+        "name": "Rheinpreu\u00dfen Schacht 2",
+        "geometry": "http://example.org/Rheinpreu\u00dfen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinpreu\u00dfen_Schacht_3",
+        "name": "Rheinpreu\u00dfen Schacht 3",
+        "geometry": "http://example.org/Rheinpreu\u00dfen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinpreu\u00dfen_Schacht_4",
+        "name": "Rheinpreu\u00dfen Schacht 4",
+        "geometry": "http://example.org/Rheinpreu\u00dfen_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinpreu\u00dfen_Schacht_5",
+        "name": "Rheinpreu\u00dfen Schacht 5",
+        "geometry": "http://example.org/Rheinpreu\u00dfen_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinpreu\u00dfen_Schacht_8",
+        "name": "Rheinpreu\u00dfen Schacht 8",
+        "geometry": "http://example.org/Rheinpreu\u00dfen_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/Rheinpreu\u00dfen_Schacht_9",
+        "name": "Rheinpreu\u00dfen Schacht 9",
+        "geometry": "http://example.org/Rheinpreu\u00dfen_Schacht_9Geom"
+    },
+    {
+        "uri": "http://example.org/Richradt_Rohrschacht",
+        "name": "Richradt Rohrschacht",
+        "geometry": "http://example.org/Richradt_RohrschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Richradt_Schacht_Beatrix",
+        "name": "Richradt Schacht Beatrix",
+        "geometry": "http://example.org/Richradt_Schacht_BeatrixGeom"
+    },
+    {
+        "uri": "http://example.org/Richradt_Schacht_Dreckbank",
+        "name": "Richradt Schacht Dreckbank",
+        "geometry": "http://example.org/Richradt_Schacht_DreckbankGeom"
+    },
+    {
+        "uri": "http://example.org/Richradt_Schacht_Richradt",
+        "name": "Richradt Schacht Richradt",
+        "geometry": "http://example.org/Richradt_Schacht_RichradtGeom"
+    },
+    {
+        "uri": "http://example.org/Ringeltaube_Schacht_Meyer",
+        "name": "Ringeltaube Schacht Meyer",
+        "geometry": "http://example.org/Ringeltaube_Schacht_MeyerGeom"
+    },
+    {
+        "uri": "http://example.org/Robert_M\u00fcser_Schacht_Jacob",
+        "name": "Robert M\u00fcser Schacht Jacob",
+        "geometry": "http://example.org/Robert_M\u00fcser_Schacht_JacobGeom"
+    },
+    {
+        "uri": "http://example.org/Roland_Schacht_1",
+        "name": "Roland Schacht 1",
+        "geometry": "http://example.org/Roland_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Roland_Schacht_2",
+        "name": "Roland Schacht 2",
+        "geometry": "http://example.org/Roland_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Roland_Wetterschacht",
+        "name": "Roland Wetterschacht",
+        "geometry": "http://example.org/Roland_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Rosenblumendelle_Schacht_1",
+        "name": "Rosenblumendelle Schacht 1",
+        "geometry": "http://example.org/Rosenblumendelle_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Rosenblumendelle_Schacht_2",
+        "name": "Rosenblumendelle Schacht 2",
+        "geometry": "http://example.org/Rosenblumendelle_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Rosenblumendelle_Schacht_3",
+        "name": "Rosenblumendelle Schacht 3",
+        "geometry": "http://example.org/Rosenblumendelle_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Rosendelle_G\u00f6pelschacht_auf_Fl\u00f6z_Geitling_1",
+        "name": "Rosendelle G\u00f6pelschacht auf Fl\u00f6z Geitling 1",
+        "geometry": "http://example.org/Rosendelle_G\u00f6pelschacht_auf_Fl\u00f6z_Geitling_1Geom"
+    },
+    {
+        "uri": "http://example.org/Rosendelle_Tiefbauschacht",
+        "name": "Rosendelle Tiefbauschacht",
+        "geometry": "http://example.org/Rosendelle_TiefbauschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Rossenray_Schacht_1",
+        "name": "Rossenray Schacht 1",
+        "geometry": "http://example.org/Rossenray_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Rossenray_Schacht_2",
+        "name": "Rossenray Schacht 2",
+        "geometry": "http://example.org/Rossenray_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Rossenray_erster_Schacht",
+        "name": "Rossenray erster Schacht",
+        "geometry": "http://example.org/Rossenray_erster_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Rudolf_Schacht_Wilhelm",
+        "name": "Rudolf Schacht Wilhelm",
+        "geometry": "http://example.org/Rudolf_Schacht_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Sachsen_Schacht_1",
+        "name": "Sachsen Schacht 1",
+        "geometry": "http://example.org/Sachsen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Sachsen_Schacht_2",
+        "name": "Sachsen Schacht 2",
+        "geometry": "http://example.org/Sachsen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Sachsen_Schacht_3",
+        "name": "Sachsen Schacht 3",
+        "geometry": "http://example.org/Sachsen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Sachsen_Schacht_4",
+        "name": "Sachsen Schacht 4",
+        "geometry": "http://example.org/Sachsen_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Sachsen_Schacht_5",
+        "name": "Sachsen Schacht 5",
+        "geometry": "http://example.org/Sachsen_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Sandschacht",
+        "name": "Sandschacht",
+        "geometry": "http://example.org/SandschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Schacht_Eugen_Eickmann_Schacht_Barbara",
+        "name": "Schacht Eugen Eickmann Schacht Barbara",
+        "geometry": "http://example.org/Schacht_Eugen_Eickmann_Schacht_BarbaraGeom"
+    },
+    {
+        "uri": "http://example.org/Schacht_Eugen_Eickmann_Schacht_Gute_Hoffnung",
+        "name": "Schacht Eugen Eickmann Schacht Gute Hoffnung",
+        "geometry": "http://example.org/Schacht_Eugen_Eickmann_Schacht_Gute_HoffnungGeom"
+    },
+    {
+        "uri": "http://example.org/Schacht_Neuruhrort",
+        "name": "Schacht Neuruhrort",
+        "geometry": "http://example.org/Schacht_NeuruhrortGeom"
+    },
+    {
+        "uri": "http://example.org/Schacht_Prinz_Friedrich",
+        "name": "Schacht Prinz Friedrich",
+        "geometry": "http://example.org/Schacht_Prinz_FriedrichGeom"
+    },
+    {
+        "uri": "http://example.org/Scharnhorst_erster_Schacht",
+        "name": "Scharnhorst erster Schacht",
+        "geometry": "http://example.org/Scharnhorst_erster_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Scharnhorst_neuer_Schacht",
+        "name": "Scharnhorst neuer Schacht",
+        "geometry": "http://example.org/Scharnhorst_neuer_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Schleswig_Schacht_1",
+        "name": "Schleswig Schacht 1",
+        "geometry": "http://example.org/Schleswig_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Schleswig_Schacht_2",
+        "name": "Schleswig Schacht 2",
+        "geometry": "http://example.org/Schleswig_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_1",
+        "name": "Schl\u00e4gel & Eisen Schacht 1",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_2",
+        "name": "Schl\u00e4gel & Eisen Schacht 2",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_3",
+        "name": "Schl\u00e4gel & Eisen Schacht 3",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_4",
+        "name": "Schl\u00e4gel & Eisen Schacht 4",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_5",
+        "name": "Schl\u00e4gel & Eisen Schacht 5",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_6",
+        "name": "Schl\u00e4gel & Eisen Schacht 6",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_7",
+        "name": "Schl\u00e4gel & Eisen Schacht 7",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_8",
+        "name": "Schl\u00e4gel & Eisen Schacht 8",
+        "geometry": "http://example.org/Schl\u00e4gel_&_Eisen_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/Scholven_Schacht_1",
+        "name": "Scholven Schacht 1",
+        "geometry": "http://example.org/Scholven_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Scholven_Schacht_2",
+        "name": "Scholven Schacht 2",
+        "geometry": "http://example.org/Scholven_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Schurfschacht_Joachim",
+        "name": "Schurfschacht Joachim",
+        "geometry": "http://example.org/Schurfschacht_JoachimGeom"
+    },
+    {
+        "uri": "http://example.org/Schwarze_Adler_Schacht_Gumprecht",
+        "name": "Schwarze Adler Schacht Gumprecht",
+        "geometry": "http://example.org/Schwarze_Adler_Schacht_GumprechtGeom"
+    },
+    {
+        "uri": "http://example.org/Sch\u00f6lerpad_Schacht_B\u00fcckmann",
+        "name": "Sch\u00f6lerpad Schacht B\u00fcckmann",
+        "geometry": "http://example.org/Sch\u00f6lerpad_Schacht_B\u00fcckmannGeom"
+    },
+    {
+        "uri": "http://example.org/Sch\u00f6lerpad_Schacht_Fla\u00dfhoff",
+        "name": "Sch\u00f6lerpad Schacht Fla\u00dfhoff",
+        "geometry": "http://example.org/Sch\u00f6lerpad_Schacht_Fla\u00dfhoffGeom"
+    },
+    {
+        "uri": "http://example.org/Sch\u00f6lerpad_Schurfschacht",
+        "name": "Sch\u00f6lerpad Schurfschacht",
+        "geometry": "http://example.org/Sch\u00f6lerpad_SchurfschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_1",
+        "name": "Shamrock Schacht 1",
+        "geometry": "http://example.org/Shamrock_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_10",
+        "name": "Shamrock Schacht 10",
+        "geometry": "http://example.org/Shamrock_Schacht_10Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_11",
+        "name": "Shamrock Schacht 11",
+        "geometry": "http://example.org/Shamrock_Schacht_11Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_2",
+        "name": "Shamrock Schacht 2",
+        "geometry": "http://example.org/Shamrock_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_3",
+        "name": "Shamrock Schacht 3",
+        "geometry": "http://example.org/Shamrock_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_4",
+        "name": "Shamrock Schacht 4",
+        "geometry": "http://example.org/Shamrock_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_5",
+        "name": "Shamrock Schacht 5",
+        "geometry": "http://example.org/Shamrock_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_6",
+        "name": "Shamrock Schacht 6",
+        "geometry": "http://example.org/Shamrock_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_7",
+        "name": "Shamrock Schacht 7",
+        "geometry": "http://example.org/Shamrock_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_8",
+        "name": "Shamrock Schacht 8",
+        "geometry": "http://example.org/Shamrock_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/Shamrock_Schacht_9",
+        "name": "Shamrock Schacht 9",
+        "geometry": "http://example.org/Shamrock_Schacht_9Geom"
+    },
+    {
+        "uri": "http://example.org/Siebenplaneten_Schacht_1",
+        "name": "Siebenplaneten Schacht 1",
+        "geometry": "http://example.org/Siebenplaneten_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Siebenplaneten_Wetterschacht_2",
+        "name": "Siebenplaneten Wetterschacht 2",
+        "geometry": "http://example.org/Siebenplaneten_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Sprockh\u00f6vel_Schacht_Sprockh\u00f6vel",
+        "name": "Sprockh\u00f6vel Schacht Sprockh\u00f6vel",
+        "geometry": "http://example.org/Sprockh\u00f6vel_Schacht_Sprockh\u00f6velGeom"
+    },
+    {
+        "uri": "http://example.org/St._Barbara_F\u00f6rderschacht",
+        "name": "St. Barbara F\u00f6rderschacht",
+        "geometry": "http://example.org/St._Barbara_F\u00f6rderschachtGeom"
+    },
+    {
+        "uri": "http://example.org/St._Barbara_Luftschacht",
+        "name": "St. Barbara Luftschacht",
+        "geometry": "http://example.org/St._Barbara_LuftschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Sterkrade_Schacht_1",
+        "name": "Sterkrade Schacht 1",
+        "geometry": "http://example.org/Sterkrade_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Sterkrade_Schacht_2",
+        "name": "Sterkrade Schacht 2",
+        "geometry": "http://example.org/Sterkrade_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Teutoburgia_Schacht_1",
+        "name": "Teutoburgia Schacht 1",
+        "geometry": "http://example.org/Teutoburgia_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Teutoburgia_Schacht_2",
+        "name": "Teutoburgia Schacht 2",
+        "geometry": "http://example.org/Teutoburgia_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Theodor_Schacht_1",
+        "name": "Theodor Schacht 1",
+        "geometry": "http://example.org/Theodor_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Theodor_Schacht_2",
+        "name": "Theodor Schacht 2",
+        "geometry": "http://example.org/Theodor_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Theodor_Schacht_3",
+        "name": "Theodor Schacht 3",
+        "geometry": "http://example.org/Theodor_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Trappe_Schacht_Constanz",
+        "name": "Trappe Schacht Constanz",
+        "geometry": "http://example.org/Trappe_Schacht_ConstanzGeom"
+    },
+    {
+        "uri": "http://example.org/Tremonia_Schacht_1",
+        "name": "Tremonia Schacht 1",
+        "geometry": "http://example.org/Tremonia_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Tremonia_Schacht_2",
+        "name": "Tremonia Schacht 2",
+        "geometry": "http://example.org/Tremonia_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Tremonia_Wetterschacht_1",
+        "name": "Tremonia Wetterschacht 1",
+        "geometry": "http://example.org/Tremonia_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Tremonia_Wetterschacht_Sch\u00f6nau",
+        "name": "Tremonia Wetterschacht Sch\u00f6nau",
+        "geometry": "http://example.org/Tremonia_Wetterschacht_Sch\u00f6nauGeom"
+    },
+    {
+        "uri": "http://example.org/Unser_Fritz_Schacht_1",
+        "name": "Unser Fritz Schacht 1",
+        "geometry": "http://example.org/Unser_Fritz_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Unser_Fritz_Schacht_2",
+        "name": "Unser Fritz Schacht 2",
+        "geometry": "http://example.org/Unser_Fritz_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Unser_Fritz_Schacht_3",
+        "name": "Unser Fritz Schacht 3",
+        "geometry": "http://example.org/Unser_Fritz_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Unser_Fritz_Schacht_4",
+        "name": "Unser Fritz Schacht 4",
+        "geometry": "http://example.org/Unser_Fritz_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Unser_Fritz_Schacht_5",
+        "name": "Unser Fritz Schacht 5",
+        "geometry": "http://example.org/Unser_Fritz_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Urbanus_I_Schacht_Urbanus",
+        "name": "Urbanus I Schacht Urbanus",
+        "geometry": "http://example.org/Urbanus_I_Schacht_UrbanusGeom"
+    },
+    {
+        "uri": "http://example.org/Urbanus_Schacht_Friedrich_Wilhelm",
+        "name": "Urbanus Schacht Friedrich Wilhelm",
+        "geometry": "http://example.org/Urbanus_Schacht_Friedrich_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Engelsburg_Schacht_Freies_Feld",
+        "name": "Vereinigte Engelsburg Schacht Freies Feld",
+        "geometry": "http://example.org/Vereinigte_Engelsburg_Schacht_Freies_FeldGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Engelsburg_Schacht_Wilhelmsbank",
+        "name": "Vereinigte Engelsburg Schacht Wilhelmsbank",
+        "geometry": "http://example.org/Vereinigte_Engelsburg_Schacht_WilhelmsbankGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Engelsburg_Schacht_\u00dcbelg\u00fcnne",
+        "name": "Vereinigte Engelsburg Schacht \u00dcbelg\u00fcnne",
+        "geometry": "http://example.org/Vereinigte_Engelsburg_Schacht_\u00dcbelg\u00fcnneGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Aufbruch_zu_Tage_auf_der_Sts.",
+        "name": "Vereinigte General & Erbstollen Aufbruch zu Tage auf der Sts.",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Aufbruch_zu_Tage_auf_der_Sts.Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Aufhauen_in_Fl\u00f6z_Wilhelm",
+        "name": "Vereinigte General & Erbstollen Aufhauen in Fl\u00f6z Wilhelm",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Aufhauen_in_Fl\u00f6z_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Hilfsschacht",
+        "name": "Vereinigte General & Erbstollen Hilfsschacht",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_HilfsschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Luftschacht_in_Fl\u00f6z_Helene",
+        "name": "Vereinigte General & Erbstollen Luftschacht in Fl\u00f6z Helene",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Luftschacht_in_Fl\u00f6z_HeleneGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Luftschacht_in_Fl\u00f6z_R\u00f6ttgersbank",
+        "name": "Vereinigte General & Erbstollen Luftschacht in Fl\u00f6z R\u00f6ttgersbank",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Luftschacht_in_Fl\u00f6z_R\u00f6ttgersbankGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Luftschacht_in_Fl\u00f6z_R\u00f6ttgersbank_II",
+        "name": "Vereinigte General & Erbstollen Luftschacht in Fl\u00f6z R\u00f6ttgersbank II",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Luftschacht_in_Fl\u00f6z_R\u00f6ttgersbank_IIGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_1",
+        "name": "Vereinigte General & Erbstollen Schacht 1",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_2",
+        "name": "Vereinigte General & Erbstollen Schacht 2",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_3",
+        "name": "Vereinigte General & Erbstollen Schacht 3",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_Berger",
+        "name": "Vereinigte General & Erbstollen Schacht Berger",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_BergerGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_Johannes",
+        "name": "Vereinigte General & Erbstollen Schacht Johannes",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_JohannesGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_K\u00f6niggr\u00e4tz",
+        "name": "Vereinigte General & Erbstollen Schacht K\u00f6niggr\u00e4tz",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Schacht_K\u00f6niggr\u00e4tzGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Tages\u00fcberhauen_in_Fl\u00f6z_Pr\u00e4sident",
+        "name": "Vereinigte General & Erbstollen Tages\u00fcberhauen in Fl\u00f6z Pr\u00e4sident",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Tages\u00fcberhauen_in_Fl\u00f6z_Pr\u00e4sidentGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_General_&_Erbstollen_Wetterschacht_Heinrich_Albert",
+        "name": "Vereinigte General & Erbstollen Wetterschacht Heinrich Albert",
+        "geometry": "http://example.org/Vereinigte_General_&_Erbstollen_Wetterschacht_Heinrich_AlbertGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Luftschacht",
+        "name": "Vereinigte Himmelfahrt & St.Martin Luftschacht",
+        "geometry": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_LuftschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Luftschacht_Nr._581",
+        "name": "Vereinigte Himmelfahrt & St.Martin Luftschacht Nr. 581",
+        "geometry": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Luftschacht_Nr._581Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_Anton",
+        "name": "Vereinigte Himmelfahrt & St.Martin Schacht Anton",
+        "geometry": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_AntonGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_Bernhard",
+        "name": "Vereinigte Himmelfahrt & St.Martin Schacht Bernhard",
+        "geometry": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_BernhardGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_Christian",
+        "name": "Vereinigte Himmelfahrt & St.Martin Schacht Christian",
+        "geometry": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_ChristianGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_Conrad",
+        "name": "Vereinigte Himmelfahrt & St.Martin Schacht Conrad",
+        "geometry": "http://example.org/Vereinigte_Himmelfahrt_&_St.Martin_Schacht_ConradGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Himmelskrone_Schurfschacht",
+        "name": "Vereinigte Himmelskrone Schurfschacht",
+        "geometry": "http://example.org/Vereinigte_Himmelskrone_SchurfschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Luftschacht_auf_Fl\u00f6z_Sonnenschein_Utbk.",
+        "name": "Vereinigte Maria Anna & Steinbank Luftschacht auf Fl\u00f6z Sonnenschein Utbk.",
+        "geometry": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Luftschacht_auf_Fl\u00f6z_Sonnenschein_Utbk.Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_1",
+        "name": "Vereinigte Maria Anna & Steinbank Schacht 1",
+        "geometry": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_2",
+        "name": "Vereinigte Maria Anna & Steinbank Schacht 2",
+        "geometry": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_3",
+        "name": "Vereinigte Maria Anna & Steinbank Schacht 3",
+        "geometry": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_4",
+        "name": "Vereinigte Maria Anna & Steinbank Schacht 4",
+        "geometry": "http://example.org/Vereinigte_Maria_Anna_&_Steinbank_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Norm_Schacht_Norm",
+        "name": "Vereinigte Norm Schacht Norm",
+        "geometry": "http://example.org/Vereinigte_Norm_Schacht_NormGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_Luftschacht",
+        "name": "Vereinigte Sch\u00fcrbank & Charlottenburg Luftschacht",
+        "geometry": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_LuftschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_Schacht_1",
+        "name": "Vereinigte Sch\u00fcrbank & Charlottenburg Schacht 1",
+        "geometry": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_Schacht_2",
+        "name": "Vereinigte Sch\u00fcrbank & Charlottenburg Schacht 2",
+        "geometry": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_Wetterschacht_4",
+        "name": "Vereinigte Sch\u00fcrbank & Charlottenburg Wetterschacht 4",
+        "geometry": "http://example.org/Vereinigte_Sch\u00fcrbank_&_Charlottenburg_Wetterschacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sellerbeck_Schacht_Carnall",
+        "name": "Vereinigte Sellerbeck Schacht Carnall",
+        "geometry": "http://example.org/Vereinigte_Sellerbeck_Schacht_CarnallGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sellerbeck_Schacht_Christian",
+        "name": "Vereinigte Sellerbeck Schacht Christian",
+        "geometry": "http://example.org/Vereinigte_Sellerbeck_Schacht_ChristianGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sellerbeck_Schacht_Gertrud",
+        "name": "Vereinigte Sellerbeck Schacht Gertrud",
+        "geometry": "http://example.org/Vereinigte_Sellerbeck_Schacht_GertrudGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sellerbeck_Schacht_Humboldt",
+        "name": "Vereinigte Sellerbeck Schacht Humboldt",
+        "geometry": "http://example.org/Vereinigte_Sellerbeck_Schacht_HumboldtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sellerbeck_Schacht_M\u00fcller",
+        "name": "Vereinigte Sellerbeck Schacht M\u00fcller",
+        "geometry": "http://example.org/Vereinigte_Sellerbeck_Schacht_M\u00fcllerGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Sellerbeck_Wetterschacht",
+        "name": "Vereinigte Sellerbeck Wetterschacht",
+        "geometry": "http://example.org/Vereinigte_Sellerbeck_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Lichtloch_im_Stollen_Neue_Aque",
+        "name": "Vereinigte S\u00e4lzer & Neuack Lichtloch im Stollen Neue Aque",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Lichtloch_im_Stollen_Neue_AqueGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Maschinenschacht",
+        "name": "Vereinigte S\u00e4lzer & Neuack Maschinenschacht",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_MaschinenschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Arnold",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Arnold",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_ArnoldGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Friederike",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Friederike",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_FriederikeGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Heinrich",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Heinrich",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_HeinrichGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Hoffnung",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Hoffnung",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_HoffnungGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Huyssen",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Huyssen",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_HuyssenGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Josina",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Josina",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_JosinaGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Peter",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Peter",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_PeterGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Philipp",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Philipp",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_PhilippGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Schmits",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Schmits",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_SchmitsGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Waldthausen",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Waldthausen",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_WaldthausenGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_Zuflucht",
+        "name": "Vereinigte S\u00e4lzer & Neuack Schacht Zuflucht",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Schacht_ZufluchtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Sp\u00fclschacht",
+        "name": "Vereinigte S\u00e4lzer & Neuack Sp\u00fclschacht",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Sp\u00fclschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Versuchsschacht_auf_Dreckbank",
+        "name": "Vereinigte S\u00e4lzer & Neuack Versuchsschacht auf Dreckbank",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Versuchsschacht_auf_DreckbankGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_Wetterschacht",
+        "name": "Vereinigte S\u00e4lzer & Neuack Wetterschacht",
+        "geometry": "http://example.org/Vereinigte_S\u00e4lzer_&_Neuack_WetterschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Trappe_Schacht_Friederica",
+        "name": "Vereinigte Trappe Schacht Friederica",
+        "geometry": "http://example.org/Vereinigte_Trappe_Schacht_FriedericaGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Trappe_Schacht_Voerster",
+        "name": "Vereinigte Trappe Schacht Voerster",
+        "geometry": "http://example.org/Vereinigte_Trappe_Schacht_VoersterGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Trappe_Schacht_Wilhelm",
+        "name": "Vereinigte Trappe Schacht Wilhelm",
+        "geometry": "http://example.org/Vereinigte_Trappe_Schacht_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Welheim_Schacht_1",
+        "name": "Vereinigte Welheim Schacht 1",
+        "geometry": "http://example.org/Vereinigte_Welheim_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vereinigte_Welheim_Schacht_2",
+        "name": "Vereinigte Welheim Schacht 2",
+        "geometry": "http://example.org/Vereinigte_Welheim_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Victor_Schacht_1",
+        "name": "Victor Schacht 1",
+        "geometry": "http://example.org/Victor_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Victor_Schacht_2",
+        "name": "Victor Schacht 2",
+        "geometry": "http://example.org/Victor_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Victor_Schacht_3",
+        "name": "Victor Schacht 3",
+        "geometry": "http://example.org/Victor_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Victor_Schacht_4",
+        "name": "Victor Schacht 4",
+        "geometry": "http://example.org/Victor_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Victor_Schacht_5",
+        "name": "Victor Schacht 5",
+        "geometry": "http://example.org/Victor_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Victor_Schacht_6",
+        "name": "Victor Schacht 6",
+        "geometry": "http://example.org/Victor_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Mathias_Schacht_1",
+        "name": "Victoria Mathias Schacht 1",
+        "geometry": "http://example.org/Victoria_Mathias_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Mathias_Schacht_2",
+        "name": "Victoria Mathias Schacht 2",
+        "geometry": "http://example.org/Victoria_Mathias_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Mathias_Schacht_Mathias",
+        "name": "Victoria Mathias Schacht Mathias",
+        "geometry": "http://example.org/Victoria_Mathias_Schacht_MathiasGeom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Mathias_Wetterschacht_1",
+        "name": "Victoria Mathias Wetterschacht 1",
+        "geometry": "http://example.org/Victoria_Mathias_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Mathias_Wetterschacht_2",
+        "name": "Victoria Mathias Wetterschacht 2",
+        "geometry": "http://example.org/Victoria_Mathias_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Schacht_1_(L\u00fcnen)",
+        "name": "Victoria Schacht 1 (L\u00fcnen)",
+        "geometry": "http://example.org/Victoria_Schacht_1_(L\u00fcnen)Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Schacht_2",
+        "name": "Victoria Schacht 2",
+        "geometry": "http://example.org/Victoria_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Schacht_2_(L\u00fcnen)",
+        "name": "Victoria Schacht 2 (L\u00fcnen)",
+        "geometry": "http://example.org/Victoria_Schacht_2_(L\u00fcnen)Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Schacht_3",
+        "name": "Victoria Schacht 3",
+        "geometry": "http://example.org/Victoria_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Schacht_3_(L\u00fcnen)",
+        "name": "Victoria Schacht 3 (L\u00fcnen)",
+        "geometry": "http://example.org/Victoria_Schacht_3_(L\u00fcnen)Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Schacht_4_(L\u00fcnen)",
+        "name": "Victoria Schacht 4 (L\u00fcnen)",
+        "geometry": "http://example.org/Victoria_Schacht_4_(L\u00fcnen)Geom"
+    },
+    {
+        "uri": "http://example.org/Victoria_Wetterkamin",
+        "name": "Victoria Wetterkamin",
+        "geometry": "http://example.org/Victoria_WetterkaminGeom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_G\u00f6pelschacht",
+        "name": "Vollmond G\u00f6pelschacht",
+        "geometry": "http://example.org/Vollmond_G\u00f6pelschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Lichtloch_1",
+        "name": "Vollmond Lichtloch 1",
+        "geometry": "http://example.org/Vollmond_Lichtloch_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Lichtloch_2",
+        "name": "Vollmond Lichtloch 2",
+        "geometry": "http://example.org/Vollmond_Lichtloch_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Lichtloch_3",
+        "name": "Vollmond Lichtloch 3",
+        "geometry": "http://example.org/Vollmond_Lichtloch_3Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Maschinenschacht",
+        "name": "Vollmond Maschinenschacht",
+        "geometry": "http://example.org/Vollmond_MaschinenschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Schacht_1",
+        "name": "Vollmond Schacht 1",
+        "geometry": "http://example.org/Vollmond_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Schacht_2",
+        "name": "Vollmond Schacht 2",
+        "geometry": "http://example.org/Vollmond_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Schacht_Romberg",
+        "name": "Vollmond Schacht Romberg",
+        "geometry": "http://example.org/Vollmond_Schacht_RombergGeom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Schacht_Victoria",
+        "name": "Vollmond Schacht Victoria",
+        "geometry": "http://example.org/Vollmond_Schacht_VictoriaGeom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_Wetterschacht_2",
+        "name": "Vollmond Wetterschacht 2",
+        "geometry": "http://example.org/Vollmond_Wetterschacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_unbekannter_Schacht_1",
+        "name": "Vollmond unbekannter Schacht 1",
+        "geometry": "http://example.org/Vollmond_unbekannter_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_unbekannter_Schacht_2",
+        "name": "Vollmond unbekannter Schacht 2",
+        "geometry": "http://example.org/Vollmond_unbekannter_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vollmond_unbekannter_Schacht_3",
+        "name": "Vollmond unbekannter Schacht 3",
+        "geometry": "http://example.org/Vollmond_unbekannter_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Von_der_Heydt_Schacht_1",
+        "name": "Von der Heydt Schacht 1",
+        "geometry": "http://example.org/Von_der_Heydt_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Von_der_Heydt_Schacht_2",
+        "name": "Von der Heydt Schacht 2",
+        "geometry": "http://example.org/Von_der_Heydt_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Vondern_Schacht_1",
+        "name": "Vondern Schacht 1",
+        "geometry": "http://example.org/Vondern_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Vondern_Schacht_2",
+        "name": "Vondern Schacht 2",
+        "geometry": "http://example.org/Vondern_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Walfisch",
+        "name": "Walfisch",
+        "geometry": "http://example.org/WalfischGeom"
+    },
+    {
+        "uri": "http://example.org/Wallach_Schacht_1",
+        "name": "Wallach Schacht 1",
+        "geometry": "http://example.org/Wallach_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Wallach_Schacht_2",
+        "name": "Wallach Schacht 2",
+        "geometry": "http://example.org/Wallach_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Walsum_Schacht_1",
+        "name": "Walsum Schacht 1",
+        "geometry": "http://example.org/Walsum_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Walsum_Schacht_2",
+        "name": "Walsum Schacht 2",
+        "geometry": "http://example.org/Walsum_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Walsum_Schacht_Voerde",
+        "name": "Walsum Schacht Voerde",
+        "geometry": "http://example.org/Walsum_Schacht_VoerdeGeom"
+    },
+    {
+        "uri": "http://example.org/Walsum_Wetterschacht_Rheinberg",
+        "name": "Walsum Wetterschacht Rheinberg",
+        "geometry": "http://example.org/Walsum_Wetterschacht_RheinbergGeom"
+    },
+    {
+        "uri": "http://example.org/Waltrop_Schacht_1",
+        "name": "Waltrop Schacht 1",
+        "geometry": "http://example.org/Waltrop_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Waltrop_Schacht_2",
+        "name": "Waltrop Schacht 2",
+        "geometry": "http://example.org/Waltrop_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Waltrop_Schacht_3",
+        "name": "Waltrop Schacht 3",
+        "geometry": "http://example.org/Waltrop_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Wasserschneppe_Schacht_Franz",
+        "name": "Wasserschneppe Schacht Franz",
+        "geometry": "http://example.org/Wasserschneppe_Schacht_FranzGeom"
+    },
+    {
+        "uri": "http://example.org/Wasserschneppe_Schacht_Jacob",
+        "name": "Wasserschneppe Schacht Jacob",
+        "geometry": "http://example.org/Wasserschneppe_Schacht_JacobGeom"
+    },
+    {
+        "uri": "http://example.org/Wehofen_Schacht_1",
+        "name": "Wehofen Schacht 1",
+        "geometry": "http://example.org/Wehofen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Wehofen_Schacht_2",
+        "name": "Wehofen Schacht 2",
+        "geometry": "http://example.org/Wehofen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Werne_Schacht_1",
+        "name": "Werne Schacht 1",
+        "geometry": "http://example.org/Werne_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Werne_Schacht_2",
+        "name": "Werne Schacht 2",
+        "geometry": "http://example.org/Werne_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Werne_Schacht_3",
+        "name": "Werne Schacht 3",
+        "geometry": "http://example.org/Werne_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Werne_Schacht_4",
+        "name": "Werne Schacht 4",
+        "geometry": "http://example.org/Werne_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Westende_Schacht_1",
+        "name": "Westende Schacht 1",
+        "geometry": "http://example.org/Westende_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Westende_Schacht_2",
+        "name": "Westende Schacht 2",
+        "geometry": "http://example.org/Westende_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Westende_Schacht_3",
+        "name": "Westende Schacht 3",
+        "geometry": "http://example.org/Westende_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Westende_Schacht_4",
+        "name": "Westende Schacht 4",
+        "geometry": "http://example.org/Westende_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Westerholt_Schacht_1",
+        "name": "Westerholt Schacht 1",
+        "geometry": "http://example.org/Westerholt_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Westerholt_Schacht_2",
+        "name": "Westerholt Schacht 2",
+        "geometry": "http://example.org/Westerholt_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Westerholt_Schacht_3",
+        "name": "Westerholt Schacht 3",
+        "geometry": "http://example.org/Westerholt_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Westerholt_Wetterschacht_Altendorf",
+        "name": "Westerholt Wetterschacht Altendorf",
+        "geometry": "http://example.org/Westerholt_Wetterschacht_AltendorfGeom"
+    },
+    {
+        "uri": "http://example.org/Westfalen_Schacht_1",
+        "name": "Westfalen Schacht 1",
+        "geometry": "http://example.org/Westfalen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Westfalen_Schacht_2",
+        "name": "Westfalen Schacht 2",
+        "geometry": "http://example.org/Westfalen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Westfalen_Schacht_3",
+        "name": "Westfalen Schacht 3",
+        "geometry": "http://example.org/Westfalen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Westfalen_Schacht_4",
+        "name": "Westfalen Schacht 4",
+        "geometry": "http://example.org/Westfalen_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Westfalen_Schacht_5",
+        "name": "Westfalen Schacht 5",
+        "geometry": "http://example.org/Westfalen_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Westfalen_Schacht_6",
+        "name": "Westfalen Schacht 6",
+        "geometry": "http://example.org/Westfalen_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Westfalen_Schacht_7",
+        "name": "Westfalen Schacht 7",
+        "geometry": "http://example.org/Westfalen_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Westhausen_Schacht_1",
+        "name": "Westhausen Schacht 1",
+        "geometry": "http://example.org/Westhausen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Westhausen_Schacht_2",
+        "name": "Westhausen Schacht 2",
+        "geometry": "http://example.org/Westhausen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Westhausen_Schacht_3",
+        "name": "Westhausen Schacht 3",
+        "geometry": "http://example.org/Westhausen_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Westphalia_Schacht_1",
+        "name": "Westphalia Schacht 1",
+        "geometry": "http://example.org/Westphalia_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Westphalia_Schacht_2",
+        "name": "Westphalia Schacht 2",
+        "geometry": "http://example.org/Westphalia_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Wetterschacht_Am_Bremberg",
+        "name": "Wetterschacht Am Bremberg",
+        "geometry": "http://example.org/Wetterschacht_Am_BrembergGeom"
+    },
+    {
+        "uri": "http://example.org/Wiendahlsbank_Luftschacht_in_Fl\u00f6z_Girondelle_2",
+        "name": "Wiendahlsbank Luftschacht in Fl\u00f6z Girondelle 2",
+        "geometry": "http://example.org/Wiendahlsbank_Luftschacht_in_Fl\u00f6z_Girondelle_2Geom"
+    },
+    {
+        "uri": "http://example.org/Wiendahlsbank_Luftschacht_in_Fl\u00f6z_Girondelle_3",
+        "name": "Wiendahlsbank Luftschacht in Fl\u00f6z Girondelle 3",
+        "geometry": "http://example.org/Wiendahlsbank_Luftschacht_in_Fl\u00f6z_Girondelle_3Geom"
+    },
+    {
+        "uri": "http://example.org/Wiendahlsbank_Schacht_Friedrich",
+        "name": "Wiendahlsbank Schacht Friedrich",
+        "geometry": "http://example.org/Wiendahlsbank_Schacht_FriedrichGeom"
+    },
+    {
+        "uri": "http://example.org/Wiendahlsbank_Schacht_Wilhelm",
+        "name": "Wiendahlsbank Schacht Wilhelm",
+        "geometry": "http://example.org/Wiendahlsbank_Schacht_WilhelmGeom"
+    },
+    {
+        "uri": "http://example.org/Wiendahlsbank_Wetterschacht_1",
+        "name": "Wiendahlsbank Wetterschacht 1",
+        "geometry": "http://example.org/Wiendahlsbank_Wetterschacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Bergeschacht",
+        "name": "Wiesche Bergeschacht",
+        "geometry": "http://example.org/Wiesche_BergeschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Schacht_1",
+        "name": "Wiesche Schacht 1",
+        "geometry": "http://example.org/Wiesche_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Schacht_2",
+        "name": "Wiesche Schacht 2",
+        "geometry": "http://example.org/Wiesche_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Schacht_Friedrich",
+        "name": "Wiesche Schacht Friedrich",
+        "geometry": "http://example.org/Wiesche_Schacht_FriedrichGeom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Schacht_Leybank",
+        "name": "Wiesche Schacht Leybank",
+        "geometry": "http://example.org/Wiesche_Schacht_LeybankGeom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Schacht_Vereinigung",
+        "name": "Wiesche Schacht Vereinigung",
+        "geometry": "http://example.org/Wiesche_Schacht_VereinigungGeom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Schacht_Wilhelmine",
+        "name": "Wiesche Schacht Wilhelmine",
+        "geometry": "http://example.org/Wiesche_Schacht_WilhelmineGeom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Wetterschacht_Frohnhauser_Mulde",
+        "name": "Wiesche Wetterschacht Frohnhauser Mulde",
+        "geometry": "http://example.org/Wiesche_Wetterschacht_Frohnhauser_MuldeGeom"
+    },
+    {
+        "uri": "http://example.org/Wiesche_Wetterschacht_Velau",
+        "name": "Wiesche Wetterschacht Velau",
+        "geometry": "http://example.org/Wiesche_Wetterschacht_VelauGeom"
+    },
+    {
+        "uri": "http://example.org/Wilhelmine_Victoria_Schacht_1",
+        "name": "Wilhelmine Victoria Schacht 1",
+        "geometry": "http://example.org/Wilhelmine_Victoria_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Wilhelmine_Victoria_Schacht_2",
+        "name": "Wilhelmine Victoria Schacht 2",
+        "geometry": "http://example.org/Wilhelmine_Victoria_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Wilhelmine_Victoria_Schacht_3",
+        "name": "Wilhelmine Victoria Schacht 3",
+        "geometry": "http://example.org/Wilhelmine_Victoria_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Wilhelmine_Victoria_Schacht_4",
+        "name": "Wilhelmine Victoria Schacht 4",
+        "geometry": "http://example.org/Wilhelmine_Victoria_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Wohlverwahrt_Schacht",
+        "name": "Wohlverwahrt Schacht",
+        "geometry": "http://example.org/Wohlverwahrt_SchachtGeom"
+    },
+    {
+        "uri": "http://example.org/Wolfsbank_Schacht_1",
+        "name": "Wolfsbank Schacht 1",
+        "geometry": "http://example.org/Wolfsbank_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Wolfsbank_Schacht_2",
+        "name": "Wolfsbank Schacht 2",
+        "geometry": "http://example.org/Wolfsbank_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Wolfsbank_Schacht_3",
+        "name": "Wolfsbank Schacht 3",
+        "geometry": "http://example.org/Wolfsbank_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Wulfen_Schacht_1",
+        "name": "Wulfen Schacht 1",
+        "geometry": "http://example.org/Wulfen_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Wulfen_Schacht_2",
+        "name": "Wulfen Schacht 2",
+        "geometry": "http://example.org/Wulfen_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Zeche_Fortuna_(Bochum)_F\u00f6rderschacht",
+        "name": "Zeche Fortuna (Bochum) F\u00f6rderschacht",
+        "geometry": "http://example.org/Zeche_Fortuna_(Bochum)_F\u00f6rderschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Zollern_Ostschacht",
+        "name": "Zollern Ostschacht",
+        "geometry": "http://example.org/Zollern_OstschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Zollern_Schacht_1",
+        "name": "Zollern Schacht 1",
+        "geometry": "http://example.org/Zollern_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Zollern_Schacht_2",
+        "name": "Zollern Schacht 2",
+        "geometry": "http://example.org/Zollern_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Zollern_Schacht_3",
+        "name": "Zollern Schacht 3",
+        "geometry": "http://example.org/Zollern_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Zollern_Schacht_4",
+        "name": "Zollern Schacht 4",
+        "geometry": "http://example.org/Zollern_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Zollern_Westschacht",
+        "name": "Zollern Westschacht",
+        "geometry": "http://example.org/Zollern_WestschachtGeom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_1",
+        "name": "Zollverein Schacht 1",
+        "geometry": "http://example.org/Zollverein_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_10",
+        "name": "Zollverein Schacht 10",
+        "geometry": "http://example.org/Zollverein_Schacht_10Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_11",
+        "name": "Zollverein Schacht 11",
+        "geometry": "http://example.org/Zollverein_Schacht_11Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_12",
+        "name": "Zollverein Schacht 12",
+        "geometry": "http://example.org/Zollverein_Schacht_12Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_2",
+        "name": "Zollverein Schacht 2",
+        "geometry": "http://example.org/Zollverein_Schacht_2Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_3",
+        "name": "Zollverein Schacht 3",
+        "geometry": "http://example.org/Zollverein_Schacht_3Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_4",
+        "name": "Zollverein Schacht 4",
+        "geometry": "http://example.org/Zollverein_Schacht_4Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_5",
+        "name": "Zollverein Schacht 5",
+        "geometry": "http://example.org/Zollverein_Schacht_5Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_6",
+        "name": "Zollverein Schacht 6",
+        "geometry": "http://example.org/Zollverein_Schacht_6Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_7",
+        "name": "Zollverein Schacht 7",
+        "geometry": "http://example.org/Zollverein_Schacht_7Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_8",
+        "name": "Zollverein Schacht 8",
+        "geometry": "http://example.org/Zollverein_Schacht_8Geom"
+    },
+    {
+        "uri": "http://example.org/Zollverein_Schacht_9",
+        "name": "Zollverein Schacht 9",
+        "geometry": "http://example.org/Zollverein_Schacht_9Geom"
+    },
+    {
+        "uri": "http://example.org/Zweckel_Schacht_1",
+        "name": "Zweckel Schacht 1",
+        "geometry": "http://example.org/Zweckel_Schacht_1Geom"
+    },
+    {
+        "uri": "http://example.org/Zweckel_Schacht_2",
+        "name": "Zweckel Schacht 2",
+        "geometry": "http://example.org/Zweckel_Schacht_2Geom"
+    }
+]
